@@ -8,7 +8,7 @@
 |---:|---|---|---|---|
 | **1** | **Katowice, Polen** | Medizinische Universität DS1/2, Gästezimmer; eigenes Schlafzimmer, Bad im Segment geteilt | 2026-Tarif für 28 Nächte rechnerisch **ca. 355 €**; externe Azubi-Aufnahme und Verfügbarkeit 2027 offen | Krakau, historische Viertel, Schlesisches Museum, Pszczyna, Beskiden, Parks und weitere bezahlte Museen/Erlebnisse |
 | **2** | **Brno / Brünn, Tschechien** | Privates Schlafzimmer in WG, alternativ Gästezimmer der Mendel-Uni | Private Angebote **ab ca. 475 € / 30 Tage**, aber **kein verbindlicher 28-Nächte-Preis**; Uni-Gästezimmer auf Anfrage | Mährischer Karst und Höhlen, Altstadt, Brünner Burg, Olomouc, Wien, Museen |
-| **3** | **Maribor, Slowenien** | TŠC Einzel-Gästezimmer; günstigeres TOMI-Monatszimmer müsste erst für 28 Nächte zugesagt werden | TŠC **28 €/Nacht, rechnerisch 784 €/28 Nächte**. Uni Dom 7 ist ein geteilter Schlafraum und **keine gleichwertige Option** | Pohorje zum Wandern, Ptuj, Graz, Stadtmuseen, Parks, Schlösser |
+| **3** | **Žilina, Slowakei** | Hliny V, Universität Žilina: Gäste-Einzelapartment H3 mit **eigenem Bad** und Gemeinschaftsküche; günstigere Einzelbelegung in weiteren Zimmerkategorien möglich | Offizielle veröffentlichte Rate bei Aufenthalten ab 11 Nächten **17 €/Nacht = 476 € für 28 Nächte**, zzgl. ggf. Abgaben; **2027-Verfügbarkeit und Azubi-Aufnahme noch offen** | Strečno-Burg, Malá Fatra, Terchová, Vrátna, Wanderungen und weitere Tagesausflüge |
 
 ### Verbindliche Prioritäten
 
@@ -19,9 +19,9 @@
 
 **Fachliche Voraussetzung unabhängig von den Kriterien:** Passender vierwöchiger Elektrotechnik-Betrieb mit englischer Betreuung und englischsprachiger Sicherheitseinweisung (B1) muss zugesagt sein. Die Schule unterstützt bei Betrieb und Unterkunft, übernimmt aber nicht automatisch deren Kosten.
 
-**Vorläufiges Fazit:** Katowice ist bei greifbaren günstigen Gästezimmern vorne. Brno hat weitere Einzelzimmeransätze und wird **vor Maribor hinsichtlich Unterkunft geprüft**. Maribor kann zurück aufsteigen, falls die Schule tatsächlich ein bezahlbares Einzelzimmer für genau vier Wochen organisiert. **Endgültiger Gewinner erst nach Zimmerzusage, Förderrechnung und Betriebsbestätigung.**
+**Vorläufiges Fazit:** Katowice bleibt Platz 1, Brno Platz 2 und **Žilina ist neu Platz 3 statt Maribor**. Žilina bietet mit Hliny V eine deutlich passendere öffentlich bepreiste Option für ein eigenes Zimmer mit eigenem Bad als die bisherige Maribor-Gästeunterkunft. **Keine Unterkunft oder Praktikumsstelle ist für Sommer 2027 bestätigt.** Endgültige Entscheidung nur mit 28-Nächte-Gesamtpreis, Erasmus-Förderhöhe und Betriebszusage.
 
-Weitere Angaben/Kontakte: [Unterkunftsvergleich](Unterkunftsvergleich-Top3-2027.md), [Katowice Vierwochenplan](Katowice-4-Wochen-Plan-2027.md), [Maribor Vierwochenplan](Maribor-4-Wochen-Plan-2027.md).
+Weitere Angaben/Kontakte: [Unterkunftsvergleich](Unterkunftsvergleich-Top3-2027.md), [Katowice Vierwochenplan](Katowice-4-Wochen-Plan-2027.md), [Fünf-Länder-Vergleich inklusive Žilina](Laendercheck-Slowenien-Ungarn-Slowakei-Rumaenien-Bulgarien-2027.md). [Maribor-Plan](Maribor-4-Wochen-Plan-2027.md) bleibt als historischer Alternativkandidat.
 
 ## Quellen / Einstiegsseiten
 
@@ -30,3 +30,6 @@ Weitere Angaben/Kontakte: [Unterkunftsvergleich](Unterkunftsvergleich-Top3-2027.
 - https://www.tscmb.si/dijaski-dom/cenik/
 - https://student-tomi.eu/en/
 - https://erasmus-plus.ec.europa.eu/opportunities/individuals/trainees/vocational-education-learners-apprenticeships-and-recent-graduates
+
+
+- Hliny V, Universität Žilina, Gästeunterkünfte/Preisliste: https://hliny.internaty.sk/ (Kontakt: recepcia-3@uniza.sk; bitte Preis, Zimmerart und 2027-Verfügbarkeit bestätigen lassen).
