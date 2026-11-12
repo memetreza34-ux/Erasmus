@@ -1,45 +1,32 @@
-# Erasmus 2027: neue Top 3 aus drei verschiedenen EU-Ländern
+# Erasmus 2027 – Top 3 aus drei EU-Ländern (Unterkunft zuerst)
 
-**Stand:** 12.11.2026, vorläufig. Vier Wochen zwischen Anfang Juni und Ende August 2027 für einen deutschen Auszubildenden zum Elektroniker für Betriebstechnik, ca. B1-Englisch. Schule hilft bei Betrieb und Unterkunft. Möglichst eigenes Zimmer, viel Entdecken mit Rucksack und ÖPNV, Tagesausflüge bis ca. drei Stunden je Strecke, höchstens 400 € Eigenanteil **zusätzlich** zur noch unbekannten Erasmus+-Förderung.
+**Aktueller Stand: 12. November 2026.** Die maßgeblichen [Prioritäten stehen in der README](README.md). Bisherige Ergebnisse sind vorläufig: **keine Wohnungsreservierung und keine verbindliche vierwöchige Praktikumszusage**.
 
-## Die neue Top 3 (pro Land genau eine Stadt)
+## Neue Reihenfolge zum Prüfen (Unterkunft zuerst)
 
-1. **Katowice, Polen:** Voraussichtlich günstigste/alltagstaugliche Kombination, Industrieautomatisierung und Elektroreparatur, per Bahn Krakau und Beskiden erreichbar. Beispiele: Lektronix/Rockwell Automation, Hitin. Einschränkung: Das öffentlich ausgeschriebene Rockwell-Programm ist 6 Monate und für Studierende, nicht als Zusage für vier Wochen verstehen.
-2. **Maribor, Slowenien:** Besonders gut zum Wandern ohne Auto, die Pohorje-Seilbahn ist per Stadtbus erreichbar; Ptuj und Graz als Tagesausflüge. Beispiele für elektrische Automation: DELEKTRO, Elipron, SMM Production Systems. Einschränkung: Kürzeres städtisches Freizeitangebot als in größeren Städten; die passende praktische Betreuung und Kurzzeitunterkunft sind offen.
-3. **Brno (Brünn), Tschechien:** Beste technische Alternative außerhalb Polens: Industrietechnik in und um Brno, Straßenbahnen, Burgen, Mährischer Karst mit Höhlen, Olomouc und Wien erreichbar. Beispiele: ICE Industrial Services (Niederlassung Brno-Slatina), ACAM Solution, AXIMA Automation. Einschränkung: Ferien- und Kurzzeitunterkunftskosten prüfen; Ausflüge in einzelne ländliche Gebiete können Umstiege erfordern.
+| Rang | Ort / Land | Eigene Zimmer – bisherige Optionen | Wohnen/Kosten | Ausflugsvielfalt |
+|---:|---|---|---|---|
+| **1** | **Katowice, Polen** | Medizinische Universität DS1/2, Gästezimmer; eigenes Schlafzimmer, Bad im Segment geteilt | 2026-Tarif für 28 Nächte rechnerisch **ca. 355 €**; externe Azubi-Aufnahme und Verfügbarkeit 2027 offen | Krakau, historische Viertel, Schlesisches Museum, Pszczyna, Beskiden, Parks und weitere bezahlte Museen/Erlebnisse |
+| **2** | **Brno / Brünn, Tschechien** | Privates Schlafzimmer in WG, alternativ Gästezimmer der Mendel-Uni | Private Angebote **ab ca. 475 € / 30 Tage**, aber **kein verbindlicher 28-Nächte-Preis**; Uni-Gästezimmer auf Anfrage | Mährischer Karst und Höhlen, Altstadt, Brünner Burg, Olomouc, Wien, Museen |
+| **3** | **Maribor, Slowenien** | TŠC Einzel-Gästezimmer; günstigeres TOMI-Monatszimmer müsste erst für 28 Nächte zugesagt werden | TŠC **28 €/Nacht, rechnerisch 784 €/28 Nächte**. Uni Dom 7 ist ein geteilter Schlafraum und **keine gleichwertige Option** | Pohorje zum Wandern, Ptuj, Graz, Stadtmuseen, Parks, Schlösser |
 
-## Vergleich
+### Verbindliche Prioritäten
 
-| Kriterium | Katowice / Polen | Maribor / Slowenien | Brno / Tschechien |
-|---|---|---|---|
-| Voraussichtliches Preisniveau | günstig | mittel | mittel |
-| Vierwöchiger Erasmus-Platz | offen | offen | offen |
-| Fachlich passende Firmen | Industrieautomation/Elektroreparatur | Elektroinstallation, SPS, Automation | breites Industrieautomationsumfeld |
-| Unterschiedliche Ausflüge | Krakau, Pszczyna, Beskiden | Pohorje, Ptuj, Graz | Mährischer Karst, Wien, Olomouc |
-| Natur und Wandern ohne Auto | gut | sehr gut | gut |
-| Städtische Abwechslung | sehr gut | gut | sehr gut |
-| Sommer | warm | warm, Gewitter möglich | warm, teils heiß |
-| Anreise ab Berlin | mittel | länger | mittel |
-| Schwäche | Rockwell-Programm nicht für vier Wochen | weniger Betriebsauswahl / Wohnung offen | mögliche Wohnkosten + Überfüllung an Hotspots |
+1. **Unterkunft**: echtes **eigenes Schlafzimmer** (nicht Mehrbettzimmer); eigenes Bad **stark bevorzugt**, aber gemeinsames Bad als Kompromiss okay; **Gemeinschaftsküche ausdrücklich okay**. Sauber, sicher, ÖPNV, WLAN, Privatsphäre. Für vier Wochen im Sommer 2027 tatsächlich für einen deutschen Erasmus-Auszubildenden buchbar, mit vollständigem Endpreis.
+2. **Günstiger Gesamtaufenthalt**: Unterkunft **plus** Essen, Anreise, Stadtverkehr, Museumseintritte, andere bezahlte Aktivitäten und Reserve. Nach Erasmus+-Förderung **höchstens 400 € eigener Zusatzbetrag** (Förderhöhe noch unbekannt).
+3. **Sehr viel zu sehen und zu tun**: Neben Wandern/Natur auch Altstadt, Burgen, Technik, Kultur, Museen, Veranstaltungen und **kostenpflichtige Erlebnisse**. Alltagsausflüge nach der Arbeit und sehr viele Optionen für Wochenenden ohne Auto, bis ca. drei Stunden Weg je Richtung. Ein abwechslungsreicher Vierwochen-Aufenthalt, nicht nur Strand oder ein einziges Tagesziel.
+4. **Bequemlichkeit**: kurzer Arbeitsweg mit ÖPNV, einfache Organisation, akzeptable Hitze und Tourismus.
 
-**Vorläufiger Gewinner:** Katowice für das Gesamtpaket, **Maribor für Rucksack- und Wandererlebnisse**, **Brno für Technik und Städteausflüge**. Kein Pseudo-Präzisionsscore: Die entscheidenden Daten (4-Wochen-Zusage auf Englisch und ein tatsächlicher Preis für ein Einzelzimmer) fehlen für alle drei. Sobald ein konkretes Angebot da ist, kann sich die Reihenfolge ändern.
+**Fachliche Voraussetzung unabhängig von den Kriterien:** Passender vierwöchiger Elektrotechnik-Betrieb mit englischer Betreuung und englischsprachiger Sicherheitseinweisung (B1) muss zugesagt sein. Die Schule unterstützt bei Betrieb und Unterkunft, übernimmt aber nicht automatisch deren Kosten.
 
-## Was die Schule parallel klären sollte
+**Vorläufiges Fazit:** Katowice ist bei greifbaren günstigen Gästezimmern vorne. Brno hat weitere Einzelzimmeransätze und wird **vor Maribor hinsichtlich Unterkunft geprüft**. Maribor kann zurück aufsteigen, falls die Schule tatsächlich ein bezahlbares Einzelzimmer für genau vier Wochen organisiert. **Endgültiger Gewinner erst nach Zimmerzusage, Förderrechnung und Betriebsbestätigung.**
 
-- Für exakt 4 Wochen im Sommer 2027 ist ein berufliches Praktikum möglich? Welche praktischen, betreuten Aufgaben und englischsprachigen Sicherheitsunterweisungen stehen tatsächlich zur Verfügung?
-- Welche Einzelzimmer-Unterkunft gibt es, mit Küche, ÖPNV-Weg zum Betrieb und festem 28-Nächte-Preis?
-- Wie hoch ist der Erasmus+-Zuschuss (inkl. Reise- und Aufenthaltskosten)? Reicht das für maximal 400 € eigenen Zusatzaufwand?
-- Gibt es Betriebsferien oder Sprachvoraussetzungen?
+Weitere Angaben/Kontakte: [Unterkunftsvergleich](Unterkunftsvergleich-Top3-2027.md), [Katowice Vierwochenplan](Katowice-4-Wochen-Plan-2027.md), [Maribor Vierwochenplan](Maribor-4-Wochen-Plan-2027.md).
 
-## Quellen (überprüfte Einstiegsseiten)
+## Quellen / Einstiegsseiten
 
-- Erasmus+ Berufsausbildung: https://erasmus-plus.ec.europa.eu/opportunities/individuals/trainees/vocational-education-learners-apprenticeships-and-recent-graduates
-- Rockwell Automation Katowice, 6 Monate für Studierende: https://pl.linkedin.com/jobs/view/automation-intern-at-rockwell-automation-4484224240
-- Visit Maribor, Pohorje ohne Auto: https://www.visitmaribor.si/en/offer/articles/7295-maribor-brez-avtomobila-od-lenta-do-pohorskih-gozdov/
-- DELEKTRO Maribor: https://www.delektro.si/en/company
-- Slowenische Bahn Maribor–Graz: https://potniski.sz.si/en/international-travel/austria-a/graz/
-- ICE Industrial Services, Standort Brno-Slatina: https://www.ice.cz/en/contact
-- VisitBrno, Mährischer Karst: https://visitbrno.com/destinations/moravian-karst/
-- Brno öffentliche Verkehrsmittel und Ausflüge: https://visitbrno.com/getting-to-brno/
-
-**Wichtig:** Kein Unternehmen hat eine vierwöchige Praktikumszusage bestätigt. Preise, Verfügbarkeit, Termine und Sommerfahrpläne 2027 müssen schriftlich verifiziert werden.
+- https://student.sum.edu.pl/domy-studenta/
+- https://skm.mendelu.cz/ubytovani/ubytovaci-zarizeni/27987-kolej-akademie
+- https://www.tscmb.si/dijaski-dom/cenik/
+- https://student-tomi.eu/en/
+- https://erasmus-plus.ec.europa.eu/opportunities/individuals/trainees/vocational-education-learners-apprenticeships-and-recent-graduates
