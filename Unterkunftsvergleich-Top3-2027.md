@@ -1,4 +1,8 @@
-# Unterkunftsvergleich Erasmus 2027: Katowice, Maribor, Brno
+# Unterkunftsvergleich Erasmus 2027: Katowice, Brno, Maribor
+
+> **AKTUALISIERTE ENTSCHEIDUNGSREGEL (12.11.2026):** **Priorität 1 = gute Unterkunft für 4 Wochen**: eigenes Schlafzimmer (Pflicht), eigenes Bad bevorzugt (geteilt als Kompromiss), Gemeinschaftsküche ist okay; sichere, saubere Umgebung, WLAN und guter ÖPNV. **Priorität 2 = günstiger Gesamtaufenthalt**, maximal 400 € Eigenanteil nach noch ungeklärter Erasmus-Förderung. **Priorität 3 = möglichst viele unterschiedliche, auch kostenpflichtige Freizeitaktivitäten**, Museen, Kultur, Natur, Wandern, Ausflüge nach der Arbeit und an Wochenenden. Der Praktikumsbetrieb mit englischsprachiger sicherer Betreuung bleibt Pflichtvoraussetzung. Die verbindliche Übersicht steht in der [README](README.md).
+
+**Prüfreihenfolge für Unterkünfte: Katowice → Brno → Maribor.** Dies ist **keine endgültige Ortsentscheidung**: derzeit noch keine Zimmerverfügbarkeit für 2027 bestätigt.
 
 **Stand 12. November 2026.** Fokus: **ein eigenes Schlafzimmer** für **28 Nächte Sommer 2027** (Beispiel 03.–31.07.), möglichst Küche, öffentlicher Verkehr und wenig Buchungsstress. **Keine der Unterkünfte ist für die gewünschten Nächte verbindlich reserviert oder verifiziert verfügbar.** Offene Förderung, eigener zusätzlicher Maximalbetrag 400 € ist **nicht** das gesamte Reisebudget.
 
