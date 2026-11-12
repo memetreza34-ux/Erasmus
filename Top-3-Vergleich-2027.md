@@ -1,3 +1,7 @@
+> **HISTORISCHER ZWISCHENSTAND:** Diese Datei enthält noch die frühere Auswahl mit zwei polnischen Städten und die **alte Punktegewichtung**. Sie ist **nicht mehr entscheidungsführend**. Seit 12.11.2026 ist **die Unterkunft die wichtigste Priorität** (eigenes Schlafzimmer; eigenes Bad bevorzugt; Gemeinschaftsküche okay), gefolgt von Gesamtkosten und besonders abwechslungsreichen Freizeitaktivitäten inklusive Museen und bezahlten Unternehmungen. Aktuelle verbindliche Kriterien: [README](README.md). Aktuelle Drei-Länder-Auswahl: [Top-3-drei-Laender-2027.md](Top-3-drei-Laender-2027.md).
+
+---
+
 # Top 3 Erasmus 2027 – aktualisierter Standortvergleich
 
 **Aktualisiert:** 12. November 2026  
