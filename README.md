@@ -33,6 +33,10 @@ Gesucht wird eine **abwechslungsreiche Stadt als Basis** mit vielen Sehenswürdi
 
 ÖPNV zur Unterkunft/Arbeit und zu Zielen; entspannte Organisation, kein großer Transportstress, akzeptables Sommerklima ohne dauerhafte extreme Hitze, möglichst keine völlige Überfüllung.
 
+## Neues Hitzekriterium – Sommer 2027
+
+**Wichtig:** Der Nutzer möchte nicht bei extremer Hitze (insbesondere nicht bei Hitzewellen nahe 40 °C) arbeiten. Daher **Sommerklima und Arbeitsplatz-Innentemperatur als Risiko-/Ausschlussprüfung**, nicht bloß als Nebenaspekt behandeln. Ziel: typischerweise moderate Sommer (etwa 20–27 °C Tageshöchsttemperaturen), bei dennoch möglicher Hitzewelle. Vor allem **Katowice, Žilina, Brno, Aveiro (portugiesische Atlantikküste), Gijón/A Coruña (Nordspanien)** prüfen. **Valencia, Kreta und sehr heiße Mittelmeer-/Binnenlandorte im Juli/August zurückstellen**. Die klimabedingte Suche ändert vorerst **nicht** die bestehende Unterkunfts-Top-3; Infos und Daten: [Sommerklima und Länderwahl 2027](Sommerklima-Laenderauswahl-2027.md). Beim Betrieb Arbeitsraumtemperatur, Klimatisierung/Belüftung und Hitzeschutz abklären.
+
 ## Entscheidungsregeln – keine scheinpräzisen Punktzahlen
 
 1. **Zuerst Unterkunfts-Mindestanforderungen und tatsächliche Kurzzeit-Buchbarkeit prüfen.** Ohne eigenes Schlafzimmer und einen realistischen 28-Nächte-Preis nicht als Gewinner behandeln.
