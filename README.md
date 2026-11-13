@@ -1,3 +1,5 @@
+> **AKTUELLER PLAN (13.11.2026):** Drei Wochen im **Juli 2027** (statt älterer Annahme von vier Wochen). 11 mögliche EU-Länder, Italien optional; Hauptbudget Erasmus+-Förderung, **bis zu ca. 400 € oder ggf. mehr Eigenanteil für Unterkunft/Essen/ÖPNV**, Freizeitbudget zusätzlich. [Neue verbindliche Länderliste & Budgetregel](EU-Laenderliste-und-Budget-Juli-2027.md). **Land 01: Polen** – [aktueller Polen-Sieger auf Probe Bielsko-Biała](Land-01-Polen-2027.md). Frühere Top-3/4-Wochen-Texte unten sind historische Vergleichsstände und widerspiegeln noch nicht alle neuen Entscheidungen.
+
 # Erasmus 2027 – Planung und verbindliche Prioritäten
 
 **Aktualisiert am 12. November 2026.** Dies ist die **aktuelle Entscheidungsgrundlage**. Ältere Rankingdateien sind historische Zwischenstände und können andere Gewichtungen zeigen.
