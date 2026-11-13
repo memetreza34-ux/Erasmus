@@ -42,7 +42,7 @@ Ungarn wurde vom Nutzer zweimal genannt; in der geordneten Liste nur einmal. **A
 ## Bearbeitungsstand
 
 - **Land 01 – Polen:** [Land-01-Polen-2027.md](Land-01-Polen-2027.md) – Bielsko-Biała vorläufiger erster Prüfstandort, Katowice Referenz für günstigstes bekanntes Zimmer, Krakau/Kraków größere Stadtoption.
-- **Land 02 – Österreich:** als Nächstes prüfen; aus früherem Repo Graz (AVL) und Linz (KEBA) bekannt.
+- **Land 02 – Österreich:** [Land-02-Oesterreich-2027.md](Land-02-Oesterreich-2027.md) – **Innsbruck als Favorit** wegen Alpen + Stadtleben, Home4students Einzelzimmer mit eigenem Bad für Monat Juli (2026-Beispiel 455 € +115 € Gebühren), IKB Elektrotechnik-Sommerpraktikum 2027 ist aktuell **4 Wochen**, drei Wochen müssen ausdrücklich genehmigt werden. Graz mit SSI SCHÄFER Automation als relevante Alternativstadt.
 - Länder 03–11: noch nach dieser neuen Budget-/Erlebnisgewichtung zu prüfen.
 
 ## Links zu früherer Recherche
