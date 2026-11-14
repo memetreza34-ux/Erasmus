@@ -19,6 +19,10 @@
 
 **Wichtig:** Kein Betrieb, keine Unterkunft, kein 2027-Preis und keine persönliche Förderhöhe sind bisher verbindlich bestätigt. Nichts wurde gebucht, bezahlt oder als Bewerbung abgeschickt.
 
+## Tschechien-Stadtwahl NEU geprüft (14.11.2026)
+
+**[Tschechien-Städtevergleich: Plzeň vs. Liberec, České Budějovice und Brno](Tschechien-Staedte-Neubewertung-Plzen-Liberec-2027.md).** Nach erneuter Recherche ist **Plzeň/Pilsen die erste neue Kontaktpriorität** (NICHT schon vom Nutzer als Stadt beschlossen): **Škoda Electric** weist offiziell Schüler-/Lehrlingspraxis im Elektrobereich und **14-tägige technische Fachpraktika** aus; eine Ausnahme für **3 Wochen im Juli 2027 mit deutscher oder B1-englischer Sicherheitsunterweisung** ist nicht bestätigt. **Palackého 6** in zentraler Stadtlage bietet offiziell Einzelzimmer bei 8+ Nächten zu **250 CZK/Nacht + 35 CZK Citytax**, also rechnerisch **5.985 CZK / 21 Nächte (~245 €)** nach 2026er Tarif. **Eigenes abschließbares Zimmer und Qualität/Bilder, 2027-Preis/Verfügbarkeit nicht bestätigt.** Alternativ Ubytovna Karlov Einzelzimmer bei kombinierbaren Wochenpaketen, **~7.235 CZK / 21 Nächte inklusive angenommener 35 CZK/Tag Abgabe**, separat zu bestätigen. **Liberec bleibt beste Natur-/Bergstadt und aktive Rückfalloption**; České Budějovice und Brno mit Vor- und Nachteilen wurden ebenfalls geprüft. Festlegung nur **LAND Tschechien auf Rang 1**, **Ort weiterhin offen**, keine Mails verschickt.
+
 ## Aktueller Unterkunfts-Nachfilter: günstiger als Harcov (14.11.2026)
 
 **Neues Nutzerziel: statt ~491–700 € privat und deutlich günstiger schlafen**, ggf. Nachbarstadt. [Aktualisierte Unterkunftsanfragen Liberec/Jablonec mit neuen E-Mail-Vorlagen](Liberec-Unterkuenfte-Anfragen-Juli-2027.md).
