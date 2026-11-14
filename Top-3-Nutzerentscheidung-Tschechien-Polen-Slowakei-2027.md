@@ -4,7 +4,15 @@
 
 ## Muss-Kriterien bleiben unverändert
 
-Juli 2027, drei Wochen und für Unterkunftsvergleich 21 zusammenhängende Nächte, deutscher Elektroniker für Betriebstechnik (duale Ausbildung), Englisch ca. B1 oder Deutsch als fachliche Betreuungs-/Sicherheitssprache, eigenes **abschließbares** Schlafzimmer zwingend, eigenes Bad stark bevorzugt, Küche vorhanden oder geteilt, abwechslungsreiche Stadt + Natur + Ausflüge ohne Auto. Erläuterung Förderung: Erasmus+ (tatsächliche Bewilligung unbekannt) + etwa 400 € eigene Mittel oder nach Entscheidung ggf. mehr für Unterkunft/Verpflegung/Nahverkehr; bezahlte Freizeit separat. Keine Bewerbungen, Zimmerbuchungen oder 2027er Förderzusage vorhanden.
+Juli 2027, drei Wochen und für Unterkunftsvergleich 21 zusammenhängende Nächte, deutscher Elektroniker für Betriebstechnik (duale Ausbildung), Englisch ca. B1 oder Deutsch als fachliche Betreuungs-/Sicherheitssprache, eigenes **abschließbares** Schlafzimmer zwingend, eigenes ausschließliches Badezimmer (Dusche/WC) **zwingend**, Küche im Zimmer oder geteilt **optional**, abwechslungsreiche Stadt + Natur + Ausflüge ohne Auto. Erläuterung Förderung: Erasmus+ (tatsächliche Bewilligung unbekannt) + etwa 400 € eigene Mittel oder nach Entscheidung ggf. mehr für Unterkunft/Verpflegung/Nahverkehr; bezahlte Freizeit separat. Keine Bewerbungen, Zimmerbuchungen oder 2027er Förderzusage vorhanden.
+
+## Aktuelle Wohnanforderung und Plzeň-Kandidaten (14.11.2026)
+
+**Neue eindeutige Entscheidung:** Eigenes **abschließbares Schlafzimmer und ausschließlich eigenes Bad mit Dusche/WC = beides MUSS**. Küche im Zimmer kein Muss; **Gemeinschaftsküche okay**. Die vorherigen günstigsten Wohnheimzimmer mit geteilten Bädern (Liberec Harcov/Hodkovická, Plzeň Palackého/Karlov, Olomouc Standard-Gästezimmer, polnisches UBB-Bettzimmer) dienen nur noch als **historische Preisreferenzen, nicht mehr als gültige Unterkünfte**.
+
+**Plzeň neue Anfragepriorität:** [Unterkunfts-Qualitätscheck mit Privatbad](Plzen-Unterkunftscheck-guenstig-gut-Juli-2027.md). **Máchova 20** offiziell 690 CZK pro 1-Bett-Hotelzimmer/Nacht mit eigenem Bad (**~623 €/21 Nächte** mit angenommener Ortstaxe von 35 CZK×20), **Penzion 16** 700 CZK pro Einzelzimmer/Nacht mit beworbenem eigenem Bad und Küchenzeile (**~602 €/21 Nächte vor Tax**), **AK Penzion** 690 CZK pro EZ mit Dusche/WC (**~594 €/21 Nächte vor Tax**), jedoch keine komplette Gästeküche. Beim AK Penzion auch prüfen, dass genau die EZ-Kategorie privat belegbar ist (Website beschreibt sonst meist 2–4-Bettzimmer). **Keine Juli-2027-Zimmerfreigabe oder Endsumme bestätigt, keine Anfrage versendet.**
+
+**Rangfolge der LÄNDER bleibt 1. Tschechien, 2. Polen, 3. Slowakei.** Auch in Polen/Slowakei ab jetzt **nur noch private Badezimmer**: geeignete vorhandene Alternativen wären **Polen Bielsko-Biała Monterska ca.459 €** (Kategorie und lange Wege prüfen) und **Slowakei Žilina H3 ca.357 € + Abgabe** (wenige Appartements, Verfügbarkeit offen), nicht die bloß billigsten geteilten Bäder.
 
 ## Rang 1 – Tschechien: welche STADT?
 
