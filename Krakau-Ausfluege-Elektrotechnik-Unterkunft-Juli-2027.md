@@ -1,0 +1,72 @@
+# KRAKAU / KRAKÓW – erster Polen-Städtecheck, Freizeit & Praktikum (21 Nächte Juli 2027)
+
+**Stand 14.11.2026. NEUE NUTZER-LÄNDERFOLGE: 1. POLEN, 2. SLOWAKEI, 3. TSCHECHIEN.** Krakau wird **wegen Empfehlung eines Freundes** vom Nutzer nun gezielt geprüft, aber **noch nicht als einzelne polnische Gewinnerstadt verbindlich beschlossen**. Vergleichskandidaten Polen weiterhin Bielsko-Biała, Kraków, Wrocław. Kein dreitägiges/21-Tage-Praktikum, keine Unterkunft oder 2027-Förderhöhe zugesagt. **Weder E-Mail noch Buchung versendet**.
+
+## Warum Krakau besonders interessant ist
+
+Krakau ist eine große, lebendige Universitäts- und Touristenstadt mit **UNESCO-Altstadt**, **Wawel**, **Rynek Główny**, **Marienkirche**, **Tuchhallen**, **Kazimierz** (jüdische Geschichte/Cafés/Restaurants), Weichselufer. Nach Arbeit sind spontane Abendaktivitäten, Museen, Spaziergänge, Parks, Kultur, günstiges Essen und Gaming-/Technikaktivitäten möglich. **Stadt plus viele Tagestrips** ist hier eindeutiger Vorteil gegenüber kleinen Städten. Andererseits **Sommer-Überfüllung, evtl. hohe Preise für einzelne Attraktionen und Gebirge nicht direkt in der Stadt**, anders als Bielsko-Biała.
+
+**Primärquellen:** https://www.poland.travel/en/historic-center-of-krakow/ ; https://convention.krakow.pl/english/choose_krakow/6135,artykul,recreation.html .
+
+### Nach Feierabend: abwechslungsreich, nicht nur Kirchen
+
+| Was? | Dauer/Charakter | Kosten / Hinweise |
+|---|---|---|
+| Rynek Główny, Sukiennice, Florianstor, Planty, Kazimierz | Kurzspaziergang, schöne Cafés/Gastronomie, oft außen gratis | Denkmal-Eintritte separat; Touristenlokale am Rynek teurer |
+| Wawel-Außenanlagen / Weichsel-Boulevards / Podgórze / Krakus-Hügel | Historie, Aussicht/Sonnenuntergang, entspannte Abende | Große Teile außen frei, Museumsbereiche bezahlt; https://www.poland.travel/en/historic-center-of-krakow/ |
+| **Zakrzówek Badesee im ehemaligen Steinbruch** | Schwimmen und Aussicht, ideal nach Arbeit **nur in ausgewiesenen bewachten Badebecken** | Offiziell **Eintritt 2026 kostenlos**, Limit **300 Personen** zeitgleich auf schwimmenden Stegen, regulär Mo 14–19, Di–So 8–19; wegen Wasserstand wurde 2026 erst am **27.06.** eröffnet. **Juli 2027 neu prüfen**, keine freie Nutzung aller tiefen Steinbruchbereiche; https://zakrzowek.krakow.pl/kapielisko/o-kapielisku ; https://zis.krakow.pl/kapielisko-zakrzowek-otwarte-od-27-czerwca |
+| **Polish Aviation Museum** (Muzeum Lotnictwa Polskiego) | Flugzeuge, Helikopter, technische Geschichte, ca. 2–4h | Museum 2026 **35 PLN Normalpreis / Dienstag frei** laut offizieller Website, Juli/Sommer offen 9–18 Uhr; https://muzeumlotnictwa.pl/en/visit/ ; https://muzeumlotnictwa.pl/en/news/changes-in-pricing-and-opening-hours-for-2026/ |
+| **Museum of Engineering and Technology** (MIT Kraków, Kazimierz) | Historische Straßenbahnen, Alltagstechnik, elektrotechnisch spannend | Alte Straßenbahn-Depot-Halle an **św. Wawrzyńca 15** mit Technikausstellung; https://www.mit.krakow.pl/en/aktualnosc/ ; https://www.mit.krakow.pl/deklaracji-dostepnosci/ |
+| **Kraków Arcade Museum** | Mehr als **150 spielbare Arcade-Automaten**, Gaming nach Arbeit | Offiziell 2026 Werbeaktion **montags 2h für 50 PLN**, reguläre 2027er Preise später prüfen; https://krakowarcademuseum.com/ ; https://https.krakowarcademuseum.com/en/ |
+| **Museum Elektroniki – Retro-Computer und Konsolen** | Computerspielgeschichte, ältere Elektronik | 2026 offizielle Wochenende-Ausstellung Sa/So 15–20, Normalpreis **40 PLN**; https://krakow.muzeumelektroniki.pl/wystawa-komputerow/ |
+| **Las Wolski / Kościuszko-Hügel** | Wald, Wandern und Aussicht innerhalb Stadtverkehr | Hügel teils Eintritt, Waldwege gratis; https://kopieckosciuszki.pl/en/plan-your-visit/ |
+
+### Tagesausflüge ohne Auto – mit belastbaren statt erfundenen Fahrmöglichkeiten
+
+| Ausflug | Attraktion | ÖPNV ab Krakau und Aufwand | Preisstand/Begrenzung |
+|---|---|---|---|
+| **1. Salzbergwerk Wieliczka** | Große unterirdische Salzsäle, Salz-Kapelle, Maschinen-/Bergwerksgeschichte | **SKA1** ab Kraków Główny nach Wieliczka Rynek-Kopalnia **ca. 20–30 Min** reine Zugfahrt, dann zu Fuß zum Eingang; ungefähr halber Tag. Offizielle Besucherkasse / Zeitfenster im Voraus. | Offiziell im Nov. 2026 **143 PLN englische Führung / 103 PLN polnische Führung** als Normalpreis; anderssprachige Führungen teurer. Preis und Ticketberechtigung Juli 2027 offen. https://www.kopalnia.pl/turysta-indywidualny/informacje-praktyczne/ceny-biletow-i-godziny-zwiedzania ; Bahn https://www.kolejemalopolskie.com.pl/ |
+| **2. Ojców Nationalpark** | Felsen, Täler, Wald, Ruinen/Ojców-Schloss, Höhlen, optional Pieskowa-Skała-Burg | **Freizeitbus LR0** von Krakau **Os. Podwawelskie** bis **Ojców Zamek**, nach 2026 Stadtmeldung **an Wochenenden/Feiertagen und wetterabhängig**, ca. 30–70 Min Taktung je Saison, nicht jeden Werktag garantiert; bei fehlendem LR0 Bus 310 + längerer Fußweg. **Ganzer Natur-/Wandertag**. | Parkweg großteils kostenlos, Höhlen/Burg evtl. Eintritt. *Pieskowa Skała ist nicht einfach direkt neben der Endhaltestelle*: Route und Rückbus planen. https://krakow.pl/aktualnosci/318414,31,komunikat,od_1_maja_zmiany_w_kursowaniu_linii_rekreacyjnych.html ; https://www.ojcow.pl/en/how-to-get |
+| **3. Energylandia – Zator** | Achterbahnen / Freizeitpark voller Tag, besonders für aktiven Freizeitgeschmack | **Direkter regionaler Zug Kraków Główny → Zator Park Rozrywki**, Bahnstation direkt neben Freizeitpark; offizielles Bahnportal nennt im aktuellen Beispiel ca. **67 Minuten** in einer Richtung; **Hin- und Rückabfahrten für 2027 prüfpflichtig**. | **Sommer 2026 Standard Online-Tageskarte 229 PLN (ca. 53 € bei 4,3 PLN/€)**, offizielle Kasse 239 PLN; Bahn extra. 2027 Tarife offen. https://www.kolejemalopolskie.com.pl/pl/rozklad-jazdy-kml/zator-park-rozrywki ; https://energylandia.pl/en/individual-pricing/electronic-tickets/ |
+| **4. Zakopane / Hohe Tatra** | Berge, Gubałówka, Seilbahnen, Wandern, Aussicht, evtl. Thermen | Bus Krakau–Zakopane **~2–3 Stunden** je Richtung bei üblichen Verbindungen, **Sommerstau möglich**; es gibt auch Zug nach Zakopane, KML 2026 Beispiel **25 PLN einfach**, Zugzeit je Fahrt nach Datum prüfen. Von Zakopane zu Bergbahnen/Tatra-Trailheads **noch lokalen Minibus**. **Langer Tagestrip**, ggf. früh anreisen. | Gubałówka, Kasprowy-Bergbahn, Nationalpark/Thermen jeweils extra. **Morskie Oko nicht als kurzer Stadt-Ausflug:** erst Minibus bis Palenica, **~8 km Fußweg pro Richtung** zum See, daher eher sehr langer Tag mit frühen Abfahrten/zweitägig. https://visit.zakopane.pl/plan-your-trip ; https://bilety.kolejemalopolskie.com.pl/en/timetables/train-timetables/krakow-main-station-zakopane |
+| **5. Auschwitz-Birkenau-Gedenkstätte** | Geschichte des Holocaust; stiller, respektvoller Bildungsbesuch, **kein Freizeitpark** | Vom Krakauer Busbahnhof Richtung Oświęcim / Gedenkstätte meist **ca. 1h20–2h** je Richtung; ganzer Tag, feste Einlasszeit | Offiziell **persönlicher Online-Eintrittspass ausschließlich über visit.auschwitz.org**, freie Besichtigung nur zu bestimmten Stunden und nach Passverfügbarkeit, Führung gesondert bezahlt. Sehr belastend; optional. https://www.auschwitz.org/en/visiting/ ; https://www.auschwitz.org/en/visiting/guided-tours-for-individual-visitors |
+| **6. Bochnia / Tyniec / Niepołomice** | Zweites Salzbergwerk, Benediktinerabtei an Weichsel, Wälder und Schloss | **Bochnia** Direktbahn ~40–50min, **Tyniec** Stadt-/regionaler Bus, **Niepołomice** Bus/Anschlusszug; kostengünstigere Alternativen zu großen Tagesprogrammen | Museums-/Minenführungen separat; vor konkretem Tag Rückfahrt prüfen. https://www.krakow.com/day-trips/compare |
+
+**Fahrzeiten der 2026er Betreiber sind nur Richtwerte; nicht als Juli-2027-Fahrplan verkaufen.** Nach genau 21 Nächten sind je nach Starttag nur **zwei volle Wochenenden** garantiert – nicht stillschweigend drei komplett freie Wochenenden einplanen.
+
+### Beispiel für wirklich durchführbare 3 Wochen neben Arbeit (kein Auto)
+
+- **Woche 1 nach Arbeit**: Mo Kazimierz/Weichsel, Di MIT/Straßenbahn-Technik, Mi Rynek+Wawel, Do Gaming-Arcade (ggf. Rabattwochentag), Fr Zakrzówek Badesee abhängig von Badebetrieb. **Freies Wochenende**: Sa **Wieliczka** (halber Tag) + Stadt, So **Ojców Nationalpark** (wetterabhängiger LR0).
+- **Woche 2 nach Arbeit**: Aviation Museum (bis 18 Uhr im Sommer 2026, also abhängig von Feierabend), Planty/Schindler-/Rynek-Untergrund je nach Interesse, lokale Parks. **Freies Wochenende**: Sa **Energylandia** als voller aktiver Tagesausflug, So entspannt in Krakau oder (nur wenn genügend Energie und sehr früh) **Zakopane**, besser den Tatra-Ausflug anstelle anderer großer Tagestour setzen.
+- **Woche 3**: Kleine Abendaktivitäten, letzte günstige Stadtbesichtigungen, Rückreise. **Ohne Datum/Arbeitsschicht keine drei kompletten Wochenenden annehmen**.
+
+## Kosten und Unterkunft – eigener Sanitärraum Pflicht
+
+**Moon Hostel Kraków**, **ul. Halicka 11, Kazimierz**, offizieller Betreiber **krakow@moonhostel.eu**, +48 506 506 880. Im Angebot:
+- **Single room with private bathroom ab 99 PLN/Nacht**, Kühlschrank **im Zimmer**, **voll ausgestattete Gemeinschaftsküche**, WLAN, zentrale Lage. Gilt für **ein exklusives EINZELZIMMER**. 21×99 = **2.079 PLN**, bei rein grobem 4,3 PLN/€ ≈ **483 €**. **Aber: „ab“ gilt nicht als zugesagter Juli-2027-Langzeitpreis.**
+- **Sommeraufschläge im offiziellen Gruppen-/Agenturangebot**: eigene 2025er Agenturpreisliste nannte in Hochsaison **150 PLN/Nacht für Einzelzimmer**, also **3.150 PLN (~733 €)**, aber diese Konditionen sind **nicht identisch mit direkter individueller Buchung für 21 Nächte**. Dieses Beispiel zeigt nur, wie deutlich der Juli vom Werbe-„ab“ abweichen kann. Die originale aktuelle Homepage mit eigenem Bad und Küche: https://moonhostel.pl/en/krakow .
+- **Unbedingt schriftlich** erfragen: genau 21 zusammenhängende Nächte Juli 2027, ein **abschließbares** eigenes EZ mit **privater Dusche und WC** ausschließlich für das Zimmer, Küchennutzung inkl. Töpfe/Herd, 21-Tage-Angebot, alle Pflichtgebühren und Stadt-/Kurtaxe, Kaution, Reinigung, Wäsche, Lärmsituation und Storno. Kein Versand ohne Auftrag.
+- Fahrkarte 2026: offizielle MPK **7-Tage-Zone-I 65 PLN regulär** (3×65=195 PLN ≈45 € für 21 Tage); **seit März 2026** 30-Min/Einzelticket 6 PLN, 24h Zone I 20 PLN, 7 Tage Zone I 65 PLN. **Tarifsystem für Januar 2027 mit dynamischen Streckenpreisen angekündigt**, also für Juli 2027 neuen Vergleich ziehen. Deutsche Azubi-Ermäßigung **nicht automatisch**. https://mpk.krakow.pl/en/kmk-tickets ; https://krakow.pl/aktualnosci/301273,1912,komunikat,zmiany_w_taryfie_biletowej_komunikacji_miejskiej_w_krakowie.html
+- Essen/Supermarkt/Gemeinschaftsküche **eigene Planungsreserve ca. 200–300 € für 21 Tage**; dazu Nahverkehr ca. 45–70 €, Berlin-Zugreserve nach Buchung. **2026 Tour-/Unterhaltungsbudget separat**, falls große Ausflüge Wieliczka/Themepark/Bergbahnen gewählt.
+- Direkte EuroCity Berlin–Krakau um **7 Stunden** nach Fahrplan 2026/2026–27, z.B. ab Berlin Hbf im ab 13.12.26 gültigen Schema; **Juli 2027 Fahrtage, Preise, Bauarbeiten offen**. Quelle https://www.seat61.com/trains-and-routes/berlin-to-krakow-by-train.htm .
+
+## Elektrotechnik: sauber belegter Einstieg, aber kein Automatismus
+
+**MPK Kraków (städtischer Straßenbahn- und Busbetrieb)** – **offizielles Verfahren für Praktika von Schülern technischer Schulen und Studierenden**: Bitte **mindestens 30 Tage vor geplantem Anfang** stellen, Schule liefert **Bestätigung / Einweisungspapier**, genaue **Zeiträume und Stunden**, **Praktikumsprogramm**, **Mustervertrag/Schulvereinbarung**. Personalabteilung ordnet Betriebseinheiten/Betreuer zu und erstellt Plan. **Kontakt: kadry@mpk.krakow.pl** (offiziell 2026 aktiv).
+**https://mpk.krakow.pl/praktyki**.
+
+**Was zu fragen ist:** Ist als **deutscher dualer Elektroniker für Betriebstechnik mit Erasmus+ Learning Agreement** ein Aufenthalt **genau 3 Wochen im Juli 2027** möglich? Arbeit in **Straßenbahn-Elektro-/Antriebs-/Fahrzeugwerkstatt, Gleichstromtechnik, Messungen, Instandhaltung/Automation** und fachliche Anleitung statt Büro/Verkauf? **Deutsch oder Englisch B1 für Sicherheitsunterweisung und Mentor** tatsächlich möglich? Ausbildungs-/Versicherungs- und (falls unter 18) Minderjährigenschutz; Sommerurlaub und Werkanschrift/Tramverbindung? **Ohne diese Zusagen noch kein bestätigter Platz**.
+
+Krakau gegenüber Bielsko-Biała:
+- **Krakau gewinnt** an Altstadt, Abenden, internationalem Trubel, Auswahl an Attraktionen und Tagestrip-Dichte sowie Stadtverkehr.
+- **Bielsko-Biała gewinnt** an **Berge direkt vor der Stadt** und vermutlich weniger touristischen Preisaufschlägen; ALFA POLAND ist industriell näher an Maschinen-/Automatisierungsinstandhaltung, aber ebenfalls keine Erasmus-Zusage.
+- **Krakau ist nun ernsthafter erster POLEN-Städte-Kandidat**, nicht bereits vom Nutzer explizit final bestätigt. **Polen ist Land #1.**
+
+## Offene praktische Aufgaben
+
+1. **Krakauer Unterkunft mit eigenem Bad + Gemeinschaftsküche**: Moon Hostel direkt nach gültigem **21-Tage-Julipreis und ruhiger eigener Zimmereinheit** fragen, aber nicht ungefragt buchen. Ersatzkandidaten in Krakau nach gleichwertiger sanitärer/kochgeeigneter Kategorie und **nicht nur Ferien-Hochpreis** vergleichen.
+2. **MPK Kraków** (oder über Schule) kurzzeitig **3-Wochen-Erasmus EBT mit verständlicher Betreuung** prüfen, vor Schulausschluss oder hochpreisiger Buchung. Kein verbindlicher Antrag gesendet.
+3. Ausflugsprogramm auf echte **zwei garantiert komplette Wochenenden**, Schichtzeiten, Kosten und Rückfahrten herunterbrechen. Für Zusatzausflüge separate Freizeitkasse festlegen und 2027-Kalender prüfen.
+4. **Nutzer-Länderreihenfolge 1 Polen, 2 Slowakei, 3 Tschechien** in aktuellen Projektindexdateien vermerken; alte Reihenfolgen ausschließlich als datierte historische Beschlüsse kennzeichnen.
+
+**Keine Unterkunft/Praktikumsstelle für Juli 2027 bestätigt; kein Geld gezahlt, nichts versendet.**
