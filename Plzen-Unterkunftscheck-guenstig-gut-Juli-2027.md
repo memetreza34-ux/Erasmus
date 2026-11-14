@@ -2,7 +2,69 @@
 
 **Recherche: 14. November 2026.** Nutzer priorisiert Tschechien #1, prüft **Plzeň** neu gegen Liberec. Deutscher dualer Elektroniker für Betriebstechnik, Erasmus+-Betriebspraktikum **genau 3 Wochen im Juli 2027**. Exakte An- und Abreisedaten und konkreter Arbeitsbetrieb noch nicht festgelegt. Must-have: **eigenes exklusiv bewohntes ABSCHLIESSBARES Schlafzimmer, 1 Person**, Sicherheit, Sauberkeit, vertretbarer Arbeitsweg; eigenes Bad und Kochmöglichkeit erwünscht, Gemeinschaftsbad und Küche notfalls erlaubt. **Keine dieser Unterkünfte ist für 2027 verbindlich verfügbar, kein Anbieter kontaktiert, keine Reservierung oder Zahlung.** Fremdwährungs-Umrechnung nur für Größenordnung mit **24,4 CZK/€ indikativ**, nicht aktuelle FX- oder Kartenkurszusage.
 
-## Kurzentscheidung – zuerst bei Agape und Palackého 6 den echten 21-Tage-Privatpreis anfragen
+## AKTUALISIERUNG – NEUES MUSSKRITERIUM: EIGENES BAD (14.11.2026)
+
+**Ab sofort ausdrücklich vom Nutzer gefordert:** **Exklusives, abschließbares Schlafzimmer FÜR EINE Person PLUS ausschließlich eigenes Badezimmer mit Dusche und WC**, das **nicht von anderen Schlafzimmereinheiten geteilt wird**. Eigene Kochzeile ist ideal, aber **nicht zwingend**; Gemeinschaftsküche akzeptabel, bei fehlender Küche Verpflegungsmehrkosten berücksichtigen. Die darunter befindliche ältere Spar-Rangliste mit Palackého/Karlov stammt noch aus der Zeit, als geteilte Duschen erlaubt waren: **für die aktive Auswahl jetzt ungeeignet**. Agape nur dann geeignet, wenn **Privatbad exakt für das exklusiv belegte Zimmer** nachgewiesen wird, derzeit Tarif/Beschreibung uneinheitlich.
+
+### Neue gültige Anbieter-Shortlist nach privatem Bad
+
+| Rang / Rolle | Anbieter, echte Quelle | Offizieller / veröffentlichter Zimmerpreis, 21-Nächte-Basis (kein 2027-Angebot) | Bad | Küche | Vorbehalt |
+|---|---|---|---|---|---|
+| **1 – gesicherte Zimmerkategorie beim öffentlichen Betreiber** | **ZČU Hotel Máchova 20**, Máchova 20 (Bory), **pseidlom@skm.zcu.cz** oder **gvostrac@skm.zcu.cz**. [Direkt offizielle Hotelzimmerliste](https://www.skm.zcu.cz/en/Hotel/index_0001_0001.html) | **690 CZK/Nacht echtes 1-Bett-Zimmer inklusive VAT**, **21×690=14.490 CZK**; Pilsener lokale Abgabe **35 CZK je berechnetem Tag, außer Anreisetag**, als hypothetische 21-Nächte-Rechnung **20×35=700 CZK** -> **15.190 CZK ~623 €** bei indikativen 24,4 CZK/EUR. | **Direkt im Einzelzimmer privat** laut Originalbetreiber | Kühlschrank im Zimmer, **Zugang zu Gästeküche nicht belegt** | Echte Hotelgäste ganzjährig, Lage direkt an Tram 4 / Bus bei Borský park, Sommerbuchbarkeit 2027 offen. Achtung **strengere Rücktrittsgebühren**, offiziell z.B. ≥30 Tage 30% der vereinbarten Summe (genauen Vertrag klären), keine Reservierung. |
+| **2 – beste Küchenausstattung** | **Penzion 16**, Štiková 1163/16, Bolevec; **penzion16@seznam.cz**, +420 602 937 596. [Hotelportal mit konkretem Einzelzimmer und Ausstattung](https://www.hotelypenziony.cz/penzion-16/) | **700 CZK/Nacht Einzelzimmer** = **14.700 CZK/21 Nächte ~602 € vor Stadtsteuer**; bei beispielhafter 20×35 CZK Tax = **15.400 CZK ~631 €**, Rabatt auf drei Wochen möglich, nicht belegt | **Eigenes Bad / WC laut allgemeinem Zimmerprofil** – explizit Einzelzimmerkategorie bestätigen | **Kochnische / Kühlschrank / Mikrowelle laut Profil**, Kochen möglich? Herd/Geschirr konkret nachfragen | 4 km nördlich des Zentrums / Bolevec, öffentlicher Bus ~100–150 m, kein konkreter Werksarbeitsweg. Einzelzimmer in 8-Betten-Gästehaus könnte sehr knapp sein; nicht auf passendes Zimmer für Juli 2027 schließen. |
+| **3 – nahe Industriegebiet, keine komplette Küche** | **AK Penzion**, Křimická 280/102, Skvrňany, **info@plzenubytovani.cz**, +420 605 113 606. [Preis und eigene Badezimmer](https://www.ubytovani-plzen.info/ak-penzion-plzen/) | **690 CZK als beworbener EZ-Satz**, 21×690=**14.490 CZK ~594 € VOR Stadtsteuer**; bei angenommener 20×35 CZK Tax = **15.190 CZK ~623 €** | Private Dusche/WC laut Anbieter – **sicherstellen, dass der 690-CZK-EZ-Tarif exklusive alleinige Zimmerbelegung inkl. privatem Bad** meint, da Hauptbeschreibung vor allem 2–4-Bettzimmer aufführt | Nur Kühlschrank, Mikrowelle, Wasserkocher + Basisgeschirr auf Etage, **KEIN richtiger Herd/Küche** laut Gästen | ~2 km zum Zentrum, Tram ~300 m, Industriegebiet Borská pole näher, aber tatsächlicher Arbeitsweg zum künftigen Betrieb offen |
+
+**Weiterhin passende Komfortreserve:** **Penzion Úslavská 22** ganze Wohnung + eigenes Bad + eigene Küche, veröffentlichte Einpersonenpreislogik ca. **850 CZK/Nacht + 35 CZK Tax**, ca. **18.585 CZK / 21 Nächte (~762 €)**, ebenfalls Juli 2027 unbestätigt. **Penzion Sedláček** hat eigene Bäder in einzelnen Apartmentkategorien und zugleich geteilte Sanitärbereiche in anderen, **exakte Einzelzimmer-Kategorie unklar**, nur nach bestätigtem eigenen Bad. `Agape` ebenso nur privatbadbestätigte Kategorie.
+
+**So verändern sich die früheren Preisvergleiche:**
+- **Palackého 6 (245 €)**: ein echtes eigenes Zimmer, aber **Bad wird mit 2–3 Schlafzimmern geteilt** – **AUSSCHLIESSEN**.
+- **Karlov (266–297 €)**: eigenes Bad für die günstige Einzelzimmerkategorie **nicht bestätigt**, **nicht in aktive Shortlist**.
+- **Agape**: je nach Einheit auch Gemeinschaftsbad; **erst bei ausdrücklich bestätigter Privatbad-Zimmerkategorie** aufnehmen.
+- TUL Harcov / Liberec Hodkovická / Donaki / Olomouc Standardgästezimmer: gemeinschaftliches Bad -> **für Nutzer nicht geeignet**, trotz günstigen Preises.
+- Weder **2027er Verfügbarkeit**, ein bestätigter **21-Nächte-Endpreis**, noch ein **Praktikum**, eine **Erasmus-Förderung** oder irgendeine Buchung/Anfrage liegt bisher vor.
+
+### Englische E-Mail zur neuen Pflichtbedingung (NICHT versendet)
+
+**To:** pseidlom@skm.zcu.cz  
+**Subject:** Private single room with private bathroom – 21 nights July 2027 – Erasmus+ vocational internship
+
+Dear Accommodation Team,
+
+I am a vocational trainee from Germany, training as an industrial electrician. I am planning a three-week Erasmus+ work placement in Plzeň in July 2027.
+
+I need **one lockable, exclusively occupied single room for 21 consecutive nights in July 2027, with a private bathroom (shower and toilet) for my use only. A shared kitchen is fine; my own kitchen is not necessary.** My arrival and departure dates within July are still flexible.
+
+Your official hotel page for Máchova 20 lists single rooms with ensuite bathrooms for 690 CZK per night. Can a German vocational Erasmus+ trainee who is not enrolled at ZČU book this hotel category for 21 nights in July 2027?
+
+Could you please confirm availability or the earliest booking date, the **total amount including city tax, linen, cleaning and any deposits**, whether I can use a kitchen or at least a refrigerator, and the cancellation/payment rules? Is there a reduced three-week Erasmus+ rate?
+
+This is only an enquiry; **I am not making a reservation**.
+
+Kind regards,
+[Your name]
+
+### Englische Anfrage an Penzion 16 (NICHT versendet)
+
+**To:** penzion16@seznam.cz  
+**Subject:** 21-night Erasmus+ stay July 2027 – private single room with ensuite bathroom
+
+Dear Penzion 16 Team,
+
+I am a vocational trainee from Germany planning a three-week Erasmus+ internship in Plzeň in July 2027. I need an **entire lockable single room for myself, with a PRIVATE bathroom (shower and toilet) that is NOT shared with any other room**, for 21 consecutive nights. Exact dates within July are flexible.
+
+I saw your published single-room price of 700 CZK per night and the accommodation description mentioning a kitchenette, fridge and private bathroom.
+
+Could you please confirm that the **700 CZK single room includes its own shower, toilet and kitchenette**, send current pictures of that exact room and bathroom, and quote the **full price for 21 nights in July 2027**, including city tax, cleaning, linen, deposits and any special long-stay or Erasmus+ discount? Please also mention the cancellation/payment conditions and how to get to the closest public transport stop.
+
+This is only an enquiry, not a booking.
+
+Kind regards,
+[Your name]
+
+
+---
+
+## VERALTETER ZWISCHENSTAND (Gemeinschaftsbad damals erlaubt) – zuerst bei Agape und Palackého 6 den echten 21-Tage-Privatpreis anfragen
 
 | Qualität / Anfragepriorität | Name | Typ | Preisbasis 2026 für 21 Nächte | Privatsphäre, Ausstattung | Qualitätshinweis / Entscheidung |
 |---|---|---|---|---|---|
