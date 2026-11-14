@@ -1,71 +1,66 @@
-> **AKTUELLER PLAN (13.11.2026):** Drei Wochen im **Juli 2027** (statt älterer Annahme von vier Wochen). 11 mögliche EU-Länder, Italien optional; Hauptbudget Erasmus+-Förderung, **bis zu ca. 400 € oder ggf. mehr Eigenanteil für Unterkunft/Essen/ÖPNV**, Freizeitbudget zusätzlich. [Neue verbindliche Länderliste & Budgetregel](EU-Laenderliste-und-Budget-Juli-2027.md). **Land 01: Polen** – [aktueller Polen-Sieger auf Probe Bielsko-Biała](Land-01-Polen-2027.md). Frühere Top-3/4-Wochen-Texte unten sind historische Vergleichsstände und widerspiegeln noch nicht alle neuen Entscheidungen.
+# Erasmus+ 2027 – Auslandspraktikum Elektroniker für Betriebstechnik
 
-# Erasmus 2027 – Planung und verbindliche Prioritäten
+**Aktueller Projektstand: 14. November 2026.** Diese README ist ab jetzt die **Einstiegs- und Statusseite**; [die geordnete Länderliste mit allen individuellen Erkenntnissen](EU-Laenderliste-und-Budget-Juli-2027.md) ist das operative Arbeitsdokument. Vor dem 13.11.2026 verfasste 4-Wochen-Pläne und alte Top-3-Rankings sind [historisch archiviert](README-Archiv-12-11-2026.md) und **nicht die geltende Entscheidung**.
 
-**Aktualisiert am 12. November 2026.** Dies ist die **aktuelle Entscheidungsgrundlage**. Ältere Rankingdateien sind historische Zwischenstände und können andere Gewichtungen zeigen.
+## 1. Verbindliche Anforderungen
 
-## Feste Eckdaten
+| Thema | Aktueller Wunsch |
+|---|---|
+| Art | Erasmus+-Auslandspraktikum über Schule / entsendende Organisation, Berufsausbildung **Elektroniker für Betriebstechnik** |
+| Zeitraum | **3 Wochen im Juli 2027**, für Unterkunftsvergleich 21 aufeinanderfolgende Nächte, konkrete Daten noch offen |
+| Sprache | Englisch ungefähr B1 oder Deutsch; die fachliche Betreuung und **Sicherheitseinweisung** müssen verständlich und bestätigt sein |
+| Unterkunft | **Eigenes, abschließbares Schlafzimmer Pflicht**. Eigenes Bad und Küchenzeile stark bevorzugt, Gemeinschaftsküche akzeptabel. Kein Mehrbettzimmer als Ersatz |
+| Finanzierung | Erasmus+-Förderung vorrangig; **bis ungefähr 400 € Eigenanteil, ggf. nach individueller Entscheidung auch mehr** für Unterkunft, Essen und Nahverkehr |
+| Freizeitbudget | Separat: Museen, Führungen, Bergbahnen, Ausflüge, besondere Aktivitäten – **nicht pauschal als gratis** ansetzen |
+| Erlebnisse | Schöne, abwechslungsreiche Stadt, Berge/Wälder/Seen/Burgen, möglichst viele Tagestrips bis etwa 3 Stunden je Richtung |
+| Verkehr | **Ohne Auto**; guter Arbeitsweg, Bus/Zug/ÖPNV und Anreise ab Berlin |
+| Wetter | Juli-Klima möglichst moderat; 35–40 °C und heiße Industriehallen meiden |
+| Pflichtbedingungen | Praktischer Elektrotechnik-Einsatz für exakt drei Wochen, Lernvereinbarung, fachliche Betreuung und Arbeitsschutz, tatsächliches Zimmerangebot, individuelle Förder- und Versicherungsklärung |
 
-- Erasmus-Auslandspraktikum: **4 Wochen** im Zeitraum **Anfang Juni bis Ende August 2027**; als bloßes Vergleichsbeispiel 03.–31.07.2027 (28 Nächte).
-- Ausbildungsberuf: **Elektroniker für Betriebstechnik**; Englisch ungefähr **B1**.
-- Die Schule unterstützt **Betriebssuche und Unterkunftsorganisation**; noch unklar, welche Kosten sie übernimmt und wie hoch die Erasmus+-Förderung ausfällt.
-- Eigenbudget: **höchstens 400 € zusätzlich zur Förderung**, nicht 400 € Gesamtbudget.
-- Reisen möglichst allein mit **Bus/Bahn/ÖPNV**, gerne Rucksack-Tagesausflüge bis ungefähr **3 Stunden je Richtung**, keine Notwendigkeit für Strand.
-- Der Praktikumsbetrieb muss geeignet sein und eine **englischsprachige Betreuung und Sicherheitseinweisung** ermöglichen; dies ist eine **Pflichtvoraussetzung**, kein bloßer Bonus.
+**Wichtig:** Kein Betrieb, keine Unterkunft, kein 2027-Preis und keine persönliche Förderhöhe sind bisher verbindlich bestätigt. Nichts wurde gebucht, bezahlt oder als Bewerbung abgeschickt.
 
-## Neue und verbindliche Prioritäten – in dieser Reihenfolge
+## 2. Bearbeitungsstand – Land für Land
 
-### 1. Unterkunft – wichtigste Priorität
+| Nr. | Land | Beste aktuell gefundene Basisstadt | Rechercheakte / Status |
+|---:|---|---|---|
+| 01 | Polen | **Bielsko-Biała**, günstigere Referenz Katowice | [Polen 2027](Land-01-Polen-2027.md) – Recherche fertig |
+| 02 | Österreich | **Innsbruck**, Graz als betriebliche Reserve | [Österreich 2027](Land-02-Oesterreich-2027.md) – Recherche fertig |
+| 03 | Tschechien | **Liberec**, Alternativen Olomouc/Brno | [Tschechien 2027](Land-03-Tschechien-2027.md) – Recherche fertig |
+| 04 | Slowakei | **Žilina**, Poprad/Košice als Alternativen | [Slowakei 2027](Land-04-Slowakei-2027.md) – Recherche fertig |
+| 05 | Ungarn | **Miskolc**, Budapest/Veszprém als Alternativen | [Ungarn 2027](Land-05-Ungarn-2027.md) – Recherche fertig |
+| 06 | Slowenien | **Ljubljana**, Alternativen Kranj/Maribor | [Slowenien 2027](Land-06-Slowenien-2027.md) – Recherche fertig |
+| 07 | Bulgarien | **Sofia**, Alternativen Plovdiv/Varna | [Bulgarien 2027](Land-07-Bulgarien-2027.md) – Recherche fertig |
+| 08 | Luxemburg | **Luxemburg-Stadt**, Alternativen Esch/Belval und Ettelbruck | [Luxemburg 2027](Land-08-Luxemburg-2027.md) – Recherche fertig **14.11.2026** |
+| 09 | Belgien | **Noch nicht entschieden** | **NÄCHSTER LÄNDERCHECK** |
+| 10 | Niederlande | Noch nicht entschieden | Offen |
+| 11 | Italien (optional) | Noch nicht entschieden | Optional |
 
-**Muss-Kriterium:** ein **eigenes, abschließbares Schlafzimmer** für die gesamten 4 Wochen (keine Mehrbettzimmer als gleichwertige Option). Bezahlbar, sauber, sicher, unkompliziert erreichbar und für einen **deutschen Erasmus-Auszubildenden ohne Uni-Immatrikulation** tatsächlich buchbar.
+**Fortschritt: 8 von 10 Pflichtländern recherchiert, Italien optional.** Ländergewinner sind derzeit **nur Kandidaten für die nächste Entscheidungsrunde**, keine Standorte mit zugesagtem Praktikumsplatz. Ein neuer länderübergreifender Gesamtvergleich unter den **3-Wochen-Anforderungen** ist erst nach Abschluss der Länderrunden sinnvoll.
 
-**Starke Vorzüge:** möglichst **eigenes Badezimmer** und ausreichend Privatsphäre. Ein **gemeinsames Badezimmer ist als Kompromiss** akzeptabel, aber klar schlechter als ein eigenes. **Gemeinschaftsküche ist ausdrücklich in Ordnung**, idealerweise mit Platz im Kühlschrank, Kochmöglichkeit und Waschmaschine.
+## 3. Besonders relevante Erkenntnisse
 
-**Zusätzlich unbedingt prüfen:** verbindlicher Gesamtpreis für 28 Nächte inklusive Steuern, Bettwäsche, Endreinigung, Nebenkosten, eventueller Kaution und Gebühren; Stornierung, WLAN, Lage, Lärm, ÖPNV zur Arbeit, Zugang im Sommer 2027 und die Aufnahme von Nicht-Universitätsstudierenden. Ein günstiger regulärer Studenten-Monatspreis ist **kein** Beweis für buchbare Kurzzeit-Unterkunft.
+- **Polen/Bielsko-Biała:** landschaftlich schön und preiswert; eigenes Bad im günstigen Universitätsgästezimmer nicht sichergestellt. [Unterkunftsdetails](Land-01-Polen-Unterkuenfte-Bielsko-Juli-2027.md).
+- **Österreich/Innsbruck:** starke Kombination aus Stadt und hohen Bergen, günstiges 2026er Sommerzimmer mit eigenem Bad als Richtwert; technisches Sommerpraktikum IKB 2027 ist normalerweise **4 statt 3 Wochen**. Fristen bei den Firmen beachten (SSI SCHÄFER Graz laut Recherche **29.01.2027**, IKB **28.02.2027**; erneut überprüfen).
+- **Slowakei/Žilina:** gutes öffentlich bepreistes Gäste-Einzelapartment H3 mit eigenem Bad, **21×17 € = 357 € plus Ortstaxe** (Stand der Quelle 2026), Sommerzulassung ungeklärt.
+- **Slowenien/Ljubljana:** hervorragender Mix aus Städten und Naturzielen; günstige Einzelzimmer in Juli sehr knapp, teilweise Gemeinschaftsbäder.
+- **Bulgarien/Sofia:** viel Abwechslung und konkrete 2026er Sommer-Elektropraktikumsansätze; aber höhere Unterkunftskosten, teilweise Hitze und anspruchsvollere Ausflugslogistik.
+- **Luxemburg/Luxemburg-Stadt:** [CFL-Schülerpraktikumsanfrage](https://student.lu/fr/emploi/administration/demande-de-stage-enseignement-secondaire-l-1160-luxembourg) ist ein besonders konkret dokumentierter Einstieg für berufsschulnahe Wartung; öffentlicher Nahverkehr im Inland kostenlos. Kurzzeit-Einzelzimmer mit Küchenmöglichkeit derzeit nach veröffentlichten Beispielen rund **890–990 € / Monat** in WGs (Bad geteilt) oder **1.218 € / 21 Nächte** bei privater Einzelbelegung einer Jugendherberge mit eigenem Bad, falls 2027 überhaupt buchbar. [Detailakte](Land-08-Luxemburg-2027.md).
 
-### 2. Gesamtkosten – möglichst günstig
+**Alle Preisangaben sind unverbindliche historische Rechenbeispiele, keine Buchungsangebote.** Deutschland/NA-BIBB 2026-Beispiel Luxemburg KA122-VET: **1.358 € für 21 förderfähige Aufenthaltstage** (14 × 72 € + 7 × 50 €), nicht persönliche Bewilligung oder Auszahlungszusage. Eine Organisationspauschale von 350 € ist kein frei verfügbares Teilnehmerbudget. Quelle: https://www.na-bibb.de/fileadmin/user_upload/na-bibb.de/1.Startseite/1.1_Informieren/1.1.3_Mobilit%C3%A4t/F%C3%B6rders%C3%A4tze_Kurzzeitprojekte_Berufsbildung_2026.pdf
 
-Nicht nur Mietpreis: **Unterkunft, Essen, ÖPNV, Hin-/Rückreise, Ausflüge, Eintrittsgelder, Reserve** mitdenken. Nicht die billigste Schlafmöglichkeit wählen, wenn dafür das eigene Zimmer fehlt oder der Arbeitsweg unpraktisch ist. Nur bei Finanzierungsplan mit **maximal 400 € Eigenanteil** als realistisch einstufen.
+## 4. Standard je Ländercheck
 
-### 3. Erlebnisse und Vielfalt – sehr viel entdecken können
+1. Landesweit **beste Stadt plus zwei reale Alternativen** aufgrund von Lebensqualität, Ausflügen, technischen Praktikumsansätzen und Unterkunftspreisen prüfen.
+2. **Nachweisbar technische Betriebe** finden, zwischen offenem Erasmus-VET-Azubi-Praktikum, Hochschulpraktikum, lokaler Vollzeit-Lehre und bloßem Arbeitgeber unterscheiden; keine Praktikumszusage erfinden.
+3. **Privat benutztes und abschließbares Schlafzimmer** für 21 Julinächte, idealerweise eigenes Bad und Küche; Nutzungsberechtigung für externen deutschen Azubi und realen Endpreis inklusive Gebühren/Ortstaxe/Storno erfassen.
+4. Gesamtbudget: Unterkunft, Lebensmittel, innerstädtischen ÖPNV und An-/Rückreise aus Berlin. **Freizeit/Eintritte und Reserve** separat. Förderung nie als bereits genehmigt behandeln.
+5. Sommerhitze am Arbeitsplatz und Sprache der Sicherheitsunterweisung prüfen; praktikable Bus-/Bahn-Ausflüge vorschlagen, **keine erfundenen Fahrzeiten**.
+6. Quelle, Quellenstand, Unsicherheiten und **konkrete unverbindliche Rückfragen** dokumentieren. Kein Versand, kein Buchen ohne Aufforderung.
 
-Gesucht wird eine **abwechslungsreiche Stadt als Basis** mit vielen Sehenswürdigkeiten, Altstädten, Natur, Bergen, Wanderungen, Schlössern, Parks, Museen, Technik-/Geschichtsausstellungen und interessanten Orten zum Essen. **Auch bezahlte Aktivitäten** gehören ausdrücklich zur Planung (Museen, Eintritt, Führungen, Veranstaltungen, Erlebnisse). Nach Feierabend sollen nahe Ausflüge möglich sein, und an Wochenenden mehrere **unterschiedliche** Tagesreisen **ohne Auto**. Nicht bloß ein schöner Strand oder ein einziges Highlight. Ziel: Für 4 Wochen mehr spannende Optionen haben, als tatsächlich machbar sind.
+## 5. Nächste Schritte
 
-### 4. Alltag, Mobilität und Sommerbedingungen
+**Als Nächstes: Land 09 Belgien**, dann Land 10 Niederlande; Italien optional. Danach einen transparenten **Gesamtvergleich der 3-Wochen-Kandidaten** erstellen, eine realistische Top 3 (ggf. Reserven) nach **Ausschluss-/Pflichtbedingungen** auswählen und über die Schule verbindlich Praktikums- und Unterkunftsanfragen anstoßen. **Parallel** die österreichischen Bewerbungsfristen Anfang 2027 und die reale Erasmus-Förderung über die Schule klären.
 
-ÖPNV zur Unterkunft/Arbeit und zu Zielen; entspannte Organisation, kein großer Transportstress, akzeptables Sommerklima ohne dauerhafte extreme Hitze, möglichst keine völlige Überfüllung.
+## 6. Alte / ergänzende Recherche
 
-## Neues Hitzekriterium – Sommer 2027
-
-**Wichtig:** Der Nutzer möchte nicht bei extremer Hitze (insbesondere nicht bei Hitzewellen nahe 40 °C) arbeiten. Daher **Sommerklima und Arbeitsplatz-Innentemperatur als Risiko-/Ausschlussprüfung**, nicht bloß als Nebenaspekt behandeln. Ziel: typischerweise moderate Sommer (etwa 20–27 °C Tageshöchsttemperaturen), bei dennoch möglicher Hitzewelle. Vor allem **Katowice, Žilina, Brno, Aveiro (portugiesische Atlantikküste), Gijón/A Coruña (Nordspanien)** prüfen. **Valencia, Kreta und sehr heiße Mittelmeer-/Binnenlandorte im Juli/August zurückstellen**. Die klimabedingte Suche ändert vorerst **nicht** die bestehende Unterkunfts-Top-3; Infos und Daten: [Sommerklima und Länderwahl 2027](Sommerklima-Laenderauswahl-2027.md). Beim Betrieb Arbeitsraumtemperatur, Klimatisierung/Belüftung und Hitzeschutz abklären.
-
-## Entscheidungsregeln – keine scheinpräzisen Punktzahlen
-
-1. **Zuerst Unterkunfts-Mindestanforderungen und tatsächliche Kurzzeit-Buchbarkeit prüfen.** Ohne eigenes Schlafzimmer und einen realistischen 28-Nächte-Preis nicht als Gewinner behandeln.
-2. **Dann den vollständigen Eigenanteil nach Erasmus-Förderung prüfen.** Über 400 € scheidet vorerst aus oder erfordert einen anderen Anbieter.
-3. **Dann Freizeitwert prüfen:** mindestens mehrere unterschiedliche Aktivitäten in der Stadt nach der Arbeit und ausreichend Tagesausflüge (Natur + Kultur + Museen + bezahlte Unternehmungen).
-4. **Pflichtvoraussetzung bleibt der geeignete Praktikumsbetrieb:** 4 Wochen für einen Azubi, Englisch/B1-fähige Betreuung und Sicherheitseinweisung. Solange das fehlt, gibt es **keinen endgültigen Buchungssieger**.
-
-## Aktueller Länder-Shortlist
-
-| Stadt / Land | Unterkunftsstand, bislang | Kosten-/Freizeit-Profil | Entscheidung |
-|---|---|---|---|
-| **Katowice / Polen** | ŚUM DS1/2: Gäste-Einzelzimmer rechnerisch ca. **355 € für 28 Nächte** nach 2026-Preisliste; separates Bad nicht garantiert. Externe Azubi-Zusage und 2027-Verfügbarkeit offen | günstige Stadt; Krakau, Pszczyna, Beskiden, viele Museen, Industriegeschichte | **Vorerst beste Unterkunftsbasis**, aber erst nach Zusage |
-| **Brno / Tschechien** | Private WG-Einzelzimmer teils **ab ca. 475 € / 30 Tage** inseriert; Gästezimmer der Mendel-Uni Preis auf Anfrage. Endpreis 28 Nächte und Verfügbarkeit offen | städtische Kultur, Mährischer Karst, Wien, Olomouc | **bei Unterkunft vor Maribor zu prüfen**, noch kein Endangebot |
-| **Žilina / Slowakei** | Universität Žilina, Gästehaus Hliny V: Einzelapartment H3 mit **eigener Dusche und WC**, veröffentlicht **17 €/Nacht bei mindestens 11 Nächten** = **476 € für 28 Nächte**, zzgl. eventueller Abgaben; auch externe Gäste grundsätzlich vorgesehen. Alternativ preiswertere Einzelbelegung in anderer Zimmerkategorie ab 14 €/Nacht; genaue Privatsphäre prüfen. **Buchbarkeit Juli 2027 und Eignung als Erasmus-Azubi offen** | Strečno-Burg, Malá Fatra, Terchová, Vrátna-Tal und Wanderziele; einzelne Naturziele benötigen Bus + Wanderung | **Neuer Platz 3 statt Maribor**; besserer belegter Komfort-Preis-Ansatz als bisherige Maribor-Kurzzeitoption |
-
-**Aktuelle Top 3 nach Unterkunfts-Priorität: Katowice (Polen) → Brno (Tschechien) → Žilina (Slowakei).** Maribor (Slowenien) ist als früherer Kandidat archiviert, nicht mehr Platz 3. Keine verbindlichen Reservierungen oder vierwöchigen Betriebszusagen; finale Entscheidung erst nach konkreten Angeboten. Einzelzimmer ist Pflicht, eigenes Bad bevorzugt, Gemeinschaftsküche okay.
-
-## Projektunterlagen
-
-- [Top 3 – drei Länder](Top-3-drei-Laender-2027.md)
-- [Unterkunftsvergleich der drei Städte](Unterkunftsvergleich-Top3-2027.md)
-- [Katowice – vollständiger Vierwochenplan](Katowice-4-Wochen-Plan-2027.md)
-- [Maribor – früherer Alternativkandidat (archivierter Vergleich)](Maribor-4-Wochen-Plan-2027.md)
-- [Fünf-Länder-Recherche mit Žilina und Hliny V](Laendercheck-Slowenien-Ungarn-Slowakei-Rumaenien-Bulgarien-2027.md)
-- [EU-weiter Vergleich](EU-Standortcheck-2027.md)
-- [Älterer Städtevergleich mit zwei polnischen Orten (historischer Stand)](Top-3-Vergleich-2027.md)
-
-## Nächster praktischer Prüfschritt
-
-Für **jede** der drei Städte mindestens zwei *tatsächlich in den Sommerwochen für einen deutschen Erasmus-Azubi buchbare* Einzelzimmer mit festem Endpreis suchen; Bad, Küche, ÖPNV, Storno und Buchungsdauer dokumentieren. Dazu realistische Ausflüge nach Feierabend und für die vier Wochenenden sowie Eintrittspreise sammeln. Erst danach Unterkunft und Gesamtstandort priorisieren; nie einen Betrieb oder eine Unterkunft als zugesagt darstellen, bevor die Bestätigung vorliegt.
+Alle früheren Dokumente bleiben erhalten, sind aber nur Hintergrundmaterial unter den alten **4-Wochen-/28-Nächte-Annahmen**: [alte README](README-Archiv-12-11-2026.md), [historische Top 3](Top-3-drei-Laender-2027.md), [historische Top-5](Top-5-fuenf-Laender-2027.md), [Katowice 4-Wochen-Plan](Katowice-4-Wochen-Plan-2027.md), [Maribor 4-Wochen-Plan](Maribor-4-Wochen-Plan-2027.md), [Inselvergleich](EU-Inseln-Sommer2027-Vergleich.md), [EU-Standortcheck](EU-Standortcheck-2027.md). Bei Widersprüchen gelten **diese README und die aktuelle geordnete Länderliste**.
