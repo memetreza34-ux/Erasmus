@@ -1,6 +1,8 @@
-# Erasmus+ 2027 – NEUE ENGAUSWAHL: 3 Länder × je 3 Städte, Privatbad MUSS
+# Erasmus+ 2027 – 9-Städte-Sachvergleich, ursprüngliche Bearbeitungsfolge (Top-3-Reihenfolge inzwischen geändert)
 
-**Recherche-/Vergleichsstand: 14. November 2026.** **Nutzer-Top-3-Länder unverändert und verbindlich:** **1 Tschechien, 2 Polen, 3 Slowakei**. **Neun Städte** für die konkrete Prüfung, nicht neun zugesagte Praktika oder reservierbare Unterkünfte.
+**AKTUELL GILT: 1. POLEN – 2. SLOWAKEI – 3. TSCHECHIEN.** [Verbindliche neue Top-3-Wahl](Top-3-Polen-Slowakei-Tschechien-2027.md). In dieser Datei stehen die damaligen drei Länder unten noch in der **historischen Vergleichsfolge CZ/PL/SK**; die neun fachlichen Stadt- und Unterkunftsdaten können weiterhin verwendet werden. [Neuer Krakau-Städtefokus](Krakau-Ausfluege-Elektrotechnik-Unterkunft-Juli-2027.md).
+
+**Recherche-/Vergleichsstand: 14. November 2026.** **Historische, durch spätere Nutzerentscheidung überholte Reihenfolge:** 1 Tschechien, 2 Polen, 3 Slowakei. **JETZT 1 Polen, 2 Slowakei, 3 Tschechien.** **Neun Städte** für die konkrete Prüfung, nicht neun zugesagte Praktika oder reservierbare Unterkünfte.
 
 ## Fixe Kriterien und Bewertung
 
@@ -9,7 +11,7 @@
 - **Ausschlusskriterien Wohnen:** ein **eigenes, abschließbares und exklusiv genutztes Schlafzimmer** + **ein eigenes Badezimmer mit Dusche UND WC, das ausschließlich zu dieser Zimmer-/Studioeinheit gehört**. **Küche optional**: eigene mit Herd am besten, Gemeinschaftsküche ausreichend; ohne nutzbaren Herd höhere Lebensmittelkosten. Verifizierte Einzelzimmer/Studio-Kategorie statt Bett-/Doppelzimmerhälfte.
 - **Preisziel möglichst niedrig**, bisher ca. 400 € persönliche Zusatzmittel **zur tatsächlich individuell verfügbaren Erasmus-Förderung**, Freizeit extra; **die 700 € Unterkunfts-Arbeitsgrenze ist nur Vergleichsfilter**, keine harte Obergrenze. Persönlicher Erasmus-Zuschuss/Reisekosten/Versicherung **noch nicht zugesagt**.
 - **Alle Zahlen aus öffentlichen 2026er oder älteren Bestandslisten, keine Juli-2027-Endpreise und keine überprüfte 21-Nächte-Verfügbarkeit**. Vergleiche mit **1 €≈24,4 CZK** oder **1 €≈4,3 PLN als reine Rechenannahmen**, keine garantierten Wechselkurse. Ortstaxen, Reinigung/Kaution/Storno nur einrechnen, wenn benannt, ansonsten explizit offen.
-- **Städte nach gemischter Eignung geordnet, Länderreihenfolge vom Nutzer unverändert**. Weder ein Betrieb noch ein Hotel wurde angeschrieben/gebucht.
+- **Städte nach gemischter Eignung geordnet; historische Länderfolge in dieser Datei nicht aktuelle Reihenfolge**. Weder ein Betrieb noch ein Hotel wurde angeschrieben/gebucht.
 
 ## 1. TSCHECHIEN (#1 LAND)
 
@@ -59,7 +61,7 @@
 
 ## Praktische Kontakt-Priorität der NEUN, abhängig von deiner festen Länderreihenfolge
 
-**Tschechien zuerst:** **Škoda Electric Plzeň** → **ZČU Máchova 20**; parallel **FOXON Liberec** → **Pension TIP**; **ABB Brno** → **K Penzion**. Bei jeder E-Mail: **deutscher dualer Elektroniker für Betriebstechnik, 21 Nächte / drei Wochen Juli 2027, sichere verständliche Deutsch- bzw. Englisch B1-Unterweisung, Berufsschul-Learning-Agreement, realer praktischer Elektro-Aufgabenbereich**. Für Unterkunft **ALLEINIGE ZIMMERBELEGUNG + eigenes WC UND DUSCHE ohne andere Zimmer**, explizite Küche (mit Kochfeld? oder nur Mikrowelle), 2027er Voll-Endpreis, Stornobedingungen, WLAN, Hygiene, Wochenende und Arbeitsweg.
+**Historischer Untersuchungsplan, nicht aktuelle Priorität: Tschechien zuerst. JETZT wird Polen/Krakau geprüft.** **Škoda Electric Plzeň** → **ZČU Máchova 20**; parallel **FOXON Liberec** → **Pension TIP**; **ABB Brno** → **K Penzion**. Bei jeder E-Mail: **deutscher dualer Elektroniker für Betriebstechnik, 21 Nächte / drei Wochen Juli 2027, sichere verständliche Deutsch- bzw. Englisch B1-Unterweisung, Berufsschul-Learning-Agreement, realer praktischer Elektro-Aufgabenbereich**. Für Unterkunft **ALLEINIGE ZIMMERBELEGUNG + eigenes WC UND DUSCHE ohne andere Zimmer**, explizite Küche (mit Kochfeld? oder nur Mikrowelle), 2027er Voll-Endpreis, Stornobedingungen, WLAN, Hygiene, Wochenende und Arbeitsweg.
 
 **Polen danach:** **ALFA Bielsko**, **MPK Krakau**, **MPK Wrocław**; deren öffentliche Berufsschülerpraxis ist ein guter direkter Einstieg, aber keinen dreiwöchigen Betriebseinsatz in Elektro-Maintenance unterstellen. Die beiden MPK-Anbieter verlangen Vorlauf ca. 30 Tage; besser früh und über Schule klären.
 
