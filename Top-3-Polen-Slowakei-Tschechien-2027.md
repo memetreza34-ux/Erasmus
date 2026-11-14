@@ -1,5 +1,9 @@
 # AKTUELLE TOP 3 – Nutzerentscheidung vom 14. November 2026
 
+## Krakau: 3 gute Wohn-Alternativen zu Moon mit eigenem Bad (14.11.2026)
+
+[**Neue detaillierte Unterkunftsrecherche mit 3 Anbietern, E-Mail-Adressen und englischem Anfrageentwurf**](Krakau-Unterkunft-Alternativen-Privatbad-E-Mail-Anfragen-2027.md). Neben **Moon Hostel** mit echtem ensuite-EZ „ab 99 PLN“ sind bei **Cybulskiego Guest Rooms** (Booking ca. **9,1/10**, 9,4 Sauberkeit, private Dusche/WC + Gemeinschaftsküche/-Kochnische; offizieller Einstieg ab **150 PLN/Nacht**, mögliche **15%** Langzeitrate aber **nicht** für Juli 2027 garantiert), **Atlantis Hostel** (echtes **Single Room Ensuite**, voll ausgestattete Gemeinschaftsküche, Booking ca. **8,3/10**, **kein 21-Nächte-Tarif**), und **Freedom Hostel** (eigenes Bad im echten Single Room Ensuite, mehrere gemeinsame Kochküchen, Booking ca. **8,1/10**, **kein 21-Nächte-Tarif**) geeignete Vergleichsangebote gefunden. Kontakte: **recepcja@freerooms.pl**, **atlantis@atlantishostel.pl**, **freedom@freedomhostel.pl**. **Trzy Kafki** ist Preis-Referenz mit offiziell für Juli/August veröffentlichten **120/130 PLN pro Nacht** in privatem Einzelzimmer mit eigenem Bad (3 Wochen = **2.580 PLN ~600 €**, Tarifjahr/2027 noch prüfen), aber **ohne allgemein nutzbare echte Gemeinschaftsküche** und nur zwei Sonderzimmer mit Privatküche. **Kein Hotel angeschrieben, nichts reserviert**.
+
 ## Verbindliche Reihenfolge (ersetzt ältere Top-3-Entscheidung)
 
 **1. POLEN – 2. SLOWAKEI – 3. TSCHECHIEN.**
