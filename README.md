@@ -9,7 +9,7 @@
 | Art | Erasmus+-Auslandspraktikum über Schule / entsendende Organisation, Berufsausbildung **Elektroniker für Betriebstechnik** |
 | Zeitraum | **3 Wochen im Juli 2027**, für Unterkunftsvergleich 21 aufeinanderfolgende Nächte, konkrete Daten noch offen |
 | Sprache | Englisch ungefähr B1 oder Deutsch; die fachliche Betreuung und **Sicherheitseinweisung** müssen verständlich und bestätigt sein |
-| Unterkunft | **Eigenes, abschließbares Schlafzimmer Pflicht**. Eigenes Bad und Küchenzeile stark bevorzugt, Gemeinschaftsküche akzeptabel. Kein Mehrbettzimmer als Ersatz |
+| Unterkunft | **Eigenes, abschließbares Schlafzimmer UND ausschließlich eigenes Bad (Dusche/WC) sind PFLICHT**. Küche/Küchenzeile wünschenswert, eine Gemeinschaftsküche ist okay, eigene Küche nicht Pflicht. Keine Schlafsäle, keine gemeinsam mit anderem Zimmer benutzten Bäder. **Nutzeränderung 14.11.2026** |
 | Finanzierung | Erasmus+-Förderung vorrangig; **bis ungefähr 400 € Eigenanteil, ggf. nach individueller Entscheidung auch mehr** für Unterkunft, Essen und Nahverkehr |
 | Freizeitbudget | Separat: Museen, Führungen, Bergbahnen, Ausflüge, besondere Aktivitäten – **nicht pauschal als gratis** ansetzen |
 | Erlebnisse | Schöne, abwechslungsreiche Stadt, Berge/Wälder/Seen/Burgen, möglichst viele Tagestrips bis etwa 3 Stunden je Richtung |
@@ -18,6 +18,14 @@
 | Pflichtbedingungen | Praktischer Elektrotechnik-Einsatz für exakt drei Wochen, Lernvereinbarung, fachliche Betreuung und Arbeitsschutz, tatsächliches Zimmerangebot, individuelle Förder- und Versicherungsklärung |
 
 **Wichtig:** Kein Betrieb, keine Unterkunft, kein 2027-Preis und keine persönliche Förderhöhe sind bisher verbindlich bestätigt. Nichts wurde gebucht, bezahlt oder als Bewerbung abgeschickt.
+
+## AKTUELLE BEDINGUNG – eigenes Badezimmer ist Pflicht (14.11.2026)
+
+**Neue Vorgabe des Nutzers:** Zimmer muss **exklusiv für eine Person und abschließbar** sein; **Dusche und WC ausschließlich für diese Zimmereinheit**, nicht mit fremden Zimmern geteilt. **Eigene Küche ist OPTIONAL** – gemeinsame Küche oder nur einfache Verpflegungsmöglichkeit sind erlaubt; bei fehlender Küche höheren Essensetat einplanen.
+
+Für **Plzeň** zuerst **Hotel Máchova 20 (offizielle Hotel-Einzelzimmer mit privatem Bad, 690 CZK/Nacht = 14.490 CZK für 21 Nächte, zzgl. derzeit 35 CZK pro steuerpflichtigem Aufenthaltstag; bei 20 Tagen ~15.190 CZK / 24,4 ≈ 623 €)**, **Penzion 16 (700 CZK/Nacht für Einzelzimmer mit beworbener eigener Dusche/WC und Kochnische; 14.700 CZK ≈ 602 € vor Tax)**, und **AK Penzion (690 CZK/Nacht EZ, beworbene private Dusche/WC, 14.490 CZK ≈ 594 € vor Tax; keine echte Kochküche)** unverbindlich anfragen. **Zimmerfotos, Privatbad speziell für EZ, 21 Julinächte 2027, Preis/Abgaben und 3-Wochen-Rabatt erst schriftlich sichern.** [Aktualisierte Plzeň-Unterkunftsakte](Plzen-Unterkunftscheck-guenstig-gut-Juli-2027.md).
+
+**Nicht mehr passend:** Palackého 6, Karlov, Agape-Kategorien mit geteiltem Bad, Hodkovická und Donaki mit geteiltem Bad, Liberec TUL Harcov (Bad geteilt), Olomouc günstige „Other guests“ Gästezimmer mit geteiltem Bad. Alle historischen Preise bleiben dokumentiert, dürfen aber **nicht als für den Nutzer gültige Top-Optionen** gelten.
 
 ## NEU: Qualitätssuche Plzeň-Unterkunft (14.11.2026)
 
@@ -88,7 +96,7 @@ In Tschechien ist **Olomouc nach Korrektur der allgemeinen Gästetarife mit ~405
 
 1. Landesweit **beste Stadt plus zwei reale Alternativen** aufgrund von Lebensqualität, Ausflügen, technischen Praktikumsansätzen und Unterkunftspreisen prüfen.
 2. **Nachweisbar technische Betriebe** finden, zwischen offenem Erasmus-VET-Azubi-Praktikum, Hochschulpraktikum, lokaler Vollzeit-Lehre und bloßem Arbeitgeber unterscheiden; keine Praktikumszusage erfinden.
-3. **Privat benutztes und abschließbares Schlafzimmer** für 21 Julinächte, idealerweise eigenes Bad und Küche; Nutzungsberechtigung für externen deutschen Azubi und realen Endpreis inklusive Gebühren/Ortstaxe/Storno erfassen.
+3. **Privat benutztes, abschließbares Schlafzimmer UND ausschließlich eigenes Badezimmer mit Dusche/WC** für 21 Julinächte (beides Pflicht), Küche nach Möglichkeit im Zimmer oder gemeinschaftlich; Nutzungsberechtigung für externen deutschen Azubi und realen Endpreis inklusive Gebühren/Ortstaxe/Storno erfassen.
 4. Gesamtbudget: Unterkunft, Lebensmittel, innerstädtischen ÖPNV und An-/Rückreise aus Berlin. **Freizeit/Eintritte und Reserve** separat. Förderung nie als bereits genehmigt behandeln.
 5. Sommerhitze am Arbeitsplatz und Sprache der Sicherheitsunterweisung prüfen; praktikable Bus-/Bahn-Ausflüge vorschlagen, **keine erfundenen Fahrzeiten**.
 6. Quelle, Quellenstand, Unsicherheiten und **konkrete unverbindliche Rückfragen** dokumentieren. Kein Versand, kein Buchen ohne Aufforderung.
