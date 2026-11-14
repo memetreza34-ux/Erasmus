@@ -19,6 +19,10 @@
 
 **Wichtig:** Kein Betrieb, keine Unterkunft, kein 2027-Preis und keine persönliche Förderhöhe sind bisher verbindlich bestätigt. Nichts wurde gebucht, bezahlt oder als Bewerbung abgeschickt.
 
+## Deine verbindliche Top 3 (14.11.2026)
+
+**1. TSCHECHIEN – 2. POLEN – 3. SLOWAKEI**, exakt in dieser Reihenfolge vom Nutzer festgelegt; **kein automatisch neuer Länder-Gewinner**. [Neuer Entscheidungs- und Städtevergleich mit Olomouc vs. Liberec](Top-3-Nutzerentscheidung-Tschechien-Polen-Slowakei-2027.md). **Österreich, Slowenien und Ungarn nur Reserve**, die zuvor wegen der Unterkunftskosten zurückgestellten Länder weiter archivieren. Italien bleibt übersprungen. **Olomouc-Preiskorrektur:** Frühere 390 CZK/Nacht waren ein studentischer/Universitäts-Ermäßigungstarif. Für gewöhnliche externe Gäste **470–590 CZK/Nacht (~405–508 €/21 Nächte) zzgl. Ortstaxe** statt irrtümlich 336 €. [Offizielle Palacký-Tabelle](https://skam.upol.cz/en/accommodation/accommodation-price-list/). Kein Juli-2027-Angebot bestätigt.
+
 ## 2. Bearbeitungsstand – Land für Land
 
 | Nr. | Land | Beste aktuell gefundene Basisstadt | Rechercheakte / Status |
@@ -43,7 +47,7 @@
 
 Neue Arbeitsregel: Zum Kostensparen bleiben zunächst **Tschechien, Polen, Slowakei, Österreich, Slowenien und Ungarn** im näheren Vergleich. **Bulgarien, Luxemburg, Belgien und Niederlande** werden auf Grundlage der bisher gefundenen teuren Unterkunftsoptionen **zurückgestellt, nicht gelöscht**. Italien wird **auf Nutzerwunsch ausgelassen, nicht als recherchiertes teures Land eingestuft**. Die Unterkunftsgrenze von **ca. 700 € für 21 Nächte** ist **nur ein vorläufiger Filter**, keine endgültige harte Preisvorgabe oder Bestätigung einer Buchbarkeit. Ein **eigenes abschließbares Schlafzimmer ist Pflicht**; eigenes Bad sehr bevorzugt. Beispielpreise sind meist **2026er Richtwerte ohne Verfügbarkeitszusage Juli 2027**. Nach tatsächlich vermittelter Schulunterkunft können zurückgestellte Ziele wieder sinnvoll werden.
 
-In Tschechien ist **Olomouc (~336 € zzgl. Abgaben, geteiltes Bad)** derzeit die preislich günstigere zu prüfende Alternative zum früheren Länderfavoriten Liberec (~456–490 €), daher bei weiterem Vergleich **beide** betrachten. Bei privatem Bad besonders **Žilina H3 (~357 € zzgl. Abgabe)**, Bielsko-Biała Monterska (~459 €, schlechtere Bahnhofsanbindung), Innsbruck (~570 € für vollen Sommermonat plus Kaution) und Miskolc (~620–660 €) prüfen.
+In Tschechien ist **Olomouc nach Korrektur der allgemeinen Gästetarife mit ~405–508 € zzgl. Ortstaxe (geteiltes Bad)** weiterhin eine günstige zu prüfende Alternative zum früheren Länderfavoriten Liberec (~490 € für ganzes Gästezimmer inkl. aktuell ausgewiesener Ortstaxe); **beide** prüfen. Bei privatem Bad besonders **Žilina H3 (~357 € zzgl. Abgabe)**, Bielsko-Biała Monterska (~459 €, schlechtere Bahnhofsanbindung), Innsbruck (~570 € für vollen Sommermonat plus Kaution) und Miskolc (~620–660 €) prüfen.
 
 ## 3. Besonders relevante Erkenntnisse
 
@@ -69,7 +73,7 @@ In Tschechien ist **Olomouc (~336 € zzgl. Abgaben, geteiltes Bad)** derzeit di
 
 ## 5. Nächste Schritte
 
-**Italien wird nicht weiter recherchiert.** Als Nächstes den **[Unterkunftsfilter](Unterkunftsfilter-21-Naechte-Juli-2027.md)** auf die **sechs preislich verbliebenen Länder** anwenden und daraus nach Freizeitwert, Zimmerkomfort, Arbeitsweg und real möglichem **3-Wochen-Elektrotechnik-Praktikum mit verständlicher Betreuung** eine neue Top 3 bilden. Den wirklichen Gesamtpreis und die Förderhöhe erst nach konkreten Angeboten als bestätigt behandeln. Danach einen transparenten **Gesamtvergleich der 3-Wochen-Kandidaten** erstellen, eine realistische Top 3 (ggf. Reserven) nach **Ausschluss-/Pflichtbedingungen** auswählen und über die Schule verbindlich Praktikums- und Unterkunftsanfragen anstoßen. **Parallel** die österreichischen Bewerbungsfristen Anfang 2027 und die reale Erasmus-Förderung über die Schule klären.
+**Die Top 3 ist vom Nutzer nun festgelegt: 1. Tschechien, 2. Polen, 3. Slowakei.** Im [aktuellen Entscheidungsdokument](Top-3-Nutzerentscheidung-Tschechien-Polen-Slowakei-2027.md) steht die Feinwahl Olomouc versus Liberec an. Danach reale dreiwöchige Praktikumsmöglichkeit, verständliche Sicherheitsbetreuung, **eigenes Zimmer** und aktuellen Sommer-Endpreis klären. Italien ist ausgelassen. Den wirklichen Gesamtpreis und die Förderhöhe erst nach konkreten Angeboten als bestätigt behandeln. Danach einen transparenten **Gesamtvergleich der 3-Wochen-Kandidaten** erstellen, eine realistische Top 3 (ggf. Reserven) nach **Ausschluss-/Pflichtbedingungen** auswählen und über die Schule verbindlich Praktikums- und Unterkunftsanfragen anstoßen. **Parallel** die österreichischen Bewerbungsfristen Anfang 2027 und die reale Erasmus-Förderung über die Schule klären.
 
 ## 6. Alte / ergänzende Recherche
 
