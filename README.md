@@ -19,6 +19,16 @@
 
 **Wichtig:** Kein Betrieb, keine Unterkunft, kein 2027-Preis und keine persönliche Förderhöhe sind bisher verbindlich bestätigt. Nichts wurde gebucht, bezahlt oder als Bewerbung abgeschickt.
 
+## Aktueller Unterkunfts-Nachfilter: günstiger als Harcov (14.11.2026)
+
+**Neues Nutzerziel: statt ~491–700 € privat und deutlich günstiger schlafen**, ggf. Nachbarstadt. [Aktualisierte Unterkunftsanfragen Liberec/Jablonec mit neuen E-Mail-Vorlagen](Liberec-Unterkuenfte-Anfragen-Juli-2027.md).
+
+1. **Ubytovna Hodkovická direkt Liberec:** Offizieller **Einzelzimmer-Monatstarif 9.000 CZK (~369 €)** laut Betreiber ab **September 2026**. Betreiber empfiehlt selbst ab 19 Tagen, ganzen Monat statt 500-CZK-Tagessatz zu zahlen. WC/Dusche/Küche **geteilt**, Privat-Zimmerschlüssel und 21-Nächte-Nutzung bei Zahlung Monatsbetrag sowie 2027er Abgaben noch offen. **Neue Anfragepriorität 1**. Quelle https://ubytovnahodkovicka.cz/cenik/
+2. **Hotel Sport Jablonec nad Nisou:** echtes Einzelzimmer **mit eigenem Bad**, aber **nur ein solches Zimmer** und widersprüchliche veröffentlichte Preise **450 vs. 620 CZK/Nacht** (ca. **387–534 € für 21 Nächte vor Ortstaxe**). Nachbarstadt via Tram 11 ungefähr **25 Min. Haltestelle–Haltestelle** plus Hin-/Rückwege und ÖPNV-Kosten; für ein praktisches Firmeneinsatzgebiet erst tatsächlichen Arbeitsweg prüfen. **Neue Anfragepriorität 2**. Quelle https://www.jablonec.com/ubytovani/hotel-sport/
+3. **Donaki direkt Liberec Reserve:** 500 CZK/Nacht Einzelzimmer-Rate (~430 € für 21 Nächte vor Stadtsteuer), gemeinsame Küche, WC/Dusche je zwei Zimmer, alleiniger Zimmerzugang bestätigen. Quelle https://levneubytovaniliberec.cz/cenik/
+
+**Alle Preise unverbindlich: 2027er Gesamtkosten/Verfügbarkeit und Exklusivbelegung nicht bestätigt; keine Mail verschickt oder Reservierung ausgelöst.** Besonders niedrige 165–216-CZK-Herbergs-Bettpreise **nicht** als privat verfügbares Einzelzimmer behandeln; Sadová/Jablonec 150-CZK-Listing hat zudem bedenkliche Qualitätsberichte. Das **ältere Harcov/Pytloun/Golden-Key-Ranking ist überholt**, bleibt Vergleichsarchiv.
+
 ## Aktuelle Liberec-Unterkunftsanfragen (14.11.2026)
 
 **[Liberec: konkrete Unterkünfte und 3 fertige, noch nicht versendete Anbieter-E-Mails](Liberec-Unterkuenfte-Anfragen-Juli-2027.md)**. Kurzstand: **TUL Harcov 21 Nächte 11.970 CZK (~491 €)** für exklusiv anzufragendes ganzes Zimmer, Bad/Küche geteilt. **Pytloun Apartments**: öffentlicher 21-Nächte-„ab“-Langzeittarif **740 CZK/Nacht** plus 50 CZK/Tag Citytax und 500 CZK Reinigung → **17.090 CZK (~700 €)** für ein privates Apartment mit Bad/Küche, nur wenn der Tarif im Juli 2027 tatsächlich gilt; **2.000 CZK rückzahlbare Kaution** extra. **Golden Key**: privates City-Studio mit Bad/Küche, Preis **nur auf Anfrage**. 21-Nächte- und Nichtstudierenden-Eignung noch unbestätigt; nichts gebucht oder verschickt.
