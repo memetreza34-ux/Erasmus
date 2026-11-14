@@ -59,6 +59,10 @@ Juli 2027, drei Wochen und für Unterkunftsvergleich 21 zusammenhängende Nächt
 
 **Hliny V, H3**: **17 €/Nacht × 21 = 357 € zzgl. lokaler Abgabe**, einzelnes Gästezimmer mit **eigenem Bad**, wenige geeignete Apartments, Juli 2027 und externe deutsche Gäste ungeklärt. Technische Ansätze: **Kia Slovakia** lokale duale Elektro-/Automatisierungsausbildung und **ELMAX** Automations-/Schaltschrankbetrieb, aber keine dreitägige/dreiwöchige externe Erasmus-Zusage. Gute Natur Malá Fatra, Strečno, Wanderungen und Zug an Hohe Tatra. Siehe [Slowakei-Landakte](Land-04-Slowakei-2027.md).
 
+## Tschechien-Stadtwahl erneut geöffnet (14.11.2026)
+
+**[Tschechien-Städtevergleich: Plzeň vs. Liberec, České Budějovice und Brno](Tschechien-Staedte-Neubewertung-Plzen-Liberec-2027.md)**. Der Nutzer hat nach einer möglicherweise besseren Stadt als Liberec gefragt; **Plzeň/Pilsen ist der neue erste Prüfkandidat**, weil **Škoda Electric** für lokale Elektro-/Technikschüler konkret **14-tägige Praxis und Lehrlingspraxis im Werk** nennt (drei Wochen und englisch/deutsch für deutschen Azubi nicht bestätigt) und **Palackého 6** ein echtes Einzelzimmer nach 2026er Auszeichnung **250 CZK/Nacht ab 8 Tagen + 35 CZK Tax = ~245 € / 21 Nächte** bewirbt. **Liberec bleibt aktive Natur-Alternative**, Brno und České Budějovice als weitere geprüfte Städte. **LAND-Rangliste 1 Tschechien, 2 Polen, 3 Slowakei bleibt bestehen; die Stadt ist noch nicht vom Nutzer entschieden**. Keine Anfragen/Reservierungen.
+
 ## Konkrete Liberec-Unterkünfte und E-Mails (14.11.2026)
 
 [Neue Anbieterrecherche mit drei prüfbaren Unterkünften und drei fertig formulierten, **noch nicht versendeten** E-Mails](Liberec-Unterkuenfte-Anfragen-Juli-2027.md). **TUL Harcov** ~11.970 CZK (~491 €) für eigene Zimmerbelegung mit geteiltem Bad/Küche; **Pytloun Apartments** ~17.090 CZK (~700 €) inkl. ausgewiesener aktueller Abgaben/Reinigung für Privatbad und eigene Küche, aber tatsächlicher Juli-2027-Tarif fehlt, zusätzliche rückzahlbare Kaution 2.000 CZK; **Golden Key** Studio mit eigenem Bad/Küche, Preis noch offen. Eigene Zimmerbelegung und Juli-Termine schriftlich anfragen. Keine Buchung/E-Mail versandt.
