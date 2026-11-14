@@ -14,6 +14,12 @@
 
 **Wichtig:** Weiter unten in dieser README und in älteren Vergleichsdateien können **historische** Einträge „1. Tschechien, 2. Polen, 3. Slowakei“ stehen: **nicht die aktuelle Nutzerentscheidung**. Aktuell **Polen → Slowakei → Tschechien**.
 
+## Krakau – neu geprüfte Unterkünfte + TATSÄCHLICH VERSANDTE Anfragen (14.11.2026)
+
+[**Neu recherchiert: Akacja, Summer Hostel AKF und Premium Hostel mit privaten Badezimmern, Preis-/Qualitätsprüfung und Kontaktdaten**](Krakau-Zusatzunterkuenfte-Akacja-AKF-Premium-Juli-2027.md). **Akacja** hervorragende Booking-Gästewertung ca. **9,5/10**, Sauberkeit **9,7/10**, privates Bad + Gemeinschaftsküche; **21-Nächte-Preis offen**, direkte Kontaktmail `akacja@akacjakrakow.pl`. **Summer Hostel AKF** offiziell 2026 **Einzelzimmer ab 15 Nächten 110 PLN/Nacht**, **2.310 PLN/21 Nächte (~537 €)** mit eigener Dusche/WC und Küchenzeile auf jeder Etage, einfache/teils schlecht bewertete Wohnheimqualität; Kontakt https://hostel.akf.krakow.pl/index.php/kontakt (Mailadresse durch Spam-Schutz versteckt). **Premium Hostel** `premium@premiumhostel.pl` echtes EZ mit Privatbad & Gemeinschaftsküche, 21-Nächte-Preis offen; **selbe Straßenadresse Pomorska 2 wie bereits kontaktiertes Freedom**, daher eventuell nicht unabhängig.
+
+**KORREKTUR – Stand aus verbundenem Gmail bestätigt:** Nutzer hat am **14.11.2026 bereits AN ALLE VIER** bisherigen Krakauer Erstkontakte gesendet: **Moon Hostel 18:45**, **Cybulskiego 19:06**, **Atlantis 19:06** und **Freedom 19:08 Uhr**. Die früheren Formulierungen in diesen Akten „keine E-Mail gesendet“ waren damalige Momentaufnahmen und sind **inzwischen überholt**. **Cybulskiego und Atlantis enthielten versehentlich `[Your name]` als Abschiedsplatzhalter**; es wurde **noch keine Korrektur versendet**. **AKF, Akacja, Premium noch NICHT angeschrieben**. In künftigen Anfragen echten Namen vor Versand eintragen.
+
 ## 1. Verbindliche Anforderungen
 
 | Thema | Aktueller Wunsch |
