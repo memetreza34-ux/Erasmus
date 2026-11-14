@@ -20,6 +20,10 @@
 
 **KORREKTUR – Stand aus verbundenem Gmail bestätigt:** Nutzer hat am **14.11.2026 bereits AN ALLE VIER** bisherigen Krakauer Erstkontakte gesendet: **Moon Hostel 18:45**, **Cybulskiego 19:06**, **Atlantis 19:06** und **Freedom 19:08 Uhr**. Die früheren Formulierungen in diesen Akten „keine E-Mail gesendet“ waren damalige Momentaufnahmen und sind **inzwischen überholt**. **Cybulskiego und Atlantis enthielten versehentlich `[Your name]` als Abschiedsplatzhalter**; es wurde **noch keine Korrektur versendet**. **AKF, Akacja, Premium noch NICHT angeschrieben**. In künftigen Anfragen echten Namen vor Versand eintragen.
 
+## AKTUELL – Polen Platz 2 unter den Städten: Bielsko-Biała (14.11.2026)
+
+**[Bielsko-Biała: 3 geprüfte Privatbad-Unterkünfte, 21-Nächte-Rechnung, E-Mail-Kontakte, ALFA POLAND und Ausflüge ohne Auto](Polen-Bielsko-Biala-Unterkuenfte-Praktikum-Ausfluege-Juli-2027.md)**. **Krakau bleibt die bevorzugte erste POLNISCHE Stadt für den Vergleich, Bielsko-Biała auf Platz 2, Wrocław auf Platz 3.** LÄNDER-Prioritäten unverändert **1 Polen, 2 Slowakei, 3 Tschechien**. Bielsko: **Hello** zentral Bahnhof mit privatem EZ-Bad und gemeinsamer Küche, **GastHaus** offiziell EZ eigenes Bad 160 PLN/Nacht plus Rabattmöglichkeit & zwei Küchen, **Monterska** als Sparoption 95 PLN/Nacht aus Portal, aber **kein aktuell nachweisbares Einzelzimmer in Booking-Kategorien, über 6 km vom Bahnhof**. **21-Nächte-Julipreise 2027 alle unbestätigt.** **ALFA POLAND** offizielle technische Schülerpraktika in Automation/industrieller Instandhaltung, für deutsche externe Erasmus-Azubis 3 Wochen und B1/Deutsch noch ungeklärt. **An Hello/Gasthaus/PTTK/ALFA laut verbundener Gmail-Suche noch KEINE E-Mail gesendet; keine Buchung.**
+
 ## 1. Verbindliche Anforderungen
 
 | Thema | Aktueller Wunsch |
