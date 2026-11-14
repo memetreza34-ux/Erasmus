@@ -2,6 +2,14 @@
 
 **Aktueller Projektstand: 14. November 2026.** Diese README ist ab jetzt die **Einstiegs- und Statusseite**; [die geordnete Länderliste mit allen individuellen Erkenntnissen](EU-Laenderliste-und-Budget-Juli-2027.md) ist das operative Arbeitsdokument. Vor dem 13.11.2026 verfasste 4-Wochen-Pläne und alte Top-3-Rankings sind [historisch archiviert](README-Archiv-12-11-2026.md) und **nicht die geltende Entscheidung**.
 
+## AKTUELL – NEUE TOP 3 und POLEN/KRAKAU (14.11.2026, letzte Nutzerentscheidung)
+
+**JETZT verbindliche Länderreihenfolge: 1. POLEN – 2. SLOWAKEI – 3. TSCHECHIEN.** Diese Entscheidung **ersetzt** die älteren CZ–PL–SK-Rankings im restlichen Repository. **[Aktuelle Top-3-Entscheidung](Top-3-Polen-Slowakei-Tschechien-2027.md)**.
+
+**Fokus jetzt Kraków/Krakau in Polen**, ausdrücklich vom Nutzer nach der persönlichen Empfehlung eines Freundes zur Freizeit- und Ausflugsrecherche ausgewählt. Noch **kein endgültiger polnischer Ort entschieden**, Bielsko-Biała und Wrocław bleiben Alternativen. **[Krakau: 3-Wochen-Ausflüge ohne Auto, eigene Dusche/WC, mögliche Elektrikpraktika und Preise](Krakau-Ausfluege-Elektrotechnik-Unterkunft-Juli-2027.md)**. Besonders attraktiv: Wawel/Kazimierz/Altstadt und Zakrzówek, Gaming- und Technikmuseen, Wieliczka (~20–30 Min Bahn), Energylandia (~1h Zug direkt zum Park), Ojców saisonaler Wochenendbus, Zakopane/Hohe Tatra (~2–3 h Bus). **Moon Hostel Kraków hat offiziell eigene Single-Zimmer mit privatem Bad und Gemeinschaftsküche „ab 99 PLN/Nacht“**, 21×99 =2079 PLN (~483 € Vergleich, **nicht** 2027er Juli-Preis). **MPK Kraków** offiziell berufsschulische technische Praktika, `kadry@mpk.krakow.pl`; 3 Wochen Erasmus und verständlicher Arbeitsschutz **nicht bestätigt**. **Keine E-Mails versendet, nichts reserviert.**
+
+**Wichtig:** Weiter unten in dieser README und in älteren Vergleichsdateien können **historische** Einträge „1. Tschechien, 2. Polen, 3. Slowakei“ stehen: **nicht die aktuelle Nutzerentscheidung**. Aktuell **Polen → Slowakei → Tschechien**.
+
 ## 1. Verbindliche Anforderungen
 
 | Thema | Aktueller Wunsch |
@@ -21,7 +29,7 @@
 
 ## AKTUELLER 9-STÄDTE-VERGLEICH (14.11.2026) – gültige Vorauswahl
 
-**[Alle 9 Städte in der festen Länderreihenfolge mit privater Dusche/WC, Küche, 21-Nächte-Preisen, Elektrotechnikbetrieben und Ausflügen](Top-3-Laender-9-Staedte-Privatbad-Juli-2027.md)**. Länder **1. Tschechien, 2. Polen, 3. Slowakei** bleiben genau so; pro Land jetzt drei konkrete Städte. **CZ: Plzeň / Liberec / Brno**; **PL: Bielsko-Biała / Kraków / Wrocław**; **SK: Žilina / Poprad / Košice**. **Eigene, abschließbare Schlafzimmereinheit UND ausschließlich eigenes Bad mit Dusche/WC Pflicht; Küche im Zimmer oder gemeinschaftlich bevorzugt.**
+**[Alle 9 Städte in der festen Länderreihenfolge mit privater Dusche/WC, Küche, 21-Nächte-Preisen, Elektrotechnikbetrieben und Ausflügen](Top-3-Laender-9-Staedte-Privatbad-Juli-2027.md)**. **Historische Länderfolge dieses älteren 9-Städte-Checks: Tschechien, Polen, Slowakei. AKTUELL gilt Polen, Slowakei, Tschechien.** Pro Land je drei Städte. **CZ: Plzeň / Liberec / Brno**; **PL: Bielsko-Biała / Kraków / Wrocław**; **SK: Žilina / Poprad / Košice**. **Eigene, abschließbare Schlafzimmereinheit UND ausschließlich eigenes Bad mit Dusche/WC Pflicht; Küche im Zimmer oder gemeinschaftlich bevorzugt.**
 
 **Gültige Vergleichsunterkünfte:** CZ Hotel Máchova 20 ca. **623 €** (Einzelzimmer, Bad eigen), Pension TIP Liberec ca. **559 €** (eigenes Bad, Miniküche ohne Herd), K Penzion Brno ca. **508 €** vor Abgaben (eigene Dusche/WC, Gemeinschaftsküchenzeile). PL Bielsko Monterska ca. **464 €** (eigenes Bad, Gemeinschaftsküche), Kraków Moon Hostel **ab ca. 483 €**, Wrocław Moon Hostel **ab ca. 415 €** (jeweils private Einzelzimmer mit eigenem Bad und Gemeinschaftsküche; **„ab“-Tarife nicht Julibuchungspreise**). SK Žilina Hliny H3 **357 € plus Tax** (echtes Einpersonen-Apartment mit eigener Dusche/WC), Poprad Dobré Časy **Preis auf Anfrage** (Privatbad, Gemeinschaftsküche), Košice Centrum Apartment 5 **672 € vor ggf. Tax** (eigenes Apartment, Bad/Küche). **2027er Termine/Endpreise nirgendwo verbindlich bestätigt.**
 
@@ -57,9 +65,9 @@ Für **Plzeň** zuerst **Hotel Máchova 20 (offizielle Hotel-Einzelzimmer mit pr
 
 **[Liberec: konkrete Unterkünfte und 3 fertige, noch nicht versendete Anbieter-E-Mails](Liberec-Unterkuenfte-Anfragen-Juli-2027.md)**. Kurzstand: **TUL Harcov 21 Nächte 11.970 CZK (~491 €)** für exklusiv anzufragendes ganzes Zimmer, Bad/Küche geteilt. **Pytloun Apartments**: öffentlicher 21-Nächte-„ab“-Langzeittarif **740 CZK/Nacht** plus 50 CZK/Tag Citytax und 500 CZK Reinigung → **17.090 CZK (~700 €)** für ein privates Apartment mit Bad/Küche, nur wenn der Tarif im Juli 2027 tatsächlich gilt; **2.000 CZK rückzahlbare Kaution** extra. **Golden Key**: privates City-Studio mit Bad/Küche, Preis **nur auf Anfrage**. 21-Nächte- und Nichtstudierenden-Eignung noch unbestätigt; nichts gebucht oder verschickt.
 
-## Deine verbindliche Top 3 (14.11.2026)
+## Historische Top 3 (am 14.11.2026 später geändert)
 
-**1. TSCHECHIEN – 2. POLEN – 3. SLOWAKEI**, exakt in dieser Reihenfolge vom Nutzer festgelegt; **kein automatisch neuer Länder-Gewinner**. [Neuer Entscheidungs- und Städtevergleich mit Olomouc vs. Liberec](Top-3-Nutzerentscheidung-Tschechien-Polen-Slowakei-2027.md). **Österreich, Slowenien und Ungarn nur Reserve**, die zuvor wegen der Unterkunftskosten zurückgestellten Länder weiter archivieren. Italien bleibt übersprungen. **Olomouc-Preiskorrektur:** Frühere 390 CZK/Nacht waren ein studentischer/Universitäts-Ermäßigungstarif. Für gewöhnliche externe Gäste **470–590 CZK/Nacht (~405–508 €/21 Nächte) zzgl. Ortstaxe** statt irrtümlich 336 €. [Offizielle Palacký-Tabelle](https://skam.upol.cz/en/accommodation/accommodation-price-list/). Kein Juli-2027-Angebot bestätigt.
+**HISTORISCHER ZWISCHENSTAND (durch spätere Entscheidung überholt): Tschechien – Polen – Slowakei. AKTUELL ist Polen – Slowakei – Tschechien.** [Neuer Entscheidungs- und Städtevergleich mit Olomouc vs. Liberec](Top-3-Nutzerentscheidung-Tschechien-Polen-Slowakei-2027.md). **Österreich, Slowenien und Ungarn nur Reserve**, die zuvor wegen der Unterkunftskosten zurückgestellten Länder weiter archivieren. Italien bleibt übersprungen. **Olomouc-Preiskorrektur:** Frühere 390 CZK/Nacht waren ein studentischer/Universitäts-Ermäßigungstarif. Für gewöhnliche externe Gäste **470–590 CZK/Nacht (~405–508 €/21 Nächte) zzgl. Ortstaxe** statt irrtümlich 336 €. [Offizielle Palacký-Tabelle](https://skam.upol.cz/en/accommodation/accommodation-price-list/). Kein Juli-2027-Angebot bestätigt.
 
 ## 2. Bearbeitungsstand – Land für Land
 
@@ -111,7 +119,7 @@ In Tschechien ist **Olomouc nach Korrektur der allgemeinen Gästetarife mit ~405
 
 ## 5. Nächste Schritte
 
-**Die Top 3 ist vom Nutzer nun festgelegt: 1. Tschechien, 2. Polen, 3. Slowakei.** Im [aktuellen Entscheidungsdokument](Top-3-Nutzerentscheidung-Tschechien-Polen-Slowakei-2027.md) steht die Feinwahl Olomouc versus Liberec an. Danach reale dreiwöchige Praktikumsmöglichkeit, verständliche Sicherheitsbetreuung, **eigenes Zimmer** und aktuellen Sommer-Endpreis klären. Italien ist ausgelassen. Den wirklichen Gesamtpreis und die Förderhöhe erst nach konkreten Angeboten als bestätigt behandeln. Danach einen transparenten **Gesamtvergleich der 3-Wochen-Kandidaten** erstellen, eine realistische Top 3 (ggf. Reserven) nach **Ausschluss-/Pflichtbedingungen** auswählen und über die Schule verbindlich Praktikums- und Unterkunftsanfragen anstoßen. **Parallel** die österreichischen Bewerbungsfristen Anfang 2027 und die reale Erasmus-Förderung über die Schule klären.
+**HISTORISCHER ZWISCHENSTAND, überholt: Tschechien, Polen, Slowakei. AKTUELL: Polen, Slowakei, Tschechien.** Im [aktuellen Entscheidungsdokument](Top-3-Nutzerentscheidung-Tschechien-Polen-Slowakei-2027.md) steht die Feinwahl Olomouc versus Liberec an. Danach reale dreiwöchige Praktikumsmöglichkeit, verständliche Sicherheitsbetreuung, **eigenes Zimmer** und aktuellen Sommer-Endpreis klären. Italien ist ausgelassen. Den wirklichen Gesamtpreis und die Förderhöhe erst nach konkreten Angeboten als bestätigt behandeln. Danach einen transparenten **Gesamtvergleich der 3-Wochen-Kandidaten** erstellen, eine realistische Top 3 (ggf. Reserven) nach **Ausschluss-/Pflichtbedingungen** auswählen und über die Schule verbindlich Praktikums- und Unterkunftsanfragen anstoßen. **Parallel** die österreichischen Bewerbungsfristen Anfang 2027 und die reale Erasmus-Förderung über die Schule klären.
 
 ## 6. Alte / ergänzende Recherche
 
