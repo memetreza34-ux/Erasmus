@@ -33,9 +33,17 @@
 | 08 | Luxemburg | **Luxemburg-Stadt**, Alternativen Esch/Belval und Ettelbruck | [Luxemburg 2027](Land-08-Luxemburg-2027.md) – Recherche fertig **14.11.2026** |
 | 09 | Belgien | **Eupen** vorläufig wegen deutschsprachiger industrieller Ausbildungsbetriebe; Gent Freizeitfavorit | [Belgien 2027](Land-09-Belgien-2027.md) – Recherche fertig **14.11.2026** |
 | 10 | Niederlande | **Enschede / Hengelo** vorläufig wegen nachgewiesener MBO-Elektropraktika | [Niederlande 2027](Land-10-Niederlande-2027.md) – Recherche fertig **14.11.2026** |
-| 11 | Italien (optional) | Noch nicht entschieden | Optional |
+| 11 | Italien | **Auf Nutzerwunsch ausgelassen** | Kein weiterer Ländercheck – keine Italienpreise ermittelt |
 
-**Fortschritt: 10 von 10 Pflichtländern recherchiert, Italien optional.** Ländergewinner sind derzeit **nur Kandidaten für die nächste Entscheidungsrunde**, keine Standorte mit zugesagtem Praktikumsplatz. Ein neuer länderübergreifender Gesamtvergleich unter den **3-Wochen-Anforderungen** ist erst nach Abschluss der Länderrunden sinnvoll.
+**Fortschritt: 10 von 10 Pflichtländern recherchiert; Italien übersprungen.** Ländergewinner sind derzeit **nur Kandidaten für die nächste Entscheidungsrunde**, keine Standorte mit zugesagtem Praktikumsplatz. Ein neuer länderübergreifender Gesamtvergleich unter den **3-Wochen-Anforderungen** ist erst nach Abschluss der Länderrunden sinnvoll.
+
+## Unterkunftsfilter – aktuelle Arbeitsauswahl (14.11.2026)
+
+**[Alle zehn Länder als Unterkunfts-Preistabelle: 21 Nächte Juli 2027](Unterkunftsfilter-21-Naechte-Juli-2027.md)**
+
+Neue Arbeitsregel: Zum Kostensparen bleiben zunächst **Tschechien, Polen, Slowakei, Österreich, Slowenien und Ungarn** im näheren Vergleich. **Bulgarien, Luxemburg, Belgien und Niederlande** werden auf Grundlage der bisher gefundenen teuren Unterkunftsoptionen **zurückgestellt, nicht gelöscht**. Italien wird **auf Nutzerwunsch ausgelassen, nicht als recherchiertes teures Land eingestuft**. Die Unterkunftsgrenze von **ca. 700 € für 21 Nächte** ist **nur ein vorläufiger Filter**, keine endgültige harte Preisvorgabe oder Bestätigung einer Buchbarkeit. Ein **eigenes abschließbares Schlafzimmer ist Pflicht**; eigenes Bad sehr bevorzugt. Beispielpreise sind meist **2026er Richtwerte ohne Verfügbarkeitszusage Juli 2027**. Nach tatsächlich vermittelter Schulunterkunft können zurückgestellte Ziele wieder sinnvoll werden.
+
+In Tschechien ist **Olomouc (~336 € zzgl. Abgaben, geteiltes Bad)** derzeit die preislich günstigere zu prüfende Alternative zum früheren Länderfavoriten Liberec (~456–490 €), daher bei weiterem Vergleich **beide** betrachten. Bei privatem Bad besonders **Žilina H3 (~357 € zzgl. Abgabe)**, Bielsko-Biała Monterska (~459 €, schlechtere Bahnhofsanbindung), Innsbruck (~570 € für vollen Sommermonat plus Kaution) und Miskolc (~620–660 €) prüfen.
 
 ## 3. Besonders relevante Erkenntnisse
 
@@ -61,7 +69,7 @@
 
 ## 5. Nächste Schritte
 
-**Die zehn Pflichtländer sind recherchiert. Als Nächstes: Land 11 Italien (optional)** oder der **aktuelle länderübergreifende Dreiwochen-Gesamtvergleich mit Top 3**. Den besten praktischen Betrieb und die Zimmerpreise erst nach schriftlichen Angeboten festlegen. Danach einen transparenten **Gesamtvergleich der 3-Wochen-Kandidaten** erstellen, eine realistische Top 3 (ggf. Reserven) nach **Ausschluss-/Pflichtbedingungen** auswählen und über die Schule verbindlich Praktikums- und Unterkunftsanfragen anstoßen. **Parallel** die österreichischen Bewerbungsfristen Anfang 2027 und die reale Erasmus-Förderung über die Schule klären.
+**Italien wird nicht weiter recherchiert.** Als Nächstes den **[Unterkunftsfilter](Unterkunftsfilter-21-Naechte-Juli-2027.md)** auf die **sechs preislich verbliebenen Länder** anwenden und daraus nach Freizeitwert, Zimmerkomfort, Arbeitsweg und real möglichem **3-Wochen-Elektrotechnik-Praktikum mit verständlicher Betreuung** eine neue Top 3 bilden. Den wirklichen Gesamtpreis und die Förderhöhe erst nach konkreten Angeboten als bestätigt behandeln. Danach einen transparenten **Gesamtvergleich der 3-Wochen-Kandidaten** erstellen, eine realistische Top 3 (ggf. Reserven) nach **Ausschluss-/Pflichtbedingungen** auswählen und über die Schule verbindlich Praktikums- und Unterkunftsanfragen anstoßen. **Parallel** die österreichischen Bewerbungsfristen Anfang 2027 und die reale Erasmus-Förderung über die Schule klären.
 
 ## 6. Alte / ergänzende Recherche
 
