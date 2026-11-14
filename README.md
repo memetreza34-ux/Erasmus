@@ -32,10 +32,10 @@
 | 07 | Bulgarien | **Sofia**, Alternativen Plovdiv/Varna | [Bulgarien 2027](Land-07-Bulgarien-2027.md) – Recherche fertig |
 | 08 | Luxemburg | **Luxemburg-Stadt**, Alternativen Esch/Belval und Ettelbruck | [Luxemburg 2027](Land-08-Luxemburg-2027.md) – Recherche fertig **14.11.2026** |
 | 09 | Belgien | **Eupen** vorläufig wegen deutschsprachiger industrieller Ausbildungsbetriebe; Gent Freizeitfavorit | [Belgien 2027](Land-09-Belgien-2027.md) – Recherche fertig **14.11.2026** |
-| 10 | Niederlande | Noch nicht entschieden | **NÄCHSTER LÄNDERCHECK** |
+| 10 | Niederlande | **Enschede / Hengelo** vorläufig wegen nachgewiesener MBO-Elektropraktika | [Niederlande 2027](Land-10-Niederlande-2027.md) – Recherche fertig **14.11.2026** |
 | 11 | Italien (optional) | Noch nicht entschieden | Optional |
 
-**Fortschritt: 9 von 10 Pflichtländern recherchiert, Italien optional.** Ländergewinner sind derzeit **nur Kandidaten für die nächste Entscheidungsrunde**, keine Standorte mit zugesagtem Praktikumsplatz. Ein neuer länderübergreifender Gesamtvergleich unter den **3-Wochen-Anforderungen** ist erst nach Abschluss der Länderrunden sinnvoll.
+**Fortschritt: 10 von 10 Pflichtländern recherchiert, Italien optional.** Ländergewinner sind derzeit **nur Kandidaten für die nächste Entscheidungsrunde**, keine Standorte mit zugesagtem Praktikumsplatz. Ein neuer länderübergreifender Gesamtvergleich unter den **3-Wochen-Anforderungen** ist erst nach Abschluss der Länderrunden sinnvoll.
 
 ## 3. Besonders relevante Erkenntnisse
 
@@ -44,6 +44,7 @@
 - **Slowakei/Žilina:** gutes öffentlich bepreistes Gäste-Einzelapartment H3 mit eigenem Bad, **21×17 € = 357 € plus Ortstaxe** (Stand der Quelle 2026), Sommerzulassung ungeklärt.
 - **Slowenien/Ljubljana:** hervorragender Mix aus Städten und Naturzielen; günstige Einzelzimmer in Juli sehr knapp, teilweise Gemeinschaftsbäder.
 - **Bulgarien/Sofia:** viel Abwechslung und konkrete 2026er Sommer-Elektropraktikumsansätze; aber höhere Unterkunftskosten, teilweise Hitze und anspruchsvollere Ausflugslogistik.
+- **Niederlande/Enschede:** Trescal Hengelo (elektrische MBO-Kalibrierpraktika), Moekotte Enschede (Industrieelektrotechnik und BOL/BBL-Praktikumszugang) sowie Delwi Groenink (MBO/BBL-Technikpraktika) als echte Kontakte, **aber keine Dreiwochen-/B1-Englisch-/Deutsch-Juli-Zusage**. Short-Stay Inn vermietet Zimmer/Studios ab 7 Tagen: für **21 Nächte inkl. Administration, Reinigung und 2026er Ortstaxe** rechnerisch **1.519 €** (privates Bad, Küche gemeinsam) bis **1.776 €** (eigene Küche) oder mehr, **plus 400 € rückzahlbare Kaution**. Achtung: beworbene ab 38–45 €/Nacht sind langfristige 184-Nächte-Staffel, keine 21-Nächte-Preise. **Nijmegen** historisch schöner und **Maastricht** landschaftlich interessant, aber konkrete Azubi-Betriebe/privates Sommerzimmer dort weniger belegt. [Niederlande-Detailakte](Land-10-Niederlande-2027.md).
 - **Belgien/Eupen:** Deutschsprachige Region mit Kabelwerk Eupen (industrielle Instandhaltung), Heinen (Industrieelektrik/Schaltschränke) und JUMO Automation als echten fachlichen Ansprechpartnern. **Gent wäre als Stadt spektakulärer**, aber die konkret belegten Infrabel-Sekundarschul-Praktika verlangen **Niederländisch B1** und laufen bisher nur **September 2026–Juni 2027**, also nicht im gewünschten Juli. Eupen-Unterkunft mit eigenem Bad/Küche **HAAS41** nach öffentlichem variablen Angebot rechnerisch ab ~1.106 € für 21 Nächte, **kein bestätigter Julipreis**; preiswerteres Kaleo-Einzelzimmer nur auf Anfrage. [Belgien-Detailakte](Land-09-Belgien-2027.md).
 - **Luxemburg/Luxemburg-Stadt:** [CFL-Schülerpraktikumsanfrage](https://student.lu/fr/emploi/administration/demande-de-stage-enseignement-secondaire-l-1160-luxembourg) ist ein besonders konkret dokumentierter Einstieg für berufsschulnahe Wartung; öffentlicher Nahverkehr im Inland kostenlos. Kurzzeit-Einzelzimmer mit Küchenmöglichkeit derzeit nach veröffentlichten Beispielen rund **890–990 € / Monat** in WGs (Bad geteilt) oder **1.218 € / 21 Nächte** bei privater Einzelbelegung einer Jugendherberge mit eigenem Bad, falls 2027 überhaupt buchbar. [Detailakte](Land-08-Luxemburg-2027.md).
 
@@ -60,7 +61,7 @@
 
 ## 5. Nächste Schritte
 
-**Als Nächstes: Land 10 Niederlande**; Italien optional. Danach einen transparenten **Gesamtvergleich der 3-Wochen-Kandidaten** erstellen, eine realistische Top 3 (ggf. Reserven) nach **Ausschluss-/Pflichtbedingungen** auswählen und über die Schule verbindlich Praktikums- und Unterkunftsanfragen anstoßen. **Parallel** die österreichischen Bewerbungsfristen Anfang 2027 und die reale Erasmus-Förderung über die Schule klären.
+**Die zehn Pflichtländer sind recherchiert. Als Nächstes: Land 11 Italien (optional)** oder der **aktuelle länderübergreifende Dreiwochen-Gesamtvergleich mit Top 3**. Den besten praktischen Betrieb und die Zimmerpreise erst nach schriftlichen Angeboten festlegen. Danach einen transparenten **Gesamtvergleich der 3-Wochen-Kandidaten** erstellen, eine realistische Top 3 (ggf. Reserven) nach **Ausschluss-/Pflichtbedingungen** auswählen und über die Schule verbindlich Praktikums- und Unterkunftsanfragen anstoßen. **Parallel** die österreichischen Bewerbungsfristen Anfang 2027 und die reale Erasmus-Förderung über die Schule klären.
 
 ## 6. Alte / ergänzende Recherche
 
