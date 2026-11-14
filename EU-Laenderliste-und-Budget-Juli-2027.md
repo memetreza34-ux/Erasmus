@@ -18,6 +18,10 @@
 
 Ungarn wurde vom Nutzer zweimal genannt; in der geordneten Liste nur einmal. **Alle elf Länder sind EU-Mitgliedstaaten.** EU-Quelle: https://european-union.europa.eu/principles-countries-history/eu-countries_en
 
+## Neue Priorität in der Unterkunftssuche (14.11.2026)
+
+**Eigene Dusche und eigenes WC sind ab sofort zwingend erforderlich; Küche optional.** [Neu gefilterte Plzeň-Kandidaten mit Privatbad](Plzen-Unterkunftscheck-guenstig-gut-Juli-2027.md): ZČU **Hotel Máchova 20** echte Hotel-EZ mit Bad ~690 CZK/Nacht, **Penzion 16** Einzelzimmer mit Bad und Küchenzeile ~700 CZK/Nacht, **AK Penzion** EZ mit Bad ~690 CZK/Nacht, immer **2027-Preis/21 Tage/Eigenbelegung/Zimmerausstattung schriftlich bestätigen**. Die ehemals günstigen Gemeinschaftsbäder der Länderakten sind historische Preisreferenzen, aber **nicht mehr geeignete Unterkünfte**. Die Top-3-Länderfolge **Tschechien – Polen – Slowakei** bleibt unverändert.
+
 ## Aktuelle verbindliche Wünsche und Budget
 
 - **Drei Wochen im Juli 2027** – 21 Nächte als Vergleich, tatsächliche Praktikumstage und Reisestart noch offen. Keine August-/Juni-Angebote als fest betrachten.
@@ -25,7 +29,7 @@ Ungarn wurde vom Nutzer zweimal genannt; in der geordneten Liste nur einmal. **A
 - **Finanzierung:** Erasmus+-Aufenthalts- und Reisepauschalen nach Zusage der Schule als Hauptfinanzierung. Betrag und Auszahlungsmodus sind **nicht verbindlich**; früherer Rechner für 21 Tage Polen: **1.001 € Aufenthalt + 211 € Standardreise**; Green Travel nur falls bewilligt. **350 € Organisationspauschale** gehört nicht zum frei verfügbaren Reisebudget des Azubis.
 - **Eigenanteil:** Nutzer würde **bis zu 400 € zusätzlich zur Erasmus-Förderung** für Essen/Verpflegung, Unterkunft und ÖPNV ausgeben, **eventuell sogar mehr**. Die bisherige Formulierung »hartes Ausgabenlimit 400 €« ist damit gelockert. Mehrkosten sollen ausdrücklich dargelegt und vor Zusage entschieden werden.
 - **Museen, Sehenswürdigkeiten, bezahlte Ausflüge und besondere Aktivitäten:** können separat aus eigenem zusätzlichen Freizeitgeld oder aus übrig gebliebener, tatsächlich ausgezahlter Erasmus-Förderung bezahlt werden. **Nicht pauschal auf null setzen** oder im 400-€-Budget verstecken.
-- **Unterkunft:** **eigenes abschließbares Schlafzimmer Pflicht**, eigenes Bad und möglichst Küchenzeile sehr bevorzugt; Gemeinschaftsküche akzeptabel. Kein Mehrbettzimmer als gleichwertige Option.
+- **Unterkunft (Nutzeränderung 14.11.2026):** **EIGENES abschließbares Schlafzimmer UND EIGENES ausschließlich zu diesem Zimmer gehörendes Badezimmer mit Dusche/WC BEIDES PFLICHT**. Eine private Küchenzeile wäre schön, ist **nicht** Pflicht; Gemeinschaftsküche genügt. Kein Mehrbettzimmer oder Bad, das von Fremden/anderen Zimmern mitbenutzt wird. Frühere Low-Budget-Beispiele mit geteiltem Bad erfüllen die neuen Kriterien nicht.
 - **Erlebnisse:** beeindruckende Stadt und spannendes Stadtleben, Schlösser, Berge, Wälder, Seen, Wandern, spontane Tagestrips; bis ungefähr drei Stunden mit Bus/Bahn je Strecke, kein Auto nötig. Klassische Museen allein reichen nicht. Strand kein Hauptziel.
 - **Alltag:** gute Anreise ab Berlin, verlässliche Bus-/Bahnverbindungen, kein übermäßiger Stress, moderates Sommerklima; längere Arbeit bei 35–40 °C vermeiden.
 - Kein Ort gewinnt endgültig ohne: schriftlich mögliche 3-Wochen-Praktikumsdauer (EU-VET Erasmus), englisch-/deutschsprachige Fachbetreuung und sicherer Arbeitsplatz, Gästezimmer für externen Berufsschulazubi mit Endpreis, Transport, geklärter Fördervertrag.
