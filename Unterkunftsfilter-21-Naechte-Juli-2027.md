@@ -13,7 +13,7 @@
 
 | Land | Maßgebliche Vergleichsunterkunft / Ort | Vergleichspreis (21 Nächte) | Dusche/WC | Filterentscheidung / entscheidende Einschränkung |
 |---|---|---:|---|---|
-| **Tschechien** | **Olomouc**, Palacký-Universität Gäste-Einzelzimmer, ausdrücklich auch für Nichtstudierende | **390 CZK × 21 = 8.190 CZK ≈ 336 €** **zzgl. Abgaben** (indikativ 24,4 CZK/€) | **geteilt** | **BEHALTEN**. Deluxe-EZ 550 CZK/Nacht (~473 € für 21 Nächte vor Abgaben), eigenes Bad nicht bestätigt. Ehemaliger Länderfavorit **Liberec** mit privatem Zimmer und geteiltem Bad ca. **456–490 € incl. bekannter Ortsabgabe**. Verfügbarkeit/abschließbare Tür/2027er Endpreis offen. |
+| **Tschechien** | **Olomouc**, Palacký-Universität, offizielle Kategorie **„Other guests“** für externe Einzelgäste | **470 CZK × 21 = 9.870 CZK ≈ 405 €** im Einzelzimmer mit **gemeinschaftlichen Sanitärräumen**, **zzgl. Ortstaxe**. Alternative: **590 CZK ×21 = 12.390 CZK ≈ 508 €** bei geteilter Badnutzung (indikativ 24,4 CZK/€). | **geteilt**, eigene abschließbare Schlafzimmertür bestätigen | **BEHALTEN**. **WICHTIGE PREISKORREKTUR 14.11.2026:** 390 CZK/Nacht und Deluxe 550 CZK/Nacht stammen aus der **gesonderten Uni-Studenten-/Beschäftigten-Preistabelle** und gelten **NICHT automatisch** für externen deutschen Erasmus-Berufs-Azubi. Generála Svobody ausdrücklich für externe Kurzzeitgäste; Juli 2027/Endpreis/Ortstaxe offen. **Liberec** 520 CZK für ganzes Zimmer + 50 CZK Tax/Nacht = **~490 €** (Harcov Sommergäste, Bad/Küche geteilt). |
 | **Polen** | **Bielsko-Biała UBB Studenten-Gästehaus**, 150 PLN erste Nacht + 20 × 70 PLN | **1.550 PLN ≈ 356 €** | **geteilt/ungeklärt** | **BEHALTEN**. Besseres Bad möglich in **Apartamenty Monterska** etwa **459 € / 21 Nächte**, aber ~6,2 km vom Hauptbahnhof und Tarif evtl. veraltet; weiteres privates Zimmer mit Bad/Küche **Hałcnów** ca. **483 €**, schlechte zentrale ÖPNV-Lage. Externe Berufsschul-Azubi-Aufnahme und Sommertarif offen. |
 | **Slowakei** | **Žilina**, Uni-Gästeunterkunft Hliny V **H3**, 17 €/Nacht bei >11 Nächten | **357 € zzgl. Ortstaxe** | **eigenes Bad** | **BEHALTEN – besonders gutes Preis/Privatsphäre-Verhältnis**. Nur wenige H3-Appartements, Juli-2027-Verfügbarkeit und Aufnahme externen deutschen Azubis nicht bestätigt. |
 | **Österreich** | **Innsbruck**, Home4students Technikerstraße, eigenes Sommer-EZ | **570 €** (= **455 € voller Juli-Monat + 60 € Bearbeitung + 55 € Reinigung**) | **eigenes Bad** | **BEHALTEN UNTER VORBEHALT**. 21 Nächte trotz voller Monatszahlung kalkuliert, mögliche Ortstaxe extra, **ca. 455 € Kaution** rückzahlbar aber vorzufinanzieren. Vor allem 2027er IKB-Sommerpraktikum normal 4 Wochen statt gewünschter 3, abklären. |
@@ -26,10 +26,14 @@
 
 **Hinweis zur Vergleichbarkeit:** Bei einigen Quellen ist die Kurtaxe noch offen; manche Werte sind in Fremdwährung zu einem damaligen Näherungskurs umgerechnet, und Monatsangebote sind keine bestätigten Dreiwochen-Angebote. Es gibt nirgendwo bereits eine verbindlich verfügbare Juli-2027-Unterkunft. **Das ist ein Kostenfilter, kein Ranking nach Wahrscheinlichkeit der Praktikumszusage.**
 
+## Neuere Nutzerentscheidung (14.11.2026)
+
+**Fest gewählte Top 3 in exakt dieser Reihenfolge: 1. Tschechien, 2. Polen, 3. Slowakei.** [Aktuelle Top-3-Akte mit Städtecheck und tschechischer Tarifkorrektur](Top-3-Nutzerentscheidung-Tschechien-Polen-Slowakei-2027.md). Die unten stehenden sechs Länder sind die **historische breitere Zwischenliste dieses Filters**, nicht mehr die aktive Top 3. Österreich, Slowenien und Ungarn bleiben Reserven.
+
 ## Ergebnis des Filters
 
 **Zunächst im Rennen (6 Länder):**
-1. **Tschechien:** Olomouc wegen ~336 € (Bad geteilt), Liberec ~456–490 € als weiterhin starker Erlebnis-/Industriekandidat. Nur echte Gästezimmer und 21 Nächte prüfen.
+1. **Tschechien:** Olomouc nach korrekter offizieller **„Other guests“**-Preisliste **~405–508 € zzgl. Ortstaxe** bei gemeinschaftlichem/geteiltem Bad; Liberec **~490 €** mit inkl. aktuell ausgewiesener Stadtabgabe als weiterhin starker Erlebnis-/Industriekandidat. 390 CZK/Nacht war **fälschlich vom Ermäßigungstarif auf externe Gäste übertragen**; berichtigt am 14.11.2026. Nur echte Gästezimmer und 21 Nächte prüfen.
 2. **Polen:** Bielsko-Biała ~356 € bei geteiltem Bad; gezielt **privat-badfähige** Optionen ~459–483 € und Arbeitsweg prüfen.
 3. **Slowakei:** Žilina Hliny H3 ~357 € **mit eigenem Bad**; klare hohe Priorität für echte Preis-/Verfügbarkeitsanfrage.
 4. **Österreich:** Innsbruck ~570 € **mit eigenem Bad**, aber Monatsbindung + hohe Kautionsvorleistung und Dreiwochen-Betriebshürde.
