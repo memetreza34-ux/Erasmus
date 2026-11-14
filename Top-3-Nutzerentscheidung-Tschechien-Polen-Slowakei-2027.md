@@ -1,6 +1,6 @@
-# Festgelegte Top 3 Erasmus 2027 (Nutzerentscheidung 14.11.2026)
+# HISTORISCHER Top-3-Beschluss (am 14.11.2026 geändert)
 
-**Neue verbindliche PRIORITÄTSREIHENFOLGE des Nutzers: 1. TSCHECHIEN, 2. POLEN, 3. SLOWAKEI.** Die drei übrigen preislich passenden Länder **Österreich, Slowenien und Ungarn** sind nur noch Rückfalloptionen. **Bulgarien, Luxemburg, Belgien und Niederlande** wegen der bisher gefundenen Zimmerkosten zurückgestellt. Italien übersprungen. Diese Reihenfolge spiegelt den **Nutzerwunsch**, **nicht bereits bestätigte Stellen oder einen neutralen Leistungsvergleich**, wider.
+**ACHTUNG: DIESE REIHENFOLGE IST ÜBERHOLT. Aktuell: 1. POLEN, 2. SLOWAKEI, 3. TSCHECHIEN.** [Neue verbindliche Entscheidung](Top-3-Polen-Slowakei-Tschechien-2027.md). Historische Reihenfolge dieses Dokuments war: 1. Tschechien, 2. Polen, 3. Slowakei. Die drei übrigen preislich passenden Länder **Österreich, Slowenien und Ungarn** sind nur noch Rückfalloptionen. **Bulgarien, Luxemburg, Belgien und Niederlande** wegen der bisher gefundenen Zimmerkosten zurückgestellt. Italien übersprungen. Diese Reihenfolge spiegelt den **Nutzerwunsch**, **nicht bereits bestätigte Stellen oder einen neutralen Leistungsvergleich**, wider.
 
 ## Muss-Kriterien bleiben unverändert
 
@@ -20,7 +20,7 @@ Juli 2027, drei Wochen und für Unterkunftsvergleich 21 zusammenhängende Nächt
 
 **Plzeň neue Anfragepriorität:** [Unterkunfts-Qualitätscheck mit Privatbad](Plzen-Unterkunftscheck-guenstig-gut-Juli-2027.md). **Máchova 20** offiziell 690 CZK pro 1-Bett-Hotelzimmer/Nacht mit eigenem Bad (**~623 €/21 Nächte** mit angenommener Ortstaxe von 35 CZK×20), **Penzion 16** wurde wegen schwacher aktueller Gästebewertungen (3,1/5 bei 27 Stimmen) **aus der aktiven Empfehlung herausgenommen**; zuvor ~602 €/21 Nächte vor Tax, **AK Penzion** 690 CZK pro EZ mit Dusche/WC (**~594 €/21 Nächte vor Tax**), jedoch keine komplette Gästeküche. Beim AK Penzion auch prüfen, dass genau die EZ-Kategorie privat belegbar ist (Website beschreibt sonst meist 2–4-Bettzimmer). **Keine Juli-2027-Zimmerfreigabe oder Endsumme bestätigt, keine Anfrage versendet.**
 
-**Rangfolge der LÄNDER bleibt 1. Tschechien, 2. Polen, 3. Slowakei.** Auch in Polen/Slowakei ab jetzt **nur noch private Badezimmer**: geeignete vorhandene Alternativen wären **Polen Bielsko-Biała Monterska ca.459 €** (Kategorie und lange Wege prüfen) und **Slowakei Žilina H3 ca.357 € + Abgabe** (wenige Appartements, Verfügbarkeit offen), nicht die bloß billigsten geteilten Bäder.
+**Historische (überholte) Rangfolge hier: Tschechien, Polen, Slowakei. AKTUELL: Polen, Slowakei, Tschechien.** Auch in Polen/Slowakei ab jetzt **nur noch private Badezimmer**: geeignete vorhandene Alternativen wären **Polen Bielsko-Biała Monterska ca.459 €** (Kategorie und lange Wege prüfen) und **Slowakei Žilina H3 ca.357 € + Abgabe** (wenige Appartements, Verfügbarkeit offen), nicht die bloß billigsten geteilten Bäder.
 
 ## Rang 1 – Tschechien: welche STADT?
 
@@ -90,4 +90,4 @@ Juli 2027, drei Wochen und für Unterkunftsvergleich 21 zusammenhängende Nächt
 3. **Schule** soll individuelle Erasmus+-Förderhöhe und Auszahlungsmodus, Reisekosten, versicherungsrechtliche Mindestbedingungen, Vertrags-/Ferienzeiten und ggf. vorhandene Partnerbetriebe/Schulunterkünfte verbindlich klären. Nicht aus dem bisherigen Förderrechner einen Anspruch ableiten.
 4. Unter diesen drei Ländern anschließend eine **echte durchführbare** Wahl treffen, ohne die vom Nutzer gewählte Reihenfolge ohne Anweisung umzuschichten.
 
-**Entscheidungsstatus:** Die Länderfolge 1 CZ, 2 PL, 3 SK ist **vom Nutzer festgelegt**; die Stadt in Tschechien und Praktikums-/Wohnverträge sind **offen**. Freizeiteignung: Olomouc Innenstadt, Liberec Berge, beide derzeit gute Optionen.
+**Historischer Entscheidungsstatus (durch neuere Nutzerwahl ersetzt): 1 CZ, 2 PL, 3 SK. AKTUELL 1 PL, 2 SK, 3 CZ;** die Stadt in Tschechien und Praktikums-/Wohnverträge sind **offen**. Freizeiteignung: Olomouc Innenstadt, Liberec Berge, beide derzeit gute Optionen.
