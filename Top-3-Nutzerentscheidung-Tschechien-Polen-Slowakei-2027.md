@@ -59,6 +59,10 @@ Juli 2027, drei Wochen und für Unterkunftsvergleich 21 zusammenhängende Nächt
 
 **Hliny V, H3**: **17 €/Nacht × 21 = 357 € zzgl. lokaler Abgabe**, einzelnes Gästezimmer mit **eigenem Bad**, wenige geeignete Apartments, Juli 2027 und externe deutsche Gäste ungeklärt. Technische Ansätze: **Kia Slovakia** lokale duale Elektro-/Automatisierungsausbildung und **ELMAX** Automations-/Schaltschrankbetrieb, aber keine dreitägige/dreiwöchige externe Erasmus-Zusage. Gute Natur Malá Fatra, Strečno, Wanderungen und Zug an Hohe Tatra. Siehe [Slowakei-Landakte](Land-04-Slowakei-2027.md).
 
+## Konkrete Liberec-Unterkünfte und E-Mails (14.11.2026)
+
+[Neue Anbieterrecherche mit drei prüfbaren Unterkünften und drei fertig formulierten, **noch nicht versendeten** E-Mails](Liberec-Unterkuenfte-Anfragen-Juli-2027.md). **TUL Harcov** ~11.970 CZK (~491 €) für eigene Zimmerbelegung mit geteiltem Bad/Küche; **Pytloun Apartments** ~17.090 CZK (~700 €) inkl. ausgewiesener aktueller Abgaben/Reinigung für Privatbad und eigene Küche, aber tatsächlicher Juli-2027-Tarif fehlt, zusätzliche rückzahlbare Kaution 2.000 CZK; **Golden Key** Studio mit eigenem Bad/Küche, Preis noch offen. Eigene Zimmerbelegung und Juli-Termine schriftlich anfragen. Keine Buchung/E-Mail versandt.
+
 ## Nächste Aufgaben
 
 1. Bei **Tschechien zuerst Olomouc und Liberec** nur nach **exaktem Juli-2027-Zeitraum** konkret vergleichen: schriftliches Zimmer für **1 Person allein, abschließbar**, Preis inkl. Ortstaxe, ggf. eigenes Bad/Küche, Bettenanzahl und Gästeberechtigung für deutschen Berufsschüler.
