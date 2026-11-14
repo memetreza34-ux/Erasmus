@@ -19,6 +19,10 @@
 
 **Wichtig:** Kein Betrieb, keine Unterkunft, kein 2027-Preis und keine persönliche Förderhöhe sind bisher verbindlich bestätigt. Nichts wurde gebucht, bezahlt oder als Bewerbung abgeschickt.
 
+## Aktuelle Liberec-Unterkunftsanfragen (14.11.2026)
+
+**[Liberec: konkrete Unterkünfte und 3 fertige, noch nicht versendete Anbieter-E-Mails](Liberec-Unterkuenfte-Anfragen-Juli-2027.md)**. Kurzstand: **TUL Harcov 21 Nächte 11.970 CZK (~491 €)** für exklusiv anzufragendes ganzes Zimmer, Bad/Küche geteilt. **Pytloun Apartments**: öffentlicher 21-Nächte-„ab“-Langzeittarif **740 CZK/Nacht** plus 50 CZK/Tag Citytax und 500 CZK Reinigung → **17.090 CZK (~700 €)** für ein privates Apartment mit Bad/Küche, nur wenn der Tarif im Juli 2027 tatsächlich gilt; **2.000 CZK rückzahlbare Kaution** extra. **Golden Key**: privates City-Studio mit Bad/Küche, Preis **nur auf Anfrage**. 21-Nächte- und Nichtstudierenden-Eignung noch unbestätigt; nichts gebucht oder verschickt.
+
 ## Deine verbindliche Top 3 (14.11.2026)
 
 **1. TSCHECHIEN – 2. POLEN – 3. SLOWAKEI**, exakt in dieser Reihenfolge vom Nutzer festgelegt; **kein automatisch neuer Länder-Gewinner**. [Neuer Entscheidungs- und Städtevergleich mit Olomouc vs. Liberec](Top-3-Nutzerentscheidung-Tschechien-Polen-Slowakei-2027.md). **Österreich, Slowenien und Ungarn nur Reserve**, die zuvor wegen der Unterkunftskosten zurückgestellten Länder weiter archivieren. Italien bleibt übersprungen. **Olomouc-Preiskorrektur:** Frühere 390 CZK/Nacht waren ein studentischer/Universitäts-Ermäßigungstarif. Für gewöhnliche externe Gäste **470–590 CZK/Nacht (~405–508 €/21 Nächte) zzgl. Ortstaxe** statt irrtümlich 336 €. [Offizielle Palacký-Tabelle](https://skam.upol.cz/en/accommodation/accommodation-price-list/). Kein Juli-2027-Angebot bestätigt.
