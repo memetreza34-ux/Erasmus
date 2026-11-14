@@ -23,6 +23,10 @@ Nicht allein günstige Wohnheime, sondern ein Mix, der Nutzerinteressen zusammen
 3. **HQ Systems s.r.o.**, Hodkovická 135, Liberec-Doubí, Automationssysteme/Roboter/SPS/EPLAN/Schaltanlagen, potenzielle Kontaktadresse, kein Erasmus-Nachweis.
 4. **DIOSNA CS – Automation/Service**, Barvířská 125/17, Liberec: Automatisierungs-/Servicestandort, kein belegtes Azubi-Programm.
 
+### Neu geprüft: drei Liberec-Unterkünfte und fertige E-Mail-Entwürfe, 14.11.2026
+
+**[Aktuelle Unterkunftssuche Liberec mit konkreten Anbieteradressen und drei noch nicht versendeten E-Mail-Anfragen](Liberec-Unterkuenfte-Anfragen-Juli-2027.md)**. Zusätzlich zum Harcov-Gästezimmer **11.970 CZK/21 Nächte inkl. derzeitiger Citytax (~491 €)** wurde **Pytloun Apartments** als komfortable Privatbad-/Küchen-Alternative gefunden: aktueller beworbener Preis **ab 740 CZK/Nacht für 21+ Nächte**, rechnerisch **17.090 CZK/21 Nächte** inkl. **50 CZK/Tag Citytax und 500 CZK Endreinigung (~700 €)**, **2.000 CZK rückzahlbare Kaution extra**. Für Sommer 2027 Preis/Verfügbarkeit/Kategorie nicht bestätigt. **Golden Key** Kleinstudio im Zentrum mit privatem Bad/Küche, Preis bisher offen. Alle 3 Anbieter-E-Mails als Entwürfe vorbereitet, NICHT verschickt.
+
 ### Günstigste gut belegte Gästeunterkunft: Harcov Sommergästezimmer der Technischen Universität Liberec (TUL)
 
 **Offizielle Sommer-Gästeseite (auch für Nichtstudierende und Touristen):** https://letniubytovani.tul.cz/?lang=en . Adresse **17. listopadu 584, 46015 Liberec**, E-Mail **hotel@tul.cz**, Telefon +420 485 355 203 / 250. Buchung nach Anfrage, **keine bestehende bestätigte 2027er Verfügbarkeit**.
