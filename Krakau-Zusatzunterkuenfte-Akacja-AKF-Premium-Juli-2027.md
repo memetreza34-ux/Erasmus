@@ -1,5 +1,9 @@
 # Krakau – drei neue Unterkünfte mit privatem Bad, Stand 14.11.2026
 
+## BESTÄTIGTE ABSAGEN: Freedom + Premium Kraków – maximal 10 aufeinanderfolgende Nächte (14.11.2026)
+
+**[Beide schriftlichen Antworten aus den vom Nutzer bereitgestellten Screenshots](Krakau-Unterkunftsantworten-Freedom-Premium-10-Naechte-Limit-2026-11-14.md)**: **Freedom Hostel**, `freedom@freedomhostel.pl`, Antwort **19:22 Uhr**; **Premium Hostel**, `premium@premiumhostel.pl`, Antwort **19:44 Uhr**. Beide am **14.11.2026**, beide unterzeichnet **Ania, Reception**, beide in **ul. Pomorska 2**. **Beide akzeptieren laut eigener Auskunft keine Reservierungen von mehr als 10 zusammenhängenden Nächten**. Für **21 zusammenhängende Nächte Juli 2027 daher UNGEEIGNET / aus aktiver Auswahl streichen**. Auch ein Aufteilen in 10+10+1 Nächte ist **nicht angeboten/zugesagt**. Keine erneuten Anfragen an diese zwei Anbieter zum selben 21-Nächte-Plan. **Moon, Atlantis, Cybulskiego** sind zuvor bereits angeschrieben, in diesen zwei Screenshots keine Antworten ersichtlich; **Akacja und AKF** sind offen als mögliche 21-Nächte-Kandidaten. Keine neue Nachricht gesendet.
+
 ## Status der bisherigen E-Mails (über Gmail am 14.11.2026 geprüft)
 
 **Bereits vom Nutzer versandt:**
@@ -10,7 +14,7 @@
 
 **Wichtige Information:** In den gesendeten Anfragen an Cybulskiego und Atlantis stand unten noch wörtlich `[Your name]`. Die damalige Frage des Nutzers nach einer Ergänzung wurde **noch nicht durch tatsächliche Korrektursendungen ausgeführt**. Die Gesendeten E-Mails lassen sich nach Ablauf von Gmail „Undo send“ nicht zurückziehen. **Keine erneuten identischen 21-Nächte-Anfragen an die vier Kontakte verschicken.**
 
-**Für die neu recherchierten Alternativen noch KEINE E-Mail gesendet:** Akacja, Summer Hostel AKF und Premium Hostel (Gmail-Suche am 14.11.2026).
+**HISTORISCHER STAND vor den neuen E-Mail-Antworten: damals waren Akacja, Summer Hostel AKF und Premium noch nicht angeschrieben. AKTUELL ist Premium angeschrieben und wegen der 10-Nächte-Obergrenze schriftlich abgesagt; Akacja/AKF bleiben mögliche Anfragen. Siehe ersten Abschnitt oben.**
 
 ## Neue Top 3 – jetzt gezielt anfragen, kein geteiltes Bad
 
@@ -33,7 +37,7 @@
 - **WICHTIGE QUALITÄTSWARNUNG:** Strukturiertes Business-Profil ungefähr **3,4/5 auf 53 Bewertungen** und einzelne kritische Berichte zu **altem Mobiliar, Lärm, eingeschränkter Ausstattung und unfreundlichem Service**; dies sind subjektive Erfahrungen, kein bewiesener aktueller Zustand, aber **kein Premium-Qualitätskandidat**. Fotos des tatsächlich für 21 Nächte zugeteilten Gebäudes/Zimmers/Bads anfordern, Zimmer im 2026er renovierten Gebäudeteil bevorzugen; Quelle offizielles Hostelprofil und lokale Ratings.
 - **Empfehlung:** Gute **Sparreserve** bei gebührendem Qualitätscheck, **kein automatischer Testsieger gegenüber Akacja**.
 
-### 3. Premium Hostel – günstige echte private ensuite Kategorie
+### 3. Premium Hostel – ARCHIVIERT / UNGEEIGNET (maximal 10 zusammenhängende Nächte)
 
 - **Pomorska 2, Kraków** (Achtung: andere bereits vom Nutzer kontaktierte Unterkunft **Freedom Hostel ebenfalls Pomorska 2**, vermutlich im selben Gebäudekomplex; trotzdem eigenständige Anbieter-/Zimmertarif-Anfrage möglich. Vor Anfrage Betreiber-/Zimmeridentität checken, damit keine Doppelkontaktierung desselben Eigentümers).
 - **Offizielle Kategorie:** https://www.premiumhostel.pl/room-1 ; **Single Room Ensuite** mit eigenem Badezimmer und **gemeinschaftlicher Self-Service-Küche**, 24h-Rezeption, WLAN.
