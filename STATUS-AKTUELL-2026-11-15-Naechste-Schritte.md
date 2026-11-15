@@ -1,3 +1,11 @@
+## Neue Detailrunde Slowakei – günstige Privatbadunterkünfte, 15.11.2026
+
+[**Vier Unterkünfte mit offiziellen Preisquellen und privatem Bad geprüft: Hliny H3, Tavros, Dobré Časy und G HOTEL**](Slowakei-Guentstige-Privatbad-Unterkuenfte-2026-11-15.md). **Stadtpriorität Žilina**, **Poprad** stärkster Natur-/Tatra-Vergleich. Hliny H3 17 €/Nacht ab 11 Nächten = 357 € ohne Ortstaxe/Gebühren; **wichtiger Widerspruch:** offizielle H3-Unterseite erwähnt „Gemeinschaftsduschen“, Startseite für vier H3-Apartments private Dusche/WC. Exakt gewählte Apartmentkategorie vor Buchung schriftlich verifizieren. Tavros Mindestwerbung 15 €/Nacht, aber Tarif noch von 2020 und exakte Solozimmer-/Küchendetails offen. Poprad Dobré Časy hat private Bäder und gemeinsame Küche, aber **keinen verifizierten Solo-2027-Endpreis**. G HOTEL Standard-EZ 15–29 Nächte offizielle 2026-Rate 27 €/Nacht + 2,50 € Ortstaxe = 619,50 € /21 Nächte; 290-€-Monatsmiete ist Langzeitvertrag und nicht für 21 Nächte bestätigt.
+
+**Drei NEUE Gmail-Entwürfe erstellt, NICHT gesendet:** Tavros `r4445501052190155146`, G HOTEL `r-1932145211220444767`, Poprad Dobré Časy `r6995638299676974955`; Hliny-H3-Entwurf `r9156550267609201603` aus vorheriger Runde besteht weiter. **Keine Reservierung oder Zahlung.**
+
+---
+
 ## Neue Etappe 15.11.2026 – Polen vertieft, Slowakei #2 gestartet
 
 - **[Polen-Vergleich sieben Städte inklusive Katowice, Nowy Sącz, Jelenia Góra und Opole](Polen-Vertiefung-Katowice-NowySacz-JeleniaGora-Opole-2026-11-15.md)**. Katowice SUM DS3/4 1.528,20 PLN unverbindliche 21-Nächte-Gästepreisrechnung für Einzelzimmer mit eigenem Bad und Kochnische, **SUM schon am 13.11. per Gmail kontaktiert** (nicht duplizieren). Nowy Sącz NEWAG echte Berufspraktika plus private Studio16-Wohnungen, aber Alleinpreis offen; Jelenia Góra tolle Berge, Privatbad zum Budget nicht belegt; Opole el12 fachlich interessant, Unterkunfts-EZ-Bad offen. Krakau bleibt Nutzerstadt #1, Entscheidung über Polen nicht abgeschlossen.
