@@ -1,3 +1,12 @@
+## Neue Etappe 15.11.2026 – Polen vertieft, Slowakei #2 gestartet
+
+- **[Polen-Vergleich sieben Städte inklusive Katowice, Nowy Sącz, Jelenia Góra und Opole](Polen-Vertiefung-Katowice-NowySacz-JeleniaGora-Opole-2026-11-15.md)**. Katowice SUM DS3/4 1.528,20 PLN unverbindliche 21-Nächte-Gästepreisrechnung für Einzelzimmer mit eigenem Bad und Kochnische, **SUM schon am 13.11. per Gmail kontaktiert** (nicht duplizieren). Nowy Sącz NEWAG echte Berufspraktika plus private Studio16-Wohnungen, aber Alleinpreis offen; Jelenia Góra tolle Berge, Privatbad zum Budget nicht belegt; Opole el12 fachlich interessant, Unterkunfts-EZ-Bad offen. Krakau bleibt Nutzerstadt #1, Entscheidung über Polen nicht abgeschlossen.
+- **[Slowakei-Recherche #2 gestartet: Žilina, Martin, Poprad, Košice, Trenčín, Trnava](Slowakei-Neucheck-Zilina-Martin-Poprad-2026-11-15.md)**. Žilina Hliny H3 17 €/Nacht (21=357 € plus Tax/Gebühren), aber Sanitär **exklusiv zur Einzelzimmerbelegung** noch zu bestätigen. VW Slovakia Martin veröffentlicht Elektromechaniker-Praktika für lokale Schüler (zwei Wochen im Schuljahr), **kein zugesagtes Erasmus-Praktikum für drei Wochen Juli**. Slowakei derzeit Žilina-Favorit, Martin fachliche Alternative.
+- **Gmail-Entwürfe angelegt und NICHT verschickt**: NEWAG `praktyki@newag.pl` Draft `r-4170360032717814560`; Volkswagen Martin `ivana.malejcikova@volkswagen.sk` Draft `r2052207937863756898`; Žilina Hliny H3 `recepcia-3@uniza.sk` Draft `r9156550267609201603`. Prüfen, bevor sie versendet werden.
+- Tanie Pokoje und Hostel REST sind **bereits versendet**, MPK Kraków ebenfalls; keine neuen Buchungen/Zahlungen.
+
+---
+
 ## Versand-Update – 15.11.2026 (nach der Kontaktvorbereitung)
 
 **Gmail-Versand erfolgreich bestätigt – nicht erneut anschreiben:**
