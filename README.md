@@ -1,3 +1,7 @@
+## NEU 15.11.2026 – Kontaktvorbereitung Lukas Guest Rooms und Summer Hostel AKF
+
+[**Aktuell bearbeitete nächste Runde: Lukas-/AKF-Kontaktwege, verifizierte 2026-Raten, eigene Bäder, Internetfrage und kopierfertige Anfragevorlagen**](Krakau-Kontaktrunde-Lukas-AKF-2026-11-15.md). Lukas: 8,8/10 Booking-Bewertung, eigene Bäder und gemeinsame komplette Küche, 2027-Preis offen; Nachrichtenweg Noclegowo/Booking statt erfundener Betreiber-E-Mail. AKF: 110 PLN/Nacht im EZ ab 15 Tagen nach offiziellem 2026-Tarif (21 Nächte = 2.310 PLN **unverbindliche Vergleichsrechnung**), eigenes Bad und Etagenküche, Zimmer-Internet laut Betreiber über RJ45 statt zugesagtem WLAN; verifizierter offizieller Kontakt über Webformular. **Keine neue Nachricht gesendet, nichts gebucht oder bezahlt.** MPK-Anfrage wurde bereits am 15.11. um 06:53 Uhr über Gmail versendet.
+
 # Erasmus+ 2027 – Auslandspraktikum Elektroniker für Betriebstechnik
 
 ## NEU 15.11.2026 – Drei weitere NOCH NICHT angeschriebene Krakau-Unterkünfte mit Privatbad
