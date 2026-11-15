@@ -1,3 +1,18 @@
+## Aktualisierung vom 15.11.2026 – Gmail-Abgleich und vorbereitete Entwürfe
+
+**Neue, gegenüber dem älteren Status wichtigere Erkenntnis:** Im Gmail-Gesendet-Ordner wurde eine **tatsächlich versendete MPK-Kraków-Praktikumsanfrage** an `kadry@mpk.krakow.pl` vom **15.11.2026, 06:53 Uhr (Berlin)** gefunden. Betreff: „Erasmus+ vocational internship enquiry – Electrical Engineering – July 2027“. Nachricht signiert „Mohammad Rahimi“; angefragt sind 3 Wochen Juli 2027, Elektro-/Straßenbahntechnik, B1-Englisch oder Deutsch für Betreuung/Arbeitsschutz und Erasmus-Unterlagen. **Noch keine Antwort oder Zusage festgestellt. Nicht erneut senden; Antwort abwarten.**
+
+**Weiterhin unverändert:** Moon, Cybulskiego, Atlantis, Akacja sind schon kontaktiert; Freedom und Premium wegen maximal 10 Nächten ausgeschlossen. In neuer Gmail-Suche wurden keine weiteren Antworten von den genannten Krakauer Unterkünften seit 14.11.2026 gefunden; die zwei 10-Nächte-Absagen bleiben die einzigen erfassten Antworten.
+
+**Neue Gmail-ENTWÜRFE erstellt – NICHT versendet:**
+- **Tanie Pokoje / Tradycja**, `kontakt@taniepokoje.com.pl`, Betreff „21-night Erasmus+ stay in July 2027 – private single room enquiry“. Fragt nach ensuite-EZ, 21 Julinächten, vollständigem Preis inkl. 10-%-Rabatt, Kochmöglichkeiten, Fotos und Storno. Gmail-Draft-ID `r-2450659294824744397`.
+- **Hostel REST**, `rezerwacja@hostelrest.pl`, Betreff „Erasmus+ accommodation enquiry – Budget single room, 21 nights July 2027“. Fragt nach richtiger Budget-EZ-Kategorie mit eigenem Bad, 21-Nächte-Endpreis und Langzeitrabatt unter ca. 500 €, Küche, Fotos und Storno. Gmail-Draft-ID `r8836308115645113157`.
+- Beide Entwürfe mit dem Namen aus der jüngsten versendeten MPK-Nachricht signiert. **Vor Versand individuell kontrollieren.** Es wurde keine Unterkunft kontaktiert, nichts reserviert oder gezahlt.
+
+**Jetzt beste Reihenfolge:** (1) Tanie-Pokoje-Entwurf prüfen und bei Wunsch versenden; (2) Lukas Guest Rooms nur über verifiziertes Portal kontaktieren (keine ungesicherte E-Mail); (3) Hostel REST nur bei aussichtsreichem Langzeitrabatt; (4) AKF-Sommerhostel über offiziellen Kontaktkanal anfragen; (5) Antworten der bestehenden Hotels und MPK abwarten. Preisobergrenze und eigenes Bad bleiben Musskriterien.
+
+---
+
 # Erasmus+ 2027 – EINSTIEG UND NÄCHSTE SCHRITTE (verifiziert 15.11.2026)
 
 **Dieses Dokument ist der aktuelle operative Überblick und überschreibt ältere Zwischenstandslisten.** Aktuelle persönliche Länderfolge 1 **Polen**, 2 **Slowakei**, 3 **Tschechien**. Polen-Städtecheck: 1 **Krakau (Priorität für aktiven Kontakt)**, 2 **Bielsko-Biała** (bisher gute Privatbadzimmer teurer), 3 **Wrocław/Breslau** (noch kein für Juli 2027 bestätigter 21-Nächte-Privatbadpreis ≤500 €). **Stadt und Land nicht endgültig gebucht**.
