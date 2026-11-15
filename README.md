@@ -1,5 +1,14 @@
 # Erasmus+ 2027 – Auslandspraktikum Elektroniker für Betriebstechnik
 
+## START HIER – Stand 15.11.2026
+
+**[AKTUELLER PROJEKTSTATUS: Alle Entscheidungen, Gmail-Antworten, Absagen und die genauen nächsten Schritte](STATUS-AKTUELL-2026-11-15-Naechste-Schritte.md)**
+
+**Länder:** Polen #1, Slowakei #2, Tschechien #3. **Aktive Stadt Krakau**, weitere Städte Bielsko-Biała und Wrocław als Alternativen. **21 Julinächte 2027, exklusives abschließbares EZ und eigenes WC/Dusche MUSS, Küche geteilt okay, Ziel unter 500 €**.
+
+**NEU aus verifiziertem Gmail 15.11.2026:** Anfrage bereits gesendet an **Moon, Cybulskiego, Atlantis, Akacja, Freedom, Premium**. **Cybulskiego und Atlantis: Namenskorrekturen bereits am 14.11.19:09 geschickt**. **Freedom und Premium: schriftliche Absage wegen maximal 10 aufeinanderfolgenden Nächten**, nicht erneut als 21-Nächte-Anbieter empfehlen. **Noch kein Angebot / Praktikumsplatz / Reservierung bestätigt**. AKF-Sommerhostel-Kontakt und MPK Kraków 3-Wochen-Elektropraktikum sind die nächsten aktiven Prüfungen. **Alle älteren widersprüchlichen Abschnitte dieser README sind als historische Zwischenstände zu verstehen.**
+
+
 **Aktueller Projektstand: 14. November 2026.** Diese README ist ab jetzt die **Einstiegs- und Statusseite**; [die geordnete Länderliste mit allen individuellen Erkenntnissen](EU-Laenderliste-und-Budget-Juli-2027.md) ist das operative Arbeitsdokument. Vor dem 13.11.2026 verfasste 4-Wochen-Pläne und alte Top-3-Rankings sind [historisch archiviert](README-Archiv-12-11-2026.md) und **nicht die geltende Entscheidung**.
 
 ## Krakau: 3 gute Wohn-Alternativen zu Moon mit eigenem Bad (14.11.2026)
