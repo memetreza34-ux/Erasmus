@@ -10,6 +10,10 @@
 
 **KORREKTUR – Stand aus verbundenem Gmail bestätigt:** Nutzer hat am **14.11.2026 bereits AN ALLE VIER** bisherigen Krakauer Erstkontakte gesendet: **Moon Hostel 18:45**, **Cybulskiego 19:06**, **Atlantis 19:06** und **Freedom 19:08 Uhr**. Die früheren Formulierungen in diesen Akten „keine E-Mail gesendet“ waren damalige Momentaufnahmen und sind **inzwischen überholt**. **Cybulskiego und Atlantis enthielten versehentlich `[Your name]` als Abschiedsplatzhalter**; es wurde **noch keine Korrektur versendet**. **AKF, Akacja, Premium noch NICHT angeschrieben**. In künftigen Anfragen echten Namen vor Versand eintragen.
 
+## BESTÄTIGTE ABSAGEN: Freedom + Premium Kraków – maximal 10 aufeinanderfolgende Nächte (14.11.2026)
+
+**[Beide schriftlichen Antworten aus den vom Nutzer bereitgestellten Screenshots](Krakau-Unterkunftsantworten-Freedom-Premium-10-Naechte-Limit-2026-11-14.md)**: **Freedom Hostel**, `freedom@freedomhostel.pl`, Antwort **19:22 Uhr**; **Premium Hostel**, `premium@premiumhostel.pl`, Antwort **19:44 Uhr**. Beide am **14.11.2026**, beide unterzeichnet **Ania, Reception**, beide in **ul. Pomorska 2**. **Beide akzeptieren laut eigener Auskunft keine Reservierungen von mehr als 10 zusammenhängenden Nächten**. Für **21 zusammenhängende Nächte Juli 2027 daher UNGEEIGNET / aus aktiver Auswahl streichen**. Auch ein Aufteilen in 10+10+1 Nächte ist **nicht angeboten/zugesagt**. Keine erneuten Anfragen an diese zwei Anbieter zum selben 21-Nächte-Plan. **Moon, Atlantis, Cybulskiego** sind zuvor bereits angeschrieben, in diesen zwei Screenshots keine Antworten ersichtlich; **Akacja und AKF** sind offen als mögliche 21-Nächte-Kandidaten. Keine neue Nachricht gesendet.
+
 ## Verbindliche Reihenfolge (ersetzt ältere Top-3-Entscheidung)
 
 **1. POLEN – 2. SLOWAKEI – 3. TSCHECHIEN.**
