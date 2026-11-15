@@ -1,3 +1,9 @@
+## NEU 15.11.2026 – Noch kühlere und günstige EU-Länder neben Polen
+
+[**Neue Gegenprüfung: Rumänien/Brașov, Litauen/Kaunas und Lettland/Riga – Juli-Klima, Eurostat-Preisniveau, 21-Nächte-Privatbad-Zimmer und echte Elektropraktikumsansätze**](EU-Alternativen-Polen-Kuehler-Sommer-Budget-2027-11-15.md).
+
+**Wichtig:** Rumänien laut Eurostat im Landesdurchschnitt billiger als Polen, aber Brașov-Sommerzimmer nicht automatisch; **Kaunas und Riga im Landesdurchschnitt teurer als Polen, dafür kühler**. Brașov Ana Maria 120 RON/EZ-Nacht ~471 €/21 Nächte nur Preisindikation, eigener Badbereich laut Zimmerliste, Küche/2027 offen. Kaunas Solo Society echte private Bad+Herd-Zimmereinheit 25 €/Nacht = 525 €/21 Nächte vor Gebühren; Hostel Lux trotz Werbeaussage „private bathroom“ nach Booking **Gemeinschaftsbad**, deshalb für Nutzerkriterium **nicht geeignet bestätigt**. Riga AST bietet reale Elektropraktika für Azubis, aber Sommer-Zimmer mit Privatbad und <=500 € nicht belegt. **Bisherige Länderpriorität Polen–Slowakei–Tschechien unverändert, keine Mails, Buchungen oder Zahlungen.**
+
 ## NEU 15.11.2026 – Slowakei: echte günstige Einzelzimmer/Privatbad-Optionen
 
 [**Aktualisierter Anbieter- und Preisvergleich mit Hliny H3, Tavros, G HOTEL Žilina und Dobré Časy Poprad**](Slowakei-Guentstige-Privatbad-Unterkuenfte-2026-11-15.md). Hliny H3 rechnerisch 357 € + Abgaben/21 Nächte (**Bad-Text auf zwei offiziellen Seiten widersprüchlich: genaues Apartment bestätigen**); Tavros 15 € Mindestwerbung, Preisliste von 2020, 2027-Endpreis offen; Poprad Dobré Časy private Bäder + Gemeinschaftsküche, 21-Nächte-Alleinpreis offen; G HOTEL 619,50 € inkl. publizierter Ortstaxe nach 2026er 15–29-Nächte-Staffel und damit über Budget. Drei zusätzliche **nur vorbereitete, nicht gesendete Gmail-Entwürfe**. **Žilina bleibt erste Unterkunftsprüfstadt, Poprad Natur-Alternative.**
