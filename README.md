@@ -1,3 +1,7 @@
+## NEU 15.11.2026 – Slowakei: echte günstige Einzelzimmer/Privatbad-Optionen
+
+[**Aktualisierter Anbieter- und Preisvergleich mit Hliny H3, Tavros, G HOTEL Žilina und Dobré Časy Poprad**](Slowakei-Guentstige-Privatbad-Unterkuenfte-2026-11-15.md). Hliny H3 rechnerisch 357 € + Abgaben/21 Nächte (**Bad-Text auf zwei offiziellen Seiten widersprüchlich: genaues Apartment bestätigen**); Tavros 15 € Mindestwerbung, Preisliste von 2020, 2027-Endpreis offen; Poprad Dobré Časy private Bäder + Gemeinschaftsküche, 21-Nächte-Alleinpreis offen; G HOTEL 619,50 € inkl. publizierter Ortstaxe nach 2026er 15–29-Nächte-Staffel und damit über Budget. Drei zusätzliche **nur vorbereitete, nicht gesendete Gmail-Entwürfe**. **Žilina bleibt erste Unterkunftsprüfstadt, Poprad Natur-Alternative.**
+
 ## NEU 15.11.2026 – Polen erweitert und Slowakei als Land #2 gestartet
 
 [**Polen: Katowice / Nowy Sącz / Jelenia Góra / Opole im Detail**](Polen-Vertiefung-Katowice-NowySacz-JeleniaGora-Opole-2026-11-15.md) mit öffentlichen Hostelpreisen und Prüfung der echten Privatbad-Kategorien. [**Slowakei: Žilina / Martin / Poprad und weitere technische Städte**](Slowakei-Neucheck-Zilina-Martin-Poprad-2026-11-15.md). Neue, noch **nicht versendete Gmail-Entwürfe** für NEWAG, VW Martin und Žilina-Hliny H3. Verbindliche Reihenfolge bleibt **Polen #1 – Slowakei #2 – Tschechien #3**; keine Buchungen/Praktikumszusagen.
