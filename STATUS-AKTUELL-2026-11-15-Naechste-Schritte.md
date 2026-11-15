@@ -1,3 +1,15 @@
+## Neuer Arbeitsstand – Kontakt-Runde vorbereitet am 15.11.2026
+
+**[Lukas Guest Rooms und Summer Hostel AKF: geprüfte Betreiber-/Plattformquellen, konkrete Kontaktwege, zwei fertig formulierte englische Anfragevorlagen](Krakau-Kontaktrunde-Lukas-AKF-2026-11-15.md).**
+
+- **Tanie Pokoje**: Offizielle Seite bestätigt Einzelzimmer 100–150 PLN/Nacht und **10 % Nachlass bei mehr als 7 Tagen**, eigenes Zimmerbad und Gemeinschaftskochnische; Juli-2027-Preis offen. Bereits vorhandenen Gmail-Entwurf **nicht erneut erzeugen oder als versendet markieren**.
+- **Lukas Guest Rooms**: Booking 8,8/10 (~446 Bewertungen), drei private Zimmer mit eigenem Bad, gut ausgestattete Gemeinschaftsküche. **Direkte Betreiber-E-Mail weiterhin nicht verifiziert**. Kontakt über [Noclegowo](https://www.noclegowo.pl/krakow/91923-lukas-guest-rooms/) „Napisz wiadomość“ oder [Booking](https://www.booking.com/hotel/pl/antony-apart-lokal-2-krakow.html). Sofort nutzbarer Nachrichtentext im neuen Dokument. **Nicht versendet.**
+- **Summer Hostel AKF**: [Offizielle 2026-Preisliste](https://hostel.akf.krakow.pl/index.php/cennik) **110 PLN/Nacht für Einzelzimmer bei 15+ Nächten**, 21 Nächte = **2.310 PLN nur Referenz**. [Jedes Zimmer hat privates Bad](https://hostel.akf.krakow.pl/index.php/pokoje); Kochnische auf jeder Etage, **Internet laut Zimmerseite über RJ45-Kabel, WLAN im Zimmer prüfen**. [Offizielles Kontaktformular](https://hostel.akf.krakow.pl/index.php/kontakt); Nachrichtentext im Dokument. **Nicht versendet.**
+- **Gmail-Abgleich am 15.11. nach Entwurfserstellung**: Keine neue Mail an Tanie Pokoje oder REST als versendet gefunden, keine neue Unterkunftsantwort im relevanten Suchverlauf; **MPK Kraków bereits 15.11. 06:53 gesendet** und noch ohne bestätigte Antwort.
+- **Nächste Handlung:** vorliegende Texte über gewünschte Kontaktkanäle abschicken bzw. freigeben. **Keine Buchung, kein Geldtransfer und kein neuer Nachrichtenversand erfolgte bei dieser Vorbereitung.**
+
+---
+
 ## Aktualisierung vom 15.11.2026 – Gmail-Abgleich und vorbereitete Entwürfe
 
 **Neue, gegenüber dem älteren Status wichtigere Erkenntnis:** Im Gmail-Gesendet-Ordner wurde eine **tatsächlich versendete MPK-Kraków-Praktikumsanfrage** an `kadry@mpk.krakow.pl` vom **15.11.2026, 06:53 Uhr (Berlin)** gefunden. Betreff: „Erasmus+ vocational internship enquiry – Electrical Engineering – July 2027“. Nachricht signiert „Mohammad Rahimi“; angefragt sind 3 Wochen Juli 2027, Elektro-/Straßenbahntechnik, B1-Englisch oder Deutsch für Betreuung/Arbeitsschutz und Erasmus-Unterlagen. **Noch keine Antwort oder Zusage festgestellt. Nicht erneut senden; Antwort abwarten.**
