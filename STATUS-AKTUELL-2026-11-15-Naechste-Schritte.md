@@ -1,3 +1,15 @@
+## Versand-Update – 15.11.2026 (nach der Kontaktvorbereitung)
+
+**Gmail-Versand erfolgreich bestätigt – nicht erneut anschreiben:**
+- **Tanie Pokoje / Tradycja**, `kontakt@taniepokoje.com.pl`, Betreff „21-night Erasmus+ stay in July 2027 – private single room enquiry“. Gmail-Nachrichten-ID `1a1df53e9f83b222`, Thread `1a1ddfc58f7c5c55`, Label `SENT`.
+- **Hostel REST**, `rezerwacja@hostelrest.pl`, Betreff „Erasmus+ accommodation enquiry – Budget single room, 21 nights July 2027“. Gmail-Nachrichten-ID `1a1df53ef1a5f6f1`, Thread `1a1ddfc5f19812ab`, Label `SENT`.
+
+**Stand:** Beide zuvor vorbereiteten Entwürfe wurden gesendet. Ältere Textstellen, die diese Nachrichten als „Entwurf, nicht gesendet“ bezeichnen, sind dadurch überholt. **Noch keine Antwort oder bestätigter Juli-2027-Preis**, keine Buchung, keine Zahlung.
+
+**Nächstes:** Rückmeldungen abwarten; Lukas Guest Rooms und AKF nur über geprüfte Buchungs-/Kontaktformulare anfragen. Das gesendete MPK-Praktikumsanschreiben ebenfalls nicht duplizieren.
+
+---
+
 ## Neuer Arbeitsstand – Kontakt-Runde vorbereitet am 15.11.2026
 
 **[Lukas Guest Rooms und Summer Hostel AKF: geprüfte Betreiber-/Plattformquellen, konkrete Kontaktwege, zwei fertig formulierte englische Anfragevorlagen](Krakau-Kontaktrunde-Lukas-AKF-2026-11-15.md).**
