@@ -10,6 +10,17 @@
 - **Unterkunftspreis** bevorzugt **300–450 €, maximal ungefähr 500 € für alle 21 Nächte** (ohne erfundene Erasmus-Förderzusage). Eigenes Gesamtbudget, Essens- und Ausflugskosten separat. **Eine 85/99 PLN „ab“-Werberate ist keine bestätigte Juli-2027-Rate.**
 - **Noch keine verbindliche 2027er Praktikumszusage, Unterkunftsverfügbarkeit, Schul-Förderzusage oder Buchung.**
 
+## NEU 15.11.2026 – Drei weitere NOCH NICHT angeschriebene Krakau-Unterkünfte mit Privatbad
+
+[**Neue Unterkunftssuche: Długa 43, Lukas Guest Rooms und Hostel REST – Kontakte, Quellen, Privatbad und 21-Nächte-Preiskontrolle**](Krakau-weitere-noch-nicht-kontaktierte-Unterkuenfte-Privatbad-Juli-2027.md).
+
+- **1. Tanie Pokoje / Tradycja**, **Długa 43/8**, `kontakt@taniepokoje.com.pl`: offizielle **100–150 PLN pro ganzem Einzelzimmer/Nacht**, **10 % Rabatt ab über 7 Nächten** → **21 Nächte rechnerisch 1.890–2.835 PLN (~440–659 €)**, **eigene Dusche/WC und gemeinsame Kochnische**, nahe Innenstadt/Bahnhof; **3. Etage ohne Aufzug**, kleine unabhängige Bewertungsstichprobe. **Bester neuer Preis-/Lagekandidat**, Juli-2027-Endpreis offen.
+- **2. Lukas Guest Rooms**, **Słowiańska 2**, **3 Zimmer mit eigenem Bad und gut ausgestatteter Gemeinschaftsküche/Waschmaschine**, **Booking ca. 8,8/10**, jedoch **kein verifizierter exklusiver Juli-2027-/21-Nächte-Preis**. Kontakt nur über Booking/Noclegowo, keine sichere direkte Betreibermail gefunden.
+- **3. Hostel REST**, `rezerwacja@hostelrest.pl`, **Sołtysowska 37a**, Betreiber **Budget-EZ ab 120 PLN/Nacht** → **21 Nächte ~586 €** vor Sondernachlass; jedes Zimmer eigenes Bad, Gemeinschaftsküche, **Booking ~8,1/10**, ca. 8 km vom Zentrum. **Altes Drittportal mit 80 PLN widerspricht aktuellem offiziellen 120-PLN-Preis – nicht die alten 80 PLN als geltend darstellen.**
+- **Nicht als privatbadgeeignet bestätigt:** **Cichy Kącik**, offizielle 80 PLN/Nacht für EZ mit Küchenzugang, **privates Badezimmer für genau diese Kategorie fehlt als Nachweis** – nur Nachfrage-/Reserveziel.
+
+**Gmail am 15.11.:** Keine gesendeten Mails an Długa 43, Hostel REST, Cichy Kącik oder namentlich Lukas Guest Rooms gefunden. **Moon, Cybulskiego, Atlantis und Akacja schon angeschrieben**; **Freedom und Premium wegen offizieller 10-Nächte-Obergrenze ausgeschlossen**. **Keine neue E-Mail, Buchung oder Zahlung durchgeführt**.
+
 ## E-Mail-Status – tatsächlich im verbundenen Gmail verifiziert am 15.11.2026
 
 | Anbieter | An/Adresse | Versand | Ergebnis bis zur Postfachprüfung am 15.11.2026 | Aktion |
