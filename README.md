@@ -1,3 +1,7 @@
+## NEU 15.11.2026 – neuer Gesamtfavorit Trutnov (Tschechien)
+
+[**Neuer EU-Vergleich: Trutnov, Ružomberok und Smolyan mit Privatbad-Unterkünften, Sommerkühlung und Elektrotechnik-Praktikumsbetrieben**](EU-Neufund-Trutnov-Ruzomberok-Smolyan-Gabrovo-Juli2027.md). **Trutnov**: Horal **B1-Apartment mit eigenem Bad und Küchenzeile**, publizierter Einzelbelegungstarif **450 CZK/Nacht**, 21 Nächte rechnerisch **9.450 CZK (~387 €)**, **kein bestätigter 2027er Tarif**; B2-Zimmer mit Gemeinschaftsbad explizit ausgeschlossen. **Siemens Trutnov** bietet belegte Praxis mit örtlicher Elektrotechnik-Berufsschule, externer deutscher 3-Wochen-Erasmus-Azubi weiterhin ungeklärt. Juli mittleres Tagesmaximum ~22 °C. Weitere Optionen Ružomberok/Mondi SCP (sehr gute Schülerpraxis, teure sichere Solo-Unterkunft) und Smolyan/KOSTAL (kühler Bergort, Praktikum unsicher). **Zwei neue Gmail-Entwürfe für Horal Trutnov und Siemens P&O erstellt, NICHT versendet.** Aktuelle Nutzer-Länderfolge Polen–Slowakei–Tschechien nicht stillschweigend überschrieben.
+
 ## NEU 15.11.2026 – Noch kühlere und günstige EU-Länder neben Polen
 
 [**Neue Gegenprüfung: Rumänien/Brașov, Litauen/Kaunas und Lettland/Riga – Juli-Klima, Eurostat-Preisniveau, 21-Nächte-Privatbad-Zimmer und echte Elektropraktikumsansätze**](EU-Alternativen-Polen-Kuehler-Sommer-Budget-2027-11-15.md).
