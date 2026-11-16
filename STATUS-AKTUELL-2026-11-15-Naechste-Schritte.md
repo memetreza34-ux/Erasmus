@@ -1,3 +1,28 @@
+## WICHTIG – Gmail-Antwortprüfung vom 16.11.2026 (maßgeblich gegenüber älteren „Entwurf“-Abschnitten)
+
+**Siemens Trutnov – ABGESAGT für drei Wochen im Juli 2027.** Am 16.11. antwortete HR Diana Pospíšilová erst auf Deutsch, sie werde Möglichkeiten prüfen (05:54 UTC), anschließend endgültige Absage am 16.11. um 10:34 UTC: Sommerurlaub und zu wenig Personal, um einen fachlichen Mentor/Aufsicht bereitzustellen. Gmail: https://mail.google.com/mail/u/?authuser=memetreza34%40gmail.com#all/1a1e3ecafff55dca . **Trutnov für Sommer 2027 nicht mehr als bestätigten Siemens-Praxisfavoriten führen; Horal-Unterkunft allein reicht nicht.** Bitte nicht mit veralteter positiver Vorprüfung verwechseln.
+
+**G HOTEL Žilina – konkretes Preisangebot, aber über 500€:** Antwort vom 15.11. um 19:32 UTC, https://mail.google.com/mail/u/?authuser=memetreza34%40gmail.com#all/1a1e0b2bfed05598 . Laut Hotel im Juli 2027 Einzelzimmer vorhanden, **21 Nächte 619,50 € inkl. 2,50€/Tag Ortstaxe** bei 27€/Nacht. Exklusives Badezimmer für Standard-Single, vollständig nutzbare Gemeinschaftsküche, kostenloses WLAN, Waschen 5€. **Keine 3-Wochen-Monatsmiete**. **80% des Zimmerpreises bis zum Anreisetag im Voraus**, 20% nach Abreise; Stornobedingungen laut E-Mail-Anhang (noch nicht geprüft). Nicht buchen und nicht zahlen.
+
+**Volkswagen Slovakia Martin – E-Mailversand fehlgeschlagen:** an `ivana.malejcikova@volkswagen.sk` gesendet 15.11., Postfachfehler 550 `mailbox unavailable`, https://mail.google.com/mail/u/?authuser=memetreza34%40gmail.com#all/1a1e03b30e7f8b6a . **KEINE erfolgreiche Kontaktaufnahme**, verifizierten neuen offiziellen HR-Kanal suchen.
+
+**WICHTIGE KORREKTUR ZU DEN ABSCHNITTEN „ENTWURF NICHT GESENDET“ vom 15.11.: Gmail-Sent-Prüfung vom 16.11. bestätigt tatsächlichen Versand 15.11. ca. 18:21–18:22 Uhr Berliner Zeit:**
+- **Horal Trutnov** `horal.trutnov@seznam.cz` – GESENDET, Antwort weiterhin offen.
+- **Siemens Trutnov** `diana.pospisilova@siemens.com` – GESENDET; definitive ABSAGE.
+- **Tavros Žilina** `recepcia@ubytovnatavros.sk` – GESENDET; Antwort offen.
+- **G HOTEL Žilina** `recepcia.g-hotelza@dpsre.sk` – GESENDET; PREISANGEBOT 619,50€.
+- **Dobré Časy Poprad** `booking@penziondobrecasy.sk` – GESENDET; Antwort offen.
+- **Hliny H3 Žilina** `recepcia-3@uniza.sk` – GESENDET; Antwort offen.
+- **NEWAG Nowy Sącz** `praktyki@newag.pl` – GESENDET; Antwort offen.
+- **VW Slovakia Martin** `ivana.malejcikova@volkswagen.sk` – VERSAND VERSUCHT, NICHT ZUGESTELLT.
+**Keine Doppelanfragen wegen älterer falsch beschrifteter Entwürfe.**
+
+**Schulhinweis:** OSZ TIEM/Frau Gottschalk schrieb am 13.11.2026, mehrere Erasmus+-Aufenthalte grundsätzlich möglich, **wenn Ausbildungsbetrieb zustimmt; insgesamt darf nur eine Woche Berufsschule ausfallen**. Separate Förder-/Terminzusage nicht erteilt. Gmail https://mail.google.com/mail/u/?authuser=memetreza34%40gmail.com#all/1a1d4f0c03c1686a .
+
+**Stand 16.11.2026:** Mehrere Unterkunftsantworten noch offen; kein bestätigter passender 3-Wochen-Elektro-Praktikumsplatz; keine bestätigte Unterkunft im Budget; keine Buchung, Zahlung oder neue E-Mail in dieser Prüfphase.
+
+---
+
 ## NEU 15.11.2026 – Irland / Limerick gründlich neu geprüft
 
 [**Irland-Deep-Dive: Groody und Courtyard Single-Ensuite-Wohnmöglichkeiten, RALF, Language Xchange Ireland Electrical (Trade), B1-Englisch, Klima, Reise- und Gesamtbudget**](Irland-DeepDive-Limerick-Unterkunft-Elektropraktikum-2026-11-15.md). **Groody** 2026 Sommerpreis **ab 140€/Woche (420€/21 Nächte rechnerisch)**, genaue **6-bedroom duplex-Ensuite-Kategorie/2027-Preis** und externe Berufsschülerzulassung offen. **Courtyard** ältere Sommerwerbung ab **95€/Woche**, genauer 2027er **single ensuite** Preis offen, **nicht 285€ als bestätigte Sommer-En-suite-Buchung ausgeben**. **Language Xchange Ireland** bietet ausdrücklich **Electrical (Trade) bei 2–4-Wochen-Work-Placements und Einzelteilnehmern per Open Groups**; Voraussetzung zwei Jahre fachliche Ausbildung oder sechs Monate einschlägige Berufspraxis; Gastfamilien haben keine garantierte exklusive Dusche/WC, Servicegebühren offen. **RALF Partnership** nimmt nachweislich deutsche Erasmus-Teilnehmende in Limerick auf (2026; Stadt Lingen); drei Wochen + Elektrofachplatz noch offen. **Shannon Klimanormal Juli Tmax 19,5°C**, aber Irland meist teurer in Essen/Anreise. Keine Mails oder Buchungen geschickt. **Drei nicht gesendete Gmail-Entwürfe** für Courtyard, RALF und LXI.
