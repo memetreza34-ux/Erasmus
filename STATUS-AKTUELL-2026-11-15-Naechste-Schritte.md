@@ -1,3 +1,36 @@
+# Konkreter Erasmus+-Umsetzungsplan – 16. November 2026
+
+**Neue Priorität: nicht mehr endlos Städte suchen, sondern Praktikumsplatz + Zustimmung + Finanzierung sichern.** Die bisherigen Standort- und Preisanalysen bleiben als Referenz erhalten. Keine Buchung, kein Geldversand, keine Zusage.
+
+## Terminrahmen: Berliner Sommerferien 2027
+
+**Offizielle Ferien 1. Juli – 14. August 2027**: https://www.berlin.de/sen/bjf/service/kalender/ferien/termine/ . **Vorgeschlagen 3.–24. Juli 2027 = 21 Nächte** mit regulären Praxiswochen **Mo. 5.–Fr. 23. Juli**; Alternative **10.–31. Juli** (Praxis 12.–30. Juli). Beide vollständig während der Berliner Sommerferien; genaue OSZ-TIEM-Ferien- und Betriebstermine sowie Zustimmung erforderlich. Die Schulantwort vom 13. November 2026 lässt maximal eine Unterrichtswoche ausfallen; mit Ferienzeiten könnte der Schulunterrichtsausfall null sein. **Schulferien sind nicht automatisch arbeitsfrei für Azubis; betrieblich freistellen und genehmigen lassen.**
+
+## Nächste Schritte, in richtiger Reihenfolge
+
+1. **Nutzer – sofort mit Ausbildungsbetrieb und OSZ TIEM abstimmen:** schriftliche Zustimmung zu genau drei Wochen **Auslandspraktikum im Juli 2027**, welche der beiden Zeitfenster und ob betriebliche Freistellung/Arbeitszeit, Versicherung, organisatorische Pflichten / Ansprechpartner genehmigt sind; bestätigte individuelle Erasmus+-Förderfähigkeit, Förderbetrag, Auszahlung, Antragsfrist, Learning Agreement, Reisetage, Anerkennung/Berichtsheft. Nicht einfach unterstellen, die gesendete allgemeine Lehrer-E-Mail sei die formelle Erasmus- oder Betriebsgenehmigung. Offizielle EU-Erklärung: https://erasmus-plus.ec.europa.eu/opportunities/individuals/trainees/vocational-education-learners-apprenticeships-and-recent-graduates
+2. **Höchstens drei aktive Standortstrecken:** **Polen** (Krakau MPK; Nowy Sącz NEWAG; beide seit 15.11. angeschrieben), **Slowakei Žilina** (Kia `vzdelavanie@kia.sk` und ELMAX `elmax@elmaxzilina.sk` noch nicht angeschrieben; mit genauem Juli-Termin, externem deutschen Azubi und B1/Deutsch-Arbeitsschutz anfragen), **Irland Limerick** (RALF Partnership `info@ralfpartnership.com` und Language Xchange Ireland `training@confurey.ie` Entwürfe bestehen, noch nicht gesendet; Leistung, 3-Wochen-Elektropraktikum, Kosten und Englisch B1 klären). Trutnov **Siemens 16.11. endgültig abgesagt** → nicht mehr aktiver Firmenkandidat. Belgien/Spanien/Portugal etc. nur als Reserve, wenn diese scheitern.
+3. **Antwortmanagement:** Bereits kontaktierte MPK, NEWAG, Hliny H3, Tavros, Dobré Časy, SUM Katowice, polnische Krakau-Unterkünfte etc. nicht duplizieren. Bei bis **23.–25. November 2026** ausbleibender Reaktion einmal höflich nachfassen; keine automatische Überwachung eingerichtet. Eingehende Antworten neu prüfen.
+4. **Praktikumszusage vor Buchung:** **mindestens ein** echter Host-Betrieb bestätigt 3 Wochen 2027, genaues Arbeitsfeld Elektrotechnik/Instandhaltung/Automation, fachlichen Mentor, **verständlich deutsche oder B1-englische elektrische Sicherheitsbelehrung**, Arbeitszeiten/Urlaubstage und die Erasmus-Learning-Agreement-Unterschrift. Sonst keine Zielortzusage.
+5. **Dann Unterkunft am feststehenden Arbeitsort:** 21 zusammenhängende Nächte im Juli 2027; allein genutztes, abschließbares Schlafzimmer + **exklusive eigene Dusche/WC**, Kochmöglichkeiten, Weg zum Betrieb, 21-Nächte-Endbetrag einschließlich aller Gebühren ideal **300–450€, möglichst max. 500€**. Bei Irland exakte Ensuite-Kategorie im Sommerangebot nachweisen. Hotels/Studentenunterkunft auf Berechtigung für **externen Berufsschüler** prüfen. Erst nach Schul-, Betriebs-, Förder- und Stornoklärung buchen.
+6. **Finanzierung und Reisedokumente:** Individuell verfügbarer Erasmus-Zuschuss *schriftlich* von Schule ermitteln, nicht Organisationspauschale einplanen; Flug/Bahn/Bus, örtlicher ÖPNV, Verpflegung, Kaution, Versicherungen, ggf. Vermittlergebühr und Freizeit separat gegenrechnen. **Irland gehört zur EU, aber nicht zum Schengenraum**: Ausweisdokumente und Einreisevoraussetzungen abhängig von Staatsangehörigkeit/Aufenthaltsstatus offiziell prüfen: https://www.irishimmigration.ie/ .
+7. **Nach zwei echten Optionen wählen:** gewichten **Zusage (Pflicht) > Sicherheit/Betreuung (Pflicht) > Privatbad-Solozimmer ≤500€ (Pflicht) > Gesamtbudget/Anreise > Wetter/Freizeit**. Diese Abfolge verhindert scheinbar günstige Orte ohne Einsatzbetrieb.
+
+## Arbeitsteilung
+
+- **Nutzer:** vor allem Betrieb und OSZ TIEM schriftlich um Freigabe, tatsächlichen Erasmus-Zuschuss und den 3-Wochen-Zeitraum bitten; eventuelle Firmen-/Schuldokumente beibringen.
+- **ChatGPT/Gmail/GitHub:** Kontaktvorschläge und deutsch/englische Anfragen, Entwürfe, auf Wunsch Versand; tatsächlich eintreffende Antworten auswerten, Doppelversand vermeiden; Unterkunftsangebote gegen harte Bad-/Preisbedingungen prüfen; GitHub-Status aktuell halten. **Kein Versand ohne Versandauftrag, keine Hintergrundüberwachung.**
+
+## Nur auf Basis verifizierter Eingänge
+
+- **Siemens Trutnov: Absage vom 16.11.2026** wegen begrenzter Betreuung in Sommerferien.
+- **G HOTEL Žilina: 619,50€/21 Nächte, privates Bad/Küche, über Zimmerziel**.
+- **VW Slovakia Martin:** Adresse `ivana.malejcikova@volkswagen.sk` hat 550 Mailbox-Fehler.
+- **MPK, NEWAG und übrige Unterkunftsantworten:** zum letzten Gmail-Check vom 16.11.2026 weiterhin ausstehend.
+- **Keine formelle Ausbildungsbetriebs-, Schul-, Host- oder Förderzusage und keine reservierte Unterkunft.**
+
+---
+
 ## WICHTIG – Gmail-Antwortprüfung vom 16.11.2026 (maßgeblich gegenüber älteren „Entwurf“-Abschnitten)
 
 **Siemens Trutnov – ABGESAGT für drei Wochen im Juli 2027.** Am 16.11. antwortete HR Diana Pospíšilová erst auf Deutsch, sie werde Möglichkeiten prüfen (05:54 UTC), anschließend endgültige Absage am 16.11. um 10:34 UTC: Sommerurlaub und zu wenig Personal, um einen fachlichen Mentor/Aufsicht bereitzustellen. Gmail: https://mail.google.com/mail/u/?authuser=memetreza34%40gmail.com#all/1a1e3ecafff55dca . **Trutnov für Sommer 2027 nicht mehr als bestätigten Siemens-Praxisfavoriten führen; Horal-Unterkunft allein reicht nicht.** Bitte nicht mit veralteter positiver Vorprüfung verwechseln.
