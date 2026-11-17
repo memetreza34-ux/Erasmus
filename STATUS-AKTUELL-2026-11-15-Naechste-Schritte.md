@@ -1,3 +1,13 @@
+# Wichtige neue Vorgabe – 17. November 2026: keine privaten Vermittlungsgebühren
+
+Der Nutzer organisiert das Erasmus+-Praktikum **über seine Berufsschule (OSZ TIEM)** und möchte **0 € Vermittlungs-/Agenturkosten aus eigener Tasche zahlen**. Die Schule muss Förderfähigkeit, Erasmus+-Projektverwaltung, eventuelle Kostenübernahmen und förderfähige Betriebe schriftlich klären; **kostenlose Durchführung, Zuschusshöhe und vollständige Kostendeckung sind noch nicht von der Schule bestätigt**.
+
+**Ab sofort für neue Suchen:** Betriebe direkt ansprechen oder von der Schule vermittelte/eigene Erasmus+-Partner nutzen. Kostenpflichtige Vermittlungsangebote **nur dann wieder betrachten, wenn die Schule sämtliche Vermittlungskosten übernimmt und der Nutzer explizit zustimmt**. Erasmus Kraków (€400 reine Vermittlung), LXI Irland (ca. €1.655 dreiwöchiges Komplettpaket im Sommer) und IBD/RALF (ca. €1.600 Komplettpaket) sind deshalb **keine aktuellen Eigenzahlungsoptionen**. Diese Paketpreise dürfen nicht mit einem reinen Wohnbudget gleichgesetzt werden. Aktive direkte Anfragen: MPK Krakau, NEWAG Nowy Sącz, Kia Slovakia Žilina und ELMAX Žilina (bisher noch keine Host-Zusage). Siemens Trutnov hat Juli 2027 abgesagt; VW Martin verwendete eine unzustellbare E-Mail-Adresse.
+
+**Sonstige Musskriterien:** genau drei Praktikumswochen / 21 Nächte innerhalb 01.07.–14.08.2027, **max. 600 € Unterkunft all-in** als Budgetobergrenze, allein genutztes verschließbares Zimmer mit **exklusivem** Bad/WC und möglichst Küche; echte betreute Elektro-/Automation-/Instandhaltungsarbeit mit verständlicher deutscher oder ca. B1-englischer Sicherheitseinweisung. Keine Buchungen/Zahlungen, bis betriebliche und schulische Zusagen vorliegen.
+
+---
+
 # Konkreter Erasmus+-Umsetzungsplan – 16. November 2026
 
 **Neue Priorität: nicht mehr endlos Städte suchen, sondern Praktikumsplatz + Zustimmung + Finanzierung sichern.** Die bisherigen Standort- und Preisanalysen bleiben als Referenz erhalten. Keine Buchung, kein Geldversand, keine Zusage.
