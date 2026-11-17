@@ -83,3 +83,8 @@
 5. **Keine Zahlung, keine Anmeldung** bei LXI oder anderer Organisation aufgrund unverbindlicher Informationen.
 
 **Dieser Status ersetzt ältere Hinweise im Repository, die Teide Living, ULL, Liepu, Hotel Tropical oder die Vermittler noch als unbeantwortet führen.**
+
+
+### Nachtrag – Stornodokument G HOTEL Žilina geprüft
+
+Im beigefügten einseitigen PDF sind widersprüchlich wirkende Staffeln enthalten: Der Fließtext nennt bei Stornierung von mehr als 20% der Buchung **30% (11–15 Tage), 50% (7–10 Tage), 70% (1–6 Tage), 100% (am Anreisetag bzw. nach 16 Uhr am Vortag)**. Die separate Kurzübersicht nennt jedoch **20% bei bis zu 14 Tagen, 50% bis zu 7 Tagen und 100% innerhalb von 24h**. Unklar, welche Regel bei einer **Einzelzimmerbuchung vollständig** Anwendung findet; schriftliche verbindliche Klarstellung vor eventueller Buchung einholen. Quelle: E-Mail-Anhang `Cancellation Policy.pdf` der G-Hotel-Antwort vom 15.11.2026.
